@@ -1,58 +1,56 @@
-import requests
+#!/usr/bin/env python3
+import os
 import json
-from datetime import datetime, timezone
+import requests
+from datetime import datetime
 
-API_KEY = os.environ["STORMGLASS_API_KEY"]
+# --- API Key (vai ser passada como GitHub Secret) ---
+API_KEY = os.getenv("STORMGLASS_API_KEY")
+if not API_KEY:
+    raise RuntimeError("ERRO: Defina a variável de ambiente STORMGLASS_API_KEY")
 
-LAT = 38.969
-LNG = -9.420
+# --- Local do JSON final ---
+OUTPUT_FILE = "docs/forecast.json"
 
-PARAMS = ",".join([
+# --- Coordenadas da Ericeira ---
+LAT, LNG = 38.969, -9.420
+
+# --- Parâmetros a buscar ---
+PARAMS = [
     "windSpeed",
     "windDirection",
     "waveHeight",
     "wavePeriod",
     "waveDirection",
     "airTemperature",
-    "waterTemperature"
-])
+    "waterTemperature",
+    "cloudCover",
+    "precipitation"
+]
 
-URL = (
-    f"https://api.stormglass.io/v2/weather/point"
-    f"?lat={LAT}&lng={LNG}&params={PARAMS}"
-)
+# --- URL StormGlass ---
+url = f"https://api.stormglass.io/v2/weather/point?lat={LAT}&lng={LNG}&params={','.join(PARAMS)}"
 
 headers = {
     "Authorization": API_KEY
 }
 
-print("🌊 Fetch Stormglass...")
-r = requests.get(URL, headers=headers)
-r.raise_for_status()
+# --- Fazer fetch ---
+print("🔹 A buscar dados StormGlass...")
+response = requests.get(url, headers=headers, timeout=20)
+response.raise_for_status()  # falha se status != 200
+data = response.json()
 
-data = r.json()
-
-forecast = {
-    "meta": {
-        "source": "stormglass",
-        "generated_at": datetime.now(timezone.utc).isoformat()
-    },
-    "hours": []
+# --- Criar estrutura final com timestamp ---
+output = {
+    "generated_at": datetime.utcnow().isoformat() + "Z",
+    "location": {"lat": LAT, "lng": LNG},
+    "data": data.get("hours", [])
 }
 
-for h in data["hours"][:72]:  # 3 dias
-    forecast["hours"].append({
-        "time": h["time"],
-        "windSpeed": h["windSpeed"]["sg"],
-        "windDirection": h["windDirection"]["sg"],
-        "waveHeight": h["waveHeight"]["sg"],
-        "wavePeriod": h["wavePeriod"]["sg"],
-        "waveDirection": h["waveDirection"]["sg"],
-        "airTemperature": h["airTemperature"]["sg"],
-        "waterTemperature": h["waterTemperature"]["sg"]
-    })
+# --- Escrever no ficheiro docs/forecast.json ---
+os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    json.dump(output, f, indent=2)
 
-with open("public/forecast.json", "w") as f:
-    json.dump(forecast, f, indent=2)
-
-print("✅ forecast.json atualizado")
+print(f"✅ forecast.json atualizado em {OUTPUT_FILE}")
