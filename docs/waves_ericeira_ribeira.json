@@ -1,0 +1,146 @@
+[
+  {
+    "time": "2026-01-31T03:00:00",
+    "swellDirection1": 288.78,
+    "swellHight1": 4.55,
+    "swellPeriod1": 11.15,
+    "swellDirection2": 316.81,
+    "swellHight2": 3.0,
+    "swellPeriod2": 10.6
+  },
+  {
+    "time": "2026-01-31T06:00:00",
+    "swellDirection1": 300.82,
+    "swellHight1": 5.37,
+    "swellPeriod1": 10.86,
+    "swellDirection2": 202.65,
+    "swellHight2": 0.03,
+    "swellPeriod2": 14.76
+  },
+  {
+    "time": "2026-01-31T09:00:00",
+    "swellDirection1": 302.48,
+    "swellHight1": 5.22,
+    "swellPeriod1": 10.91,
+    "swellDirection2": 202.66,
+    "swellHight2": 0.03,
+    "swellPeriod2": 14.36
+  },
+  {
+    "time": "2026-01-31T12:00:00",
+    "swellDirection1": 302.93,
+    "swellHight1": 5.0,
+    "swellPeriod1": 10.86,
+    "swellDirection2": 205.14,
+    "swellHight2": 0.04,
+    "swellPeriod2": 14.44
+  },
+  {
+    "time": "2026-01-31T15:00:00",
+    "swellDirection1": 302.64,
+    "swellHight1": 4.74,
+    "swellPeriod1": 10.82,
+    "swellDirection2": 204.77,
+    "swellHight2": 0.03,
+    "swellPeriod2": 12.86
+  },
+  {
+    "time": "2026-01-31T18:00:00",
+    "swellDirection1": 302.63,
+    "swellHight1": 4.51,
+    "swellPeriod1": 10.85,
+    "swellDirection2": 202.65,
+    "swellHight2": 0.03,
+    "swellPeriod2": 11.94
+  },
+  {
+    "time": "2026-01-31T21:00:00",
+    "swellDirection1": 302.65,
+    "swellHight1": 4.25,
+    "swellPeriod1": 10.88,
+    "swellDirection2": 202.66,
+    "swellHight2": 0.03,
+    "swellPeriod2": 11.87
+  },
+  {
+    "time": "2026-02-01T00:00:00",
+    "swellDirection1": 302.41,
+    "swellHight1": 3.92,
+    "swellPeriod1": 10.86,
+    "swellDirection2": 207.58,
+    "swellHight2": 0.03,
+    "swellPeriod2": 16.35
+  },
+  {
+    "time": "2026-02-01T03:00:00",
+    "swellDirection1": 300.19,
+    "swellHight1": 3.69,
+    "swellPeriod1": 10.6,
+    "swellDirection2": 200.61,
+    "swellHight2": 0.12,
+    "swellPeriod2": 4.57
+  },
+  {
+    "time": "2026-02-01T06:00:00",
+    "swellDirection1": 298.04,
+    "swellHight1": 3.52,
+    "swellPeriod1": 10.23,
+    "swellDirection2": 208.56,
+    "swellHight2": 0.08,
+    "swellPeriod2": 13.89
+  },
+  {
+    "time": "2026-02-01T09:00:00",
+    "swellDirection1": 295.75,
+    "swellHight1": 3.34,
+    "swellPeriod1": 9.83,
+    "swellDirection2": 207.65,
+    "swellHight2": 0.04,
+    "swellPeriod2": 15.41
+  },
+  {
+    "time": "2026-02-01T12:00:00",
+    "swellDirection1": 294.95,
+    "swellHight1": 3.11,
+    "swellPeriod1": 9.64,
+    "swellDirection2": 205.65,
+    "swellHight2": 0.05,
+    "swellPeriod2": 13.2
+  },
+  {
+    "time": "2026-02-01T15:00:00",
+    "swellDirection1": 292.88,
+    "swellHight1": 2.96,
+    "swellPeriod1": 9.39,
+    "swellDirection2": 207.7,
+    "swellHight2": 0.07,
+    "swellPeriod2": 13.34
+  },
+  {
+    "time": "2026-02-01T18:00:00",
+    "swellDirection1": 291.6,
+    "swellHight1": 2.87,
+    "swellPeriod1": 9.32,
+    "swellDirection2": 206.81,
+    "swellHight2": 0.06,
+    "swellPeriod2": 12.47
+  },
+  {
+    "time": "2026-02-01T21:00:00",
+    "swellDirection1": 291.37,
+    "swellHight1": 2.64,
+    "swellPeriod1": 9.27,
+    "swellDirection2": 304.95,
+    "swellHight2": 0.85,
+    "swellPeriod2": 15.7
+  },
+  {
+    "time": "2026-02-02T00:00:00",
+    "swellDirection1": 301.51,
+    "swellHight1": 1.77,
+    "swellPeriod1": 9.89,
+    "swellDirection2": 302.91,
+    "swellHight2": 1.59,
+    "swellPeriod2": 13.92
+  }
+]
