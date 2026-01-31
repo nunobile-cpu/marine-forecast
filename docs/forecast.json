@@ -1,7 +1,7 @@
 [
   {
     "time": "2026-01-31T03:00:00",
-    "swellDirection1": 288.78,
+    "waveDirection": 288.78,
     "swellHight1": 4.55,
     "swellPeriod1": 11.15,
     "swellDirection2": 316.81,
