@@ -1,1 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <title>Marine Forecast – SurfTheBlue</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Performance -->
+  <meta http-equiv="Cache-Control" content="max-age=3600" />
+  <meta name="description" content="Previsão marítima baseada em dados Stormglass e Copernicus" />
+
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #0b1d2a;
+      color: #e6eef5;
+      margin: 0;
+      padding: 1.5rem;
+    }
+
+    h1 {
+      font-size: 1.4rem;
+      margin-bottom: 0.2rem;
+    }
+
+    .updated {
+      font-size: 0.85rem;
+      opacity: 0.7;
+      margin-bottom: 1.5rem;
+    }
+
+    .card {
+      background: #13293d;
+      border-radius: 8px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .row {
+      display: flex;
+      justify-content: space-between;
+      margin: 0.4rem 0;
+    }
+
+    .label {
+      opacity: 0.8;
+    }
+
+    .value {
+      font-weight: 600;
+    }
+
+    .loading,
+    .error {
+      text-align: center;
+      opacity: 0.8;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>🌊 Marine Forecast</h1>
+  <div class="updated" id="updated">A carregar dados…</div>
+
+  <div id="content"></div>
+
+  <div class="loading" id="loading">A carregar previsão…</div>
+  <div class="error" id="error" style="display:none;">
+    Não foi possível carregar a previsão.
+  </div>
+
+  <script>
+    async function loadForecast() {
+      try {
+        const res = await fetch("forecast.json", { cache: "no-store" });
+
+        if (!res.ok) throw new Error("HTTP error");
+
+        const data = await res.json();
+
+        document.getElementById("loading").style.display = "none";
+
+        document.getElementById("updated").textContent =
+          "Atualizado: " + new Date(data.generated_at).toLocaleString("pt-PT");
+
+        const content = document.getElementById("content");
+
+        data.forecast.forEach(item => {
+          const card = document.createElement("div");
+          card.className = "card";
+
+          card.innerHTML = `
+            <div class="row">
+              <span class="label">Hora</span>
+              <span class="value">${item.time}</span>
+            </div>
+            <div class="row">
+              <span class="label">Ondas</span>
+              <span class="value">${item.waveHeight} m</span>
+            </div>
+            <div class="row">
+              <span class="label">Período</span>
+              <span class="value">${item.wavePeriod} s</span>
+            </div>
+            <div class="row">
+              <span class="label">Vento</span>
+              <span class="value">${item.windSpeed} m/s (${item.windDirection}°)</span>
+            </div>
+          `;
+
+          content.appendChild(card);
+        });
+
+      } catch (err) {
+        document.getElementById("loading").style.display = "none";
+        document.getElementById("error").style.display = "block";
+        console.error(err);
+      }
+    }
+
+    loadForecast();
+  </script>
+
+</body>
+</html>
 
