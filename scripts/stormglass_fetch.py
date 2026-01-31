@@ -5,9 +5,11 @@ import requests
 from datetime import datetime
 
 # --- API Key (vai ser passada como GitHub Secret) ---
-API_KEY = os.getenv("STORMGLASS_API_KEY")
-if not API_KEY:
-    raise RuntimeError("ERRO: Defina a variável de ambiente STORMGLASS_API_KEY")
+
+api_key = os.environ.get("STORMGLASS_API_KEY")
+if not api_key:
+    raise ValueError("API key StormGlass não encontrada! Configure o secret STORMGLASS_API_KEY no GitHub.")
+
 
 # --- Local do JSON final ---
 OUTPUT_FILE = "docs/forecast.json"
