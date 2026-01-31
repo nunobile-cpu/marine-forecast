@@ -1,1 +1,38 @@
+name: Update Marine Forecast
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # de 3 em 3 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: |
+          pip install requests
+
+      - name: Run forecast fetch
+        env:
+          STORMGLASS_API_KEY: ${{ secrets.STORMGLASS_API_KEY }}
+        run: |
+          python scripts/stormglass_fetch.py
+
+      - name: Commit forecast.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add public/forecast.json
+          git commit -m "Update forecast" || echo "No changes"
+          git push
 
