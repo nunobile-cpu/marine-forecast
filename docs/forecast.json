@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T07:50:41.000467Z",
+  "generated_at": "2026-02-01T09:56:01.106514Z",
   "location": {
     "lat": 38.969,
     "lng": -9.42
@@ -9,7 +9,7 @@
       "airTemperature": {
         "dwd": 13.12,
         "ecmwf": 14.21,
-        "ecmwf:aifs": 14.75,
+        "ecmwf:aifs": 14.64,
         "noaa": 14.01,
         "sg": 14.21
       },
@@ -83,14 +83,14 @@
       "windDirection": {
         "dwd": 196.27,
         "ecmwf": 192.57,
-        "ecmwf:aifs": 210.01,
+        "ecmwf:aifs": 196.24,
         "noaa": 199.34,
         "sg": 192.57
       },
       "windSpeed": {
         "dwd": 6.55,
         "ecmwf": 9.57,
-        "ecmwf:aifs": 9.04,
+        "ecmwf:aifs": 7.04,
         "noaa": 9.57,
         "sg": 9.57
       },
@@ -117,7 +117,7 @@
       "airTemperature": {
         "dwd": 13.83,
         "ecmwf": 14.31,
-        "ecmwf:aifs": 14.81,
+        "ecmwf:aifs": 14.7,
         "noaa": 14.26,
         "sg": 14.31
       },
@@ -129,7 +129,7 @@
       "precipitation": {
         "dwd": 0.23,
         "ecmwf": 0.84,
-        "ecmwf:aifs": 0.54,
+        "ecmwf:aifs": 0.57,
         "noaa": 0.88,
         "sg": 0.84
       },
@@ -191,14 +191,14 @@
       "windDirection": {
         "dwd": 217.71,
         "ecmwf": 210.67,
-        "ecmwf:aifs": 216.51,
+        "ecmwf:aifs": 205.59,
         "noaa": 216.23,
         "sg": 210.67
       },
       "windSpeed": {
         "dwd": 5.83,
         "ecmwf": 9.62,
-        "ecmwf:aifs": 8.77,
+        "ecmwf:aifs": 7.04,
         "noaa": 9.27,
         "sg": 9.62
       },
@@ -225,7 +225,7 @@
       "airTemperature": {
         "dwd": 14.19,
         "ecmwf": 14.42,
-        "ecmwf:aifs": 14.87,
+        "ecmwf:aifs": 14.76,
         "noaa": 14.51,
         "sg": 14.42
       },
@@ -237,7 +237,7 @@
       "precipitation": {
         "dwd": 0.32,
         "ecmwf": 1.45,
-        "ecmwf:aifs": 0.57,
+        "ecmwf:aifs": 0.62,
         "noaa": 0.66,
         "sg": 1.45
       },
@@ -299,14 +299,14 @@
       "windDirection": {
         "dwd": 234.7,
         "ecmwf": 228.78,
-        "ecmwf:aifs": 223.01,
+        "ecmwf:aifs": 214.94,
         "noaa": 233.11,
         "sg": 228.78
       },
       "windSpeed": {
         "dwd": 6.13,
         "ecmwf": 9.67,
-        "ecmwf:aifs": 8.5,
+        "ecmwf:aifs": 7.05,
         "noaa": 8.98,
         "sg": 9.67
       },
@@ -333,7 +333,7 @@
       "airTemperature": {
         "dwd": 14.27,
         "ecmwf": 14.53,
-        "ecmwf:aifs": 14.93,
+        "ecmwf:aifs": 14.82,
         "noaa": 14.76,
         "sg": 14.53
       },
@@ -345,7 +345,7 @@
       "precipitation": {
         "dwd": 0.29,
         "ecmwf": 2.06,
-        "ecmwf:aifs": 0.59,
+        "ecmwf:aifs": 0.67,
         "noaa": 0.45,
         "sg": 2.06
       },
@@ -407,14 +407,14 @@
       "windDirection": {
         "dwd": 249.78,
         "ecmwf": 246.88,
-        "ecmwf:aifs": 229.51,
+        "ecmwf:aifs": 224.29,
         "noaa": 250.0,
         "sg": 246.88
       },
       "windSpeed": {
         "dwd": 6.01,
         "ecmwf": 9.72,
-        "ecmwf:aifs": 8.23,
+        "ecmwf:aifs": 7.06,
         "noaa": 8.68,
         "sg": 9.72
       },
@@ -441,7 +441,7 @@
       "airTemperature": {
         "dwd": 14.17,
         "ecmwf": 14.64,
-        "ecmwf:aifs": 15.0,
+        "ecmwf:aifs": 14.89,
         "noaa": 14.73,
         "sg": 14.64
       },
@@ -453,7 +453,7 @@
       "precipitation": {
         "dwd": 0.07,
         "ecmwf": 1.6,
-        "ecmwf:aifs": 0.62,
+        "ecmwf:aifs": 0.73,
         "noaa": 0.39,
         "sg": 1.6
       },
@@ -515,14 +515,14 @@
       "windDirection": {
         "dwd": 249.93,
         "ecmwf": 248.5,
-        "ecmwf:aifs": 236.02,
+        "ecmwf:aifs": 233.64,
         "noaa": 246.36,
         "sg": 248.5
       },
       "windSpeed": {
         "dwd": 5.28,
         "ecmwf": 9.02,
-        "ecmwf:aifs": 7.97,
+        "ecmwf:aifs": 7.06,
         "noaa": 8.18,
         "sg": 9.02
       },
@@ -549,7 +549,7 @@
       "airTemperature": {
         "dwd": 14.1,
         "ecmwf": 14.75,
-        "ecmwf:aifs": 15.06,
+        "ecmwf:aifs": 14.95,
         "noaa": 14.69,
         "sg": 14.75
       },
@@ -561,7 +561,7 @@
       "precipitation": {
         "dwd": 0.11,
         "ecmwf": 1.15,
-        "ecmwf:aifs": 0.65,
+        "ecmwf:aifs": 0.78,
         "noaa": 0.33,
         "sg": 1.15
       },
@@ -623,14 +623,14 @@
       "windDirection": {
         "dwd": 245.71,
         "ecmwf": 250.13,
-        "ecmwf:aifs": 242.52,
+        "ecmwf:aifs": 242.99,
         "noaa": 242.72,
         "sg": 250.13
       },
       "windSpeed": {
         "dwd": 4.49,
         "ecmwf": 8.33,
-        "ecmwf:aifs": 7.7,
+        "ecmwf:aifs": 7.07,
         "noaa": 7.69,
         "sg": 8.33
       },
@@ -657,7 +657,7 @@
       "airTemperature": {
         "dwd": 14.12,
         "ecmwf": 14.87,
-        "ecmwf:aifs": 15.12,
+        "ecmwf:aifs": 15.01,
         "noaa": 14.65,
         "sg": 14.87
       },
@@ -669,7 +669,7 @@
       "precipitation": {
         "dwd": 0.13,
         "ecmwf": 0.69,
-        "ecmwf:aifs": 0.67,
+        "ecmwf:aifs": 0.83,
         "noaa": 0.27,
         "sg": 0.69
       },
@@ -731,14 +731,14 @@
       "windDirection": {
         "dwd": 255.44,
         "ecmwf": 251.75,
-        "ecmwf:aifs": 249.02,
+        "ecmwf:aifs": 252.34,
         "noaa": 239.08,
         "sg": 251.75
       },
       "windSpeed": {
         "dwd": 3.95,
         "ecmwf": 7.63,
-        "ecmwf:aifs": 7.43,
+        "ecmwf:aifs": 7.07,
         "noaa": 7.19,
         "sg": 7.63
       },
@@ -765,7 +765,7 @@
       "airTemperature": {
         "dwd": 14.17,
         "ecmwf": 14.84,
-        "ecmwf:aifs": 15.13,
+        "ecmwf:aifs": 15.0,
         "noaa": 14.65,
         "sg": 14.84
       },
@@ -777,7 +777,7 @@
       "precipitation": {
         "dwd": 0.09,
         "ecmwf": 0.52,
-        "ecmwf:aifs": 0.62,
+        "ecmwf:aifs": 0.76,
         "noaa": 0.24,
         "sg": 0.52
       },
@@ -839,14 +839,14 @@
       "windDirection": {
         "dwd": 258.3,
         "ecmwf": 249.39,
-        "ecmwf:aifs": 245.4,
+        "ecmwf:aifs": 247.42,
         "noaa": 235.5,
         "sg": 249.39
       },
       "windSpeed": {
         "dwd": 3.8,
         "ecmwf": 7.63,
-        "ecmwf:aifs": 7.45,
+        "ecmwf:aifs": 7.12,
         "noaa": 6.96,
         "sg": 7.63
       },
@@ -873,7 +873,7 @@
       "airTemperature": {
         "dwd": 14.17,
         "ecmwf": 14.82,
-        "ecmwf:aifs": 15.14,
+        "ecmwf:aifs": 14.99,
         "noaa": 14.64,
         "sg": 14.82
       },
@@ -885,7 +885,7 @@
       "precipitation": {
         "dwd": 0.02,
         "ecmwf": 0.35,
-        "ecmwf:aifs": 0.58,
+        "ecmwf:aifs": 0.68,
         "noaa": 0.2,
         "sg": 0.35
       },
@@ -947,14 +947,14 @@
       "windDirection": {
         "dwd": 244.47,
         "ecmwf": 247.02,
-        "ecmwf:aifs": 241.78,
+        "ecmwf:aifs": 242.51,
         "noaa": 231.93,
         "sg": 247.02
       },
       "windSpeed": {
         "dwd": 3.65,
         "ecmwf": 7.64,
-        "ecmwf:aifs": 7.47,
+        "ecmwf:aifs": 7.17,
         "noaa": 6.73,
         "sg": 7.64
       },
@@ -981,7 +981,7 @@
       "airTemperature": {
         "dwd": 14.43,
         "ecmwf": 14.8,
-        "ecmwf:aifs": 15.15,
+        "ecmwf:aifs": 14.98,
         "noaa": 14.64,
         "sg": 14.8
       },
@@ -993,7 +993,7 @@
       "precipitation": {
         "dwd": 0.04,
         "ecmwf": 0.18,
-        "ecmwf:aifs": 0.53,
+        "ecmwf:aifs": 0.61,
         "noaa": 0.16,
         "sg": 0.18
       },
@@ -1055,14 +1055,14 @@
       "windDirection": {
         "dwd": 231.98,
         "ecmwf": 244.66,
-        "ecmwf:aifs": 238.16,
+        "ecmwf:aifs": 237.59,
         "noaa": 228.35,
         "sg": 244.66
       },
       "windSpeed": {
         "dwd": 3.05,
         "ecmwf": 7.64,
-        "ecmwf:aifs": 7.49,
+        "ecmwf:aifs": 7.23,
         "noaa": 6.5,
         "sg": 7.64
       },
@@ -1089,7 +1089,7 @@
       "airTemperature": {
         "dwd": 14.61,
         "ecmwf": 14.9,
-        "ecmwf:aifs": 15.16,
+        "ecmwf:aifs": 14.97,
         "noaa": 14.65,
         "sg": 14.9
       },
@@ -1101,7 +1101,7 @@
       "precipitation": {
         "dwd": 0.03,
         "ecmwf": 0.16,
-        "ecmwf:aifs": 0.48,
+        "ecmwf:aifs": 0.53,
         "noaa": 0.18,
         "sg": 0.16
       },
@@ -1163,14 +1163,14 @@
       "windDirection": {
         "dwd": 213.62,
         "ecmwf": 237.46,
-        "ecmwf:aifs": 234.54,
+        "ecmwf:aifs": 232.67,
         "noaa": 223.55,
         "sg": 237.46
       },
       "windSpeed": {
         "dwd": 3.76,
         "ecmwf": 7.71,
-        "ecmwf:aifs": 7.52,
+        "ecmwf:aifs": 7.28,
         "noaa": 6.63,
         "sg": 7.71
       },
@@ -1197,7 +1197,7 @@
       "airTemperature": {
         "dwd": 15.27,
         "ecmwf": 15.01,
-        "ecmwf:aifs": 15.17,
+        "ecmwf:aifs": 14.96,
         "noaa": 14.66,
         "sg": 15.01
       },
@@ -1209,7 +1209,7 @@
       "precipitation": {
         "dwd": 0.0,
         "ecmwf": 0.14,
-        "ecmwf:aifs": 0.43,
+        "ecmwf:aifs": 0.46,
         "noaa": 0.21,
         "sg": 0.14
       },
@@ -1271,14 +1271,14 @@
       "windDirection": {
         "dwd": 221.47,
         "ecmwf": 230.25,
-        "ecmwf:aifs": 230.92,
+        "ecmwf:aifs": 227.76,
         "noaa": 218.76,
         "sg": 230.25
       },
       "windSpeed": {
         "dwd": 5.6,
         "ecmwf": 7.77,
-        "ecmwf:aifs": 7.54,
+        "ecmwf:aifs": 7.33,
         "noaa": 6.77,
         "sg": 7.77
       },
@@ -1305,7 +1305,7 @@
       "airTemperature": {
         "dwd": 15.27,
         "ecmwf": 15.11,
-        "ecmwf:aifs": 15.18,
+        "ecmwf:aifs": 14.95,
         "noaa": 14.67,
         "sg": 15.11
       },
@@ -1379,14 +1379,14 @@
       "windDirection": {
         "dwd": 227.88,
         "ecmwf": 223.05,
-        "ecmwf:aifs": 227.3,
+        "ecmwf:aifs": 222.84,
         "noaa": 213.96,
         "sg": 223.05
       },
       "windSpeed": {
         "dwd": 5.28,
         "ecmwf": 7.84,
-        "ecmwf:aifs": 7.56,
+        "ecmwf:aifs": 7.38,
         "noaa": 6.9,
         "sg": 7.84
       },
@@ -1413,7 +1413,7 @@
       "airTemperature": {
         "dwd": 15.31,
         "ecmwf": 15.11,
-        "ecmwf:aifs": 15.17,
+        "ecmwf:aifs": 14.95,
         "noaa": 14.67,
         "sg": 15.11
       },
@@ -1425,7 +1425,7 @@
       "precipitation": {
         "dwd": 0.28,
         "ecmwf": 0.53,
-        "ecmwf:aifs": 0.4,
+        "ecmwf:aifs": 0.39,
         "noaa": 0.28,
         "sg": 0.53
       },
@@ -1487,14 +1487,14 @@
       "windDirection": {
         "dwd": 217.76,
         "ecmwf": 223.92,
-        "ecmwf:aifs": 226.05,
+        "ecmwf:aifs": 222.1,
         "noaa": 212.76,
         "sg": 223.92
       },
       "windSpeed": {
         "dwd": 5.26,
         "ecmwf": 8.07,
-        "ecmwf:aifs": 7.94,
+        "ecmwf:aifs": 7.76,
         "noaa": 7.76,
         "sg": 8.07
       },
@@ -1521,7 +1521,7 @@
       "airTemperature": {
         "dwd": 15.01,
         "ecmwf": 15.11,
-        "ecmwf:aifs": 15.17,
+        "ecmwf:aifs": 14.95,
         "noaa": 14.67,
         "sg": 15.11
       },
@@ -1533,7 +1533,7 @@
       "precipitation": {
         "dwd": 0.16,
         "ecmwf": 0.93,
-        "ecmwf:aifs": 0.42,
+        "ecmwf:aifs": 0.41,
         "noaa": 0.33,
         "sg": 0.93
       },
@@ -1595,14 +1595,14 @@
       "windDirection": {
         "dwd": 221.64,
         "ecmwf": 224.79,
-        "ecmwf:aifs": 224.8,
+        "ecmwf:aifs": 221.37,
         "noaa": 211.57,
         "sg": 224.79
       },
       "windSpeed": {
         "dwd": 6.23,
         "ecmwf": 8.3,
-        "ecmwf:aifs": 8.33,
+        "ecmwf:aifs": 8.14,
         "noaa": 8.61,
         "sg": 8.3
       },
@@ -1629,7 +1629,7 @@
       "airTemperature": {
         "dwd": 14.94,
         "ecmwf": 15.11,
-        "ecmwf:aifs": 15.16,
+        "ecmwf:aifs": 14.96,
         "noaa": 14.68,
         "sg": 15.11
       },
@@ -1641,7 +1641,7 @@
       "precipitation": {
         "dwd": 0.14,
         "ecmwf": 1.34,
-        "ecmwf:aifs": 0.44,
+        "ecmwf:aifs": 0.42,
         "noaa": 0.38,
         "sg": 1.34
       },
@@ -1703,14 +1703,14 @@
       "windDirection": {
         "dwd": 221.91,
         "ecmwf": 225.66,
-        "ecmwf:aifs": 223.56,
+        "ecmwf:aifs": 220.63,
         "noaa": 210.37,
         "sg": 225.66
       },
       "windSpeed": {
         "dwd": 6.6,
         "ecmwf": 8.53,
-        "ecmwf:aifs": 8.71,
+        "ecmwf:aifs": 8.53,
         "noaa": 9.47,
         "sg": 8.53
       },
@@ -1737,7 +1737,7 @@
       "airTemperature": {
         "dwd": 14.85,
         "ecmwf": 15.07,
-        "ecmwf:aifs": 15.16,
+        "ecmwf:aifs": 14.96,
         "noaa": 14.75,
         "sg": 15.07
       },
@@ -1749,7 +1749,7 @@
       "precipitation": {
         "dwd": 0.3,
         "ecmwf": 1.07,
-        "ecmwf:aifs": 0.46,
+        "ecmwf:aifs": 0.43,
         "noaa": 0.33,
         "sg": 1.07
       },
@@ -1811,14 +1811,14 @@
       "windDirection": {
         "dwd": 223.22,
         "ecmwf": 221.23,
-        "ecmwf:aifs": 222.31,
+        "ecmwf:aifs": 219.9,
         "noaa": 207.19,
         "sg": 221.23
       },
       "windSpeed": {
         "dwd": 6.88,
         "ecmwf": 8.85,
-        "ecmwf:aifs": 9.1,
+        "ecmwf:aifs": 8.91,
         "noaa": 9.89,
         "sg": 8.85
       },
@@ -1845,7 +1845,7 @@
       "airTemperature": {
         "dwd": 14.62,
         "ecmwf": 15.03,
-        "ecmwf:aifs": 15.15,
+        "ecmwf:aifs": 14.96,
         "noaa": 14.83,
         "sg": 15.03
       },
@@ -1857,7 +1857,7 @@
       "precipitation": {
         "dwd": 0.54,
         "ecmwf": 0.8,
-        "ecmwf:aifs": 0.48,
+        "ecmwf:aifs": 0.44,
         "noaa": 0.29,
         "sg": 0.8
       },
@@ -1919,14 +1919,14 @@
       "windDirection": {
         "dwd": 216.75,
         "ecmwf": 216.81,
-        "ecmwf:aifs": 221.06,
+        "ecmwf:aifs": 219.16,
         "noaa": 204.0,
         "sg": 216.81
       },
       "windSpeed": {
         "dwd": 6.86,
         "ecmwf": 9.18,
-        "ecmwf:aifs": 9.48,
+        "ecmwf:aifs": 9.29,
         "noaa": 10.3,
         "sg": 9.18
       },
@@ -1953,7 +1953,7 @@
       "airTemperature": {
         "dwd": 14.6,
         "ecmwf": 14.99,
-        "ecmwf:aifs": 15.15,
+        "ecmwf:aifs": 14.96,
         "noaa": 14.91,
         "sg": 14.99
       },
@@ -1965,7 +1965,7 @@
       "precipitation": {
         "dwd": 0.19,
         "ecmwf": 0.53,
-        "ecmwf:aifs": 0.5,
+        "ecmwf:aifs": 0.46,
         "noaa": 0.24,
         "sg": 0.53
       },
@@ -2027,14 +2027,14 @@
       "windDirection": {
         "dwd": 209.65,
         "ecmwf": 212.38,
-        "ecmwf:aifs": 219.81,
+        "ecmwf:aifs": 218.43,
         "noaa": 200.82,
         "sg": 212.38
       },
       "windSpeed": {
         "dwd": 6.74,
         "ecmwf": 9.5,
-        "ecmwf:aifs": 9.87,
+        "ecmwf:aifs": 9.67,
         "noaa": 10.72,
         "sg": 9.5
       },
@@ -2061,7 +2061,7 @@
       "airTemperature": {
         "dwd": 14.46,
         "ecmwf": 14.97,
-        "ecmwf:aifs": 15.07,
+        "ecmwf:aifs": 14.91,
         "noaa": 15.04,
         "sg": 14.97
       },
@@ -2073,7 +2073,7 @@
       "precipitation": {
         "dwd": 0.05,
         "ecmwf": 0.4,
-        "ecmwf:aifs": 0.51,
+        "ecmwf:aifs": 0.5,
         "noaa": 0.23,
         "sg": 0.4
       },
@@ -2135,14 +2135,14 @@
       "windDirection": {
         "dwd": 199.82,
         "ecmwf": 212.3,
-        "ecmwf:aifs": 215.44,
+        "ecmwf:aifs": 214.13,
         "noaa": 200.31,
         "sg": 212.3
       },
       "windSpeed": {
         "dwd": 6.49,
         "ecmwf": 10.03,
-        "ecmwf:aifs": 10.47,
+        "ecmwf:aifs": 10.34,
         "noaa": 11.69,
         "sg": 10.03
       },
@@ -2169,7 +2169,7 @@
       "airTemperature": {
         "dwd": 14.4,
         "ecmwf": 14.95,
-        "ecmwf:aifs": 14.99,
+        "ecmwf:aifs": 14.86,
         "noaa": 15.18,
         "sg": 14.95
       },
@@ -2243,14 +2243,14 @@
       "windDirection": {
         "dwd": 198.61,
         "ecmwf": 212.22,
-        "ecmwf:aifs": 211.08,
+        "ecmwf:aifs": 209.82,
         "noaa": 199.81,
         "sg": 212.22
       },
       "windSpeed": {
         "dwd": 7.09,
         "ecmwf": 10.56,
-        "ecmwf:aifs": 11.06,
+        "ecmwf:aifs": 11.01,
         "noaa": 12.65,
         "sg": 10.56
       },
@@ -2277,7 +2277,7 @@
       "airTemperature": {
         "dwd": 14.22,
         "ecmwf": 14.94,
-        "ecmwf:aifs": 14.92,
+        "ecmwf:aifs": 14.8,
         "noaa": 15.31,
         "sg": 14.94
       },
@@ -2289,7 +2289,7 @@
       "precipitation": {
         "dwd": 0.12,
         "ecmwf": 0.16,
-        "ecmwf:aifs": 0.54,
+        "ecmwf:aifs": 0.57,
         "noaa": 0.22,
         "sg": 0.16
       },
@@ -2351,14 +2351,14 @@
       "windDirection": {
         "dwd": 202.92,
         "ecmwf": 212.14,
-        "ecmwf:aifs": 206.71,
+        "ecmwf:aifs": 205.52,
         "noaa": 199.3,
         "sg": 212.14
       },
       "windSpeed": {
         "dwd": 8.0,
         "ecmwf": 11.09,
-        "ecmwf:aifs": 11.66,
+        "ecmwf:aifs": 11.68,
         "noaa": 13.62,
         "sg": 11.09
       },
@@ -2385,7 +2385,7 @@
       "airTemperature": {
         "dwd": 14.08,
         "ecmwf": 14.72,
-        "ecmwf:aifs": 14.84,
+        "ecmwf:aifs": 14.75,
         "noaa": 15.09,
         "sg": 14.72
       },
@@ -2397,7 +2397,7 @@
       "precipitation": {
         "dwd": 0.1,
         "ecmwf": 0.39,
-        "ecmwf:aifs": 0.56,
+        "ecmwf:aifs": 0.61,
         "noaa": 0.31,
         "sg": 0.39
       },
@@ -2459,14 +2459,14 @@
       "windDirection": {
         "dwd": 197.78,
         "ecmwf": 204.19,
-        "ecmwf:aifs": 202.35,
+        "ecmwf:aifs": 201.22,
         "noaa": 197.75,
         "sg": 204.19
       },
       "windSpeed": {
         "dwd": 8.4,
         "ecmwf": 11.88,
-        "ecmwf:aifs": 12.26,
+        "ecmwf:aifs": 12.36,
         "noaa": 14.86,
         "sg": 11.88
       },
@@ -2493,7 +2493,7 @@
       "airTemperature": {
         "dwd": 13.96,
         "ecmwf": 14.51,
-        "ecmwf:aifs": 14.76,
+        "ecmwf:aifs": 14.7,
         "noaa": 14.88,
         "sg": 14.51
       },
@@ -2505,7 +2505,7 @@
       "precipitation": {
         "dwd": 0.11,
         "ecmwf": 0.63,
-        "ecmwf:aifs": 0.57,
+        "ecmwf:aifs": 0.65,
         "noaa": 0.39,
         "sg": 0.63
       },
@@ -2567,14 +2567,14 @@
       "windDirection": {
         "dwd": 200.84,
         "ecmwf": 196.23,
-        "ecmwf:aifs": 197.98,
+        "ecmwf:aifs": 196.91,
         "noaa": 196.2,
         "sg": 196.23
       },
       "windSpeed": {
         "dwd": 8.86,
         "ecmwf": 12.68,
-        "ecmwf:aifs": 12.85,
+        "ecmwf:aifs": 13.03,
         "noaa": 16.11,
         "sg": 12.68
       },
@@ -2601,7 +2601,7 @@
       "airTemperature": {
         "dwd": 13.7,
         "ecmwf": 14.3,
-        "ecmwf:aifs": 14.69,
+        "ecmwf:aifs": 14.65,
         "noaa": 14.66,
         "sg": 14.3
       },
@@ -2613,7 +2613,7 @@
       "precipitation": {
         "dwd": 2.07,
         "ecmwf": 0.87,
-        "ecmwf:aifs": 0.58,
+        "ecmwf:aifs": 0.69,
         "noaa": 0.48,
         "sg": 0.87
       },
@@ -2675,14 +2675,14 @@
       "windDirection": {
         "dwd": 195.86,
         "ecmwf": 188.28,
-        "ecmwf:aifs": 193.62,
+        "ecmwf:aifs": 192.61,
         "noaa": 194.65,
         "sg": 188.28
       },
       "windSpeed": {
         "dwd": 8.88,
         "ecmwf": 13.47,
-        "ecmwf:aifs": 13.45,
+        "ecmwf:aifs": 13.7,
         "noaa": 17.35,
         "sg": 13.47
       },
@@ -2709,7 +2709,7 @@
       "airTemperature": {
         "dwd": 13.77,
         "ecmwf": 14.2,
-        "ecmwf:aifs": 14.33,
+        "ecmwf:aifs": 14.29,
         "noaa": 13.64,
         "sg": 14.2
       },
@@ -2721,7 +2721,7 @@
       "precipitation": {
         "dwd": 5.09,
         "ecmwf": 2.26,
-        "ecmwf:aifs": 0.92,
+        "ecmwf:aifs": 0.96,
         "noaa": 2.02,
         "sg": 2.26
       },
@@ -2783,14 +2783,14 @@
       "windDirection": {
         "dwd": 197.93,
         "ecmwf": 217.1,
-        "ecmwf:aifs": 206.77,
+        "ecmwf:aifs": 205.03,
         "noaa": 214.7,
         "sg": 217.1
       },
       "windSpeed": {
         "dwd": 9.62,
         "ecmwf": 13.24,
-        "ecmwf:aifs": 13.17,
+        "ecmwf:aifs": 13.57,
         "noaa": 16.5,
         "sg": 13.24
       },
@@ -2817,7 +2817,7 @@
       "airTemperature": {
         "dwd": 13.41,
         "ecmwf": 14.1,
-        "ecmwf:aifs": 13.98,
+        "ecmwf:aifs": 13.93,
         "noaa": 12.62,
         "sg": 14.1
       },
@@ -2829,7 +2829,7 @@
       "precipitation": {
         "dwd": 8.41,
         "ecmwf": 3.64,
-        "ecmwf:aifs": 1.25,
+        "ecmwf:aifs": 1.23,
         "noaa": 3.57,
         "sg": 3.64
       },
@@ -2891,14 +2891,14 @@
       "windDirection": {
         "dwd": 241.98,
         "ecmwf": 245.91,
-        "ecmwf:aifs": 219.93,
+        "ecmwf:aifs": 217.45,
         "noaa": 234.74,
         "sg": 245.91
       },
       "windSpeed": {
         "dwd": 12.84,
         "ecmwf": 13.01,
-        "ecmwf:aifs": 12.9,
+        "ecmwf:aifs": 13.44,
         "noaa": 15.64,
         "sg": 13.01
       },
@@ -2925,7 +2925,7 @@
       "airTemperature": {
         "dwd": 11.92,
         "ecmwf": 13.99,
-        "ecmwf:aifs": 13.63,
+        "ecmwf:aifs": 13.57,
         "noaa": 11.61,
         "sg": 13.99
       },
@@ -2937,7 +2937,7 @@
       "precipitation": {
         "dwd": 1.85,
         "ecmwf": 5.03,
-        "ecmwf:aifs": 1.58,
+        "ecmwf:aifs": 1.51,
         "noaa": 5.12,
         "sg": 5.03
       },
@@ -2999,14 +2999,14 @@
       "windDirection": {
         "dwd": 238.59,
         "ecmwf": 274.73,
-        "ecmwf:aifs": 233.08,
+        "ecmwf:aifs": 229.86,
         "noaa": 254.79,
         "sg": 274.73
       },
       "windSpeed": {
         "dwd": 6.48,
         "ecmwf": 12.78,
-        "ecmwf:aifs": 12.62,
+        "ecmwf:aifs": 13.31,
         "noaa": 14.79,
         "sg": 12.78
       },
@@ -3033,7 +3033,7 @@
       "airTemperature": {
         "dwd": 11.79,
         "ecmwf": 13.31,
-        "ecmwf:aifs": 13.27,
+        "ecmwf:aifs": 13.22,
         "noaa": 11.72,
         "sg": 13.31
       },
@@ -3045,7 +3045,7 @@
       "precipitation": {
         "dwd": 0.13,
         "ecmwf": 3.53,
-        "ecmwf:aifs": 1.91,
+        "ecmwf:aifs": 1.78,
         "noaa": 4.34,
         "sg": 3.53
       },
@@ -3107,14 +3107,14 @@
       "windDirection": {
         "dwd": 248.3,
         "ecmwf": 276.98,
-        "ecmwf:aifs": 246.23,
+        "ecmwf:aifs": 242.28,
         "noaa": 259.69,
         "sg": 276.98
       },
       "windSpeed": {
         "dwd": 10.21,
         "ecmwf": 12.36,
-        "ecmwf:aifs": 12.35,
+        "ecmwf:aifs": 13.18,
         "noaa": 15.53,
         "sg": 12.36
       },
@@ -3141,7 +3141,7 @@
       "airTemperature": {
         "dwd": 10.81,
         "ecmwf": 12.63,
-        "ecmwf:aifs": 12.92,
+        "ecmwf:aifs": 12.86,
         "noaa": 11.84,
         "sg": 12.63
       },
@@ -3153,7 +3153,7 @@
       "precipitation": {
         "dwd": 0.08,
         "ecmwf": 2.03,
-        "ecmwf:aifs": 2.24,
+        "ecmwf:aifs": 2.06,
         "noaa": 3.57,
         "sg": 2.03
       },
@@ -3215,14 +3215,14 @@
       "windDirection": {
         "dwd": 260.53,
         "ecmwf": 279.24,
-        "ecmwf:aifs": 259.39,
+        "ecmwf:aifs": 254.7,
         "noaa": 264.6,
         "sg": 279.24
       },
       "windSpeed": {
         "dwd": 9.41,
         "ecmwf": 11.93,
-        "ecmwf:aifs": 12.08,
+        "ecmwf:aifs": 13.05,
         "noaa": 16.28,
         "sg": 11.93
       },
@@ -3249,7 +3249,7 @@
       "airTemperature": {
         "dwd": 10.08,
         "ecmwf": 11.95,
-        "ecmwf:aifs": 12.57,
+        "ecmwf:aifs": 12.5,
         "noaa": 11.96,
         "sg": 11.95
       },
@@ -3261,7 +3261,7 @@
       "precipitation": {
         "dwd": 0.32,
         "ecmwf": 0.53,
-        "ecmwf:aifs": 2.57,
+        "ecmwf:aifs": 2.33,
         "noaa": 2.8,
         "sg": 0.53
       },
@@ -3323,14 +3323,14 @@
       "windDirection": {
         "dwd": 269.27,
         "ecmwf": 281.49,
-        "ecmwf:aifs": 272.54,
+        "ecmwf:aifs": 267.12,
         "noaa": 269.5,
         "sg": 281.49
       },
       "windSpeed": {
         "dwd": 9.44,
         "ecmwf": 11.51,
-        "ecmwf:aifs": 11.8,
+        "ecmwf:aifs": 12.92,
         "noaa": 17.02,
         "sg": 11.51
       },
@@ -3357,7 +3357,7 @@
       "airTemperature": {
         "dwd": 9.69,
         "ecmwf": 11.53,
-        "ecmwf:aifs": 12.55,
+        "ecmwf:aifs": 12.47,
         "noaa": 11.73,
         "sg": 11.53
       },
@@ -3369,7 +3369,7 @@
       "precipitation": {
         "dwd": 0.34,
         "ecmwf": 0.62,
-        "ecmwf:aifs": 2.19,
+        "ecmwf:aifs": 2.0,
         "noaa": 2.02,
         "sg": 0.62
       },
@@ -3431,14 +3431,14 @@
       "windDirection": {
         "dwd": 264.58,
         "ecmwf": 273.56,
-        "ecmwf:aifs": 272.9,
+        "ecmwf:aifs": 267.56,
         "noaa": 272.15,
         "sg": 273.56
       },
       "windSpeed": {
         "dwd": 6.58,
         "ecmwf": 11.26,
-        "ecmwf:aifs": 11.88,
+        "ecmwf:aifs": 12.92,
         "noaa": 16.24,
         "sg": 11.26
       },
@@ -3465,7 +3465,7 @@
       "airTemperature": {
         "dwd": 9.53,
         "ecmwf": 11.12,
-        "ecmwf:aifs": 12.54,
+        "ecmwf:aifs": 12.45,
         "noaa": 11.51,
         "sg": 11.12
       },
@@ -3477,7 +3477,7 @@
       "precipitation": {
         "dwd": 0.16,
         "ecmwf": 0.71,
-        "ecmwf:aifs": 1.81,
+        "ecmwf:aifs": 1.67,
         "noaa": 1.24,
         "sg": 0.71
       },
@@ -3539,14 +3539,14 @@
       "windDirection": {
         "dwd": 263.01,
         "ecmwf": 265.62,
-        "ecmwf:aifs": 273.26,
+        "ecmwf:aifs": 268.01,
         "noaa": 274.8,
         "sg": 265.62
       },
       "windSpeed": {
         "dwd": 6.73,
         "ecmwf": 11.01,
-        "ecmwf:aifs": 11.95,
+        "ecmwf:aifs": 12.92,
         "noaa": 15.46,
         "sg": 11.01
       },
@@ -3573,7 +3573,7 @@
       "airTemperature": {
         "dwd": 9.57,
         "ecmwf": 10.7,
-        "ecmwf:aifs": 12.52,
+        "ecmwf:aifs": 12.42,
         "noaa": 11.28,
         "sg": 10.7
       },
@@ -3585,7 +3585,7 @@
       "precipitation": {
         "dwd": 1.15,
         "ecmwf": 0.8,
-        "ecmwf:aifs": 1.43,
+        "ecmwf:aifs": 1.35,
         "noaa": 0.46,
         "sg": 0.8
       },
@@ -3647,14 +3647,14 @@
       "windDirection": {
         "dwd": 258.65,
         "ecmwf": 257.69,
-        "ecmwf:aifs": 273.62,
+        "ecmwf:aifs": 268.45,
         "noaa": 277.45,
         "sg": 257.69
       },
       "windSpeed": {
         "dwd": 6.86,
         "ecmwf": 10.76,
-        "ecmwf:aifs": 12.03,
+        "ecmwf:aifs": 12.93,
         "noaa": 14.68,
         "sg": 10.76
       },
@@ -3681,7 +3681,7 @@
       "airTemperature": {
         "dwd": 9.52,
         "ecmwf": 10.65,
-        "ecmwf:aifs": 12.5,
+        "ecmwf:aifs": 12.39,
         "noaa": 11.55,
         "sg": 10.65
       },
@@ -3693,7 +3693,7 @@
       "precipitation": {
         "dwd": 1.01,
         "ecmwf": 0.8,
-        "ecmwf:aifs": 1.05,
+        "ecmwf:aifs": 1.02,
         "noaa": 0.47,
         "sg": 0.8
       },
@@ -3755,14 +3755,14 @@
       "windDirection": {
         "dwd": 269.6,
         "ecmwf": 263.36,
-        "ecmwf:aifs": 273.98,
+        "ecmwf:aifs": 268.89,
         "noaa": 274.03,
         "sg": 263.36
       },
       "windSpeed": {
         "dwd": 7.18,
         "ecmwf": 10.68,
-        "ecmwf:aifs": 12.11,
+        "ecmwf:aifs": 12.93,
         "noaa": 15.24,
         "sg": 10.68
       },
@@ -3789,7 +3789,7 @@
       "airTemperature": {
         "dwd": 10.88,
         "ecmwf": 10.61,
-        "ecmwf:aifs": 12.49,
+        "ecmwf:aifs": 12.36,
         "noaa": 11.81,
         "sg": 10.61
       },
@@ -3801,7 +3801,7 @@
       "precipitation": {
         "dwd": 0.64,
         "ecmwf": 0.8,
-        "ecmwf:aifs": 0.67,
+        "ecmwf:aifs": 0.69,
         "noaa": 0.48,
         "sg": 0.8
       },
@@ -3863,14 +3863,14 @@
       "windDirection": {
         "dwd": 264.19,
         "ecmwf": 269.02,
-        "ecmwf:aifs": 274.34,
+        "ecmwf:aifs": 269.34,
         "noaa": 270.62,
         "sg": 269.02
       },
       "windSpeed": {
         "dwd": 6.85,
         "ecmwf": 10.6,
-        "ecmwf:aifs": 12.18,
+        "ecmwf:aifs": 12.93,
         "noaa": 15.81,
         "sg": 10.6
       },
@@ -3897,7 +3897,7 @@
       "airTemperature": {
         "dwd": 11.56,
         "ecmwf": 10.56,
-        "ecmwf:aifs": 12.47,
+        "ecmwf:aifs": 12.34,
         "noaa": 12.07,
         "sg": 10.56
       },
@@ -3909,7 +3909,7 @@
       "precipitation": {
         "dwd": 0.12,
         "ecmwf": 0.8,
-        "ecmwf:aifs": 0.29,
+        "ecmwf:aifs": 0.36,
         "noaa": 0.48,
         "sg": 0.8
       },
@@ -3971,14 +3971,14 @@
       "windDirection": {
         "dwd": 265.43,
         "ecmwf": 274.69,
-        "ecmwf:aifs": 274.7,
+        "ecmwf:aifs": 269.78,
         "noaa": 267.2,
         "sg": 274.69
       },
       "windSpeed": {
         "dwd": 7.39,
         "ecmwf": 10.52,
-        "ecmwf:aifs": 12.26,
+        "ecmwf:aifs": 12.93,
         "noaa": 16.37,
         "sg": 10.52
       },
@@ -4005,7 +4005,7 @@
       "airTemperature": {
         "dwd": 9.8,
         "ecmwf": 10.97,
-        "ecmwf:aifs": 12.41,
+        "ecmwf:aifs": 12.34,
         "noaa": 12.08,
         "sg": 10.97
       },
@@ -4017,7 +4017,7 @@
       "precipitation": {
         "dwd": 1.38,
         "ecmwf": 0.7,
-        "ecmwf:aifs": 0.32,
+        "ecmwf:aifs": 0.38,
         "noaa": 0.45,
         "sg": 0.7
       },
@@ -4079,14 +4079,14 @@
       "windDirection": {
         "dwd": 261.02,
         "ecmwf": 273.52,
-        "ecmwf:aifs": 274.01,
+        "ecmwf:aifs": 270.15,
         "noaa": 267.12,
         "sg": 273.52
       },
       "windSpeed": {
         "dwd": 7.76,
         "ecmwf": 11.21,
-        "ecmwf:aifs": 12.05,
+        "ecmwf:aifs": 12.79,
         "noaa": 16.03,
         "sg": 11.21
       },
@@ -4125,7 +4125,7 @@
       "precipitation": {
         "dwd": 0.88,
         "ecmwf": 0.59,
-        "ecmwf:aifs": 0.35,
+        "ecmwf:aifs": 0.4,
         "noaa": 0.41,
         "sg": 0.59
       },
@@ -4187,14 +4187,14 @@
       "windDirection": {
         "dwd": 261.48,
         "ecmwf": 272.35,
-        "ecmwf:aifs": 273.31,
+        "ecmwf:aifs": 270.52,
         "noaa": 267.03,
         "sg": 272.35
       },
       "windSpeed": {
         "dwd": 8.01,
         "ecmwf": 11.9,
-        "ecmwf:aifs": 11.83,
+        "ecmwf:aifs": 12.64,
         "noaa": 15.68,
         "sg": 11.9
       },
@@ -4221,7 +4221,7 @@
       "airTemperature": {
         "dwd": 9.87,
         "ecmwf": 11.78,
-        "ecmwf:aifs": 12.29,
+        "ecmwf:aifs": 12.35,
         "noaa": 12.08,
         "sg": 11.78
       },
@@ -4233,7 +4233,7 @@
       "precipitation": {
         "dwd": 1.48,
         "ecmwf": 0.49,
-        "ecmwf:aifs": 0.38,
+        "ecmwf:aifs": 0.42,
         "noaa": 0.38,
         "sg": 0.49
       },
@@ -4295,14 +4295,14 @@
       "windDirection": {
         "dwd": 257.76,
         "ecmwf": 271.18,
-        "ecmwf:aifs": 272.62,
+        "ecmwf:aifs": 270.89,
         "noaa": 266.95,
         "sg": 271.18
       },
       "windSpeed": {
         "dwd": 7.47,
         "ecmwf": 12.59,
-        "ecmwf:aifs": 11.62,
+        "ecmwf:aifs": 12.5,
         "noaa": 15.34,
         "sg": 12.59
       },
@@ -4329,7 +4329,7 @@
       "airTemperature": {
         "dwd": 10.32,
         "ecmwf": 11.63,
-        "ecmwf:aifs": 12.23,
+        "ecmwf:aifs": 12.36,
         "noaa": 12.2,
         "sg": 11.63
       },
@@ -4341,7 +4341,7 @@
       "precipitation": {
         "dwd": 1.3,
         "ecmwf": 0.39,
-        "ecmwf:aifs": 0.41,
+        "ecmwf:aifs": 0.45,
         "noaa": 0.39,
         "sg": 0.39
       },
@@ -4403,14 +4403,14 @@
       "windDirection": {
         "dwd": 260.35,
         "ecmwf": 268.23,
-        "ecmwf:aifs": 271.92,
+        "ecmwf:aifs": 271.26,
         "noaa": 268.31,
         "sg": 268.23
       },
       "windSpeed": {
         "dwd": 6.14,
         "ecmwf": 11.58,
-        "ecmwf:aifs": 11.4,
+        "ecmwf:aifs": 12.36,
         "noaa": 14.91,
         "sg": 11.58
       },
@@ -4437,7 +4437,7 @@
       "airTemperature": {
         "dwd": 10.68,
         "ecmwf": 11.48,
-        "ecmwf:aifs": 12.17,
+        "ecmwf:aifs": 12.36,
         "noaa": 12.31,
         "sg": 11.48
       },
@@ -4449,7 +4449,7 @@
       "precipitation": {
         "dwd": 1.44,
         "ecmwf": 0.29,
-        "ecmwf:aifs": 0.44,
+        "ecmwf:aifs": 0.47,
         "noaa": 0.4,
         "sg": 0.29
       },
@@ -4511,14 +4511,14 @@
       "windDirection": {
         "dwd": 256.74,
         "ecmwf": 265.28,
-        "ecmwf:aifs": 271.23,
+        "ecmwf:aifs": 271.63,
         "noaa": 269.66,
         "sg": 265.28
       },
       "windSpeed": {
         "dwd": 7.82,
         "ecmwf": 10.58,
-        "ecmwf:aifs": 11.19,
+        "ecmwf:aifs": 12.21,
         "noaa": 14.48,
         "sg": 10.58
       },
@@ -4545,7 +4545,7 @@
       "airTemperature": {
         "dwd": 10.4,
         "ecmwf": 11.32,
-        "ecmwf:aifs": 12.11,
+        "ecmwf:aifs": 12.37,
         "noaa": 12.43,
         "sg": 11.32
       },
@@ -4557,7 +4557,7 @@
       "precipitation": {
         "dwd": 0.19,
         "ecmwf": 0.2,
-        "ecmwf:aifs": 0.48,
+        "ecmwf:aifs": 0.49,
         "noaa": 0.41,
         "sg": 0.2
       },
@@ -4619,14 +4619,14 @@
       "windDirection": {
         "dwd": 251.05,
         "ecmwf": 262.33,
-        "ecmwf:aifs": 270.53,
+        "ecmwf:aifs": 272.0,
         "noaa": 271.02,
         "sg": 262.33
       },
       "windSpeed": {
         "dwd": 7.01,
         "ecmwf": 9.57,
-        "ecmwf:aifs": 10.97,
+        "ecmwf:aifs": 12.07,
         "noaa": 14.05,
         "sg": 9.57
       },
@@ -4653,7 +4653,7 @@
       "airTemperature": {
         "dwd": 10.07,
         "ecmwf": 11.6,
-        "ecmwf:aifs": 12.05,
+        "ecmwf:aifs": 12.29,
         "noaa": 12.4,
         "sg": 11.6
       },
@@ -4665,7 +4665,7 @@
       "precipitation": {
         "dwd": 0.56,
         "ecmwf": 0.26,
-        "ecmwf:aifs": 0.5,
+        "ecmwf:aifs": 0.51,
         "noaa": 0.48,
         "sg": 0.26
       },
@@ -4727,14 +4727,14 @@
       "windDirection": {
         "dwd": 251.46,
         "ecmwf": 268.39,
-        "ecmwf:aifs": 270.16,
+        "ecmwf:aifs": 270.8,
         "noaa": 272.24,
         "sg": 268.39
       },
       "windSpeed": {
         "dwd": 7.24,
         "ecmwf": 10.0,
-        "ecmwf:aifs": 10.72,
+        "ecmwf:aifs": 11.84,
         "noaa": 13.83,
         "sg": 10.0
       },
@@ -4761,7 +4761,7 @@
       "airTemperature": {
         "dwd": 9.83,
         "ecmwf": 11.88,
-        "ecmwf:aifs": 12.0,
+        "ecmwf:aifs": 12.2,
         "noaa": 12.37,
         "sg": 11.88
       },
@@ -4773,7 +4773,7 @@
       "precipitation": {
         "dwd": 0.18,
         "ecmwf": 0.32,
-        "ecmwf:aifs": 0.52,
+        "ecmwf:aifs": 0.53,
         "noaa": 0.54,
         "sg": 0.32
       },
@@ -4835,14 +4835,14 @@
       "windDirection": {
         "dwd": 243.15,
         "ecmwf": 274.46,
-        "ecmwf:aifs": 269.79,
+        "ecmwf:aifs": 269.6,
         "noaa": 273.46,
         "sg": 274.46
       },
       "windSpeed": {
         "dwd": 7.02,
         "ecmwf": 10.44,
-        "ecmwf:aifs": 10.47,
+        "ecmwf:aifs": 11.61,
         "noaa": 13.62,
         "sg": 10.44
       },
@@ -4869,7 +4869,7 @@
       "airTemperature": {
         "dwd": 9.4,
         "ecmwf": 12.16,
-        "ecmwf:aifs": 11.94,
+        "ecmwf:aifs": 12.12,
         "noaa": 12.35,
         "sg": 12.16
       },
@@ -4881,7 +4881,7 @@
       "precipitation": {
         "dwd": 0.09,
         "ecmwf": 0.38,
-        "ecmwf:aifs": 0.54,
+        "ecmwf:aifs": 0.56,
         "noaa": 0.61,
         "sg": 0.38
       },
@@ -4943,14 +4943,14 @@
       "windDirection": {
         "dwd": 239.15,
         "ecmwf": 280.52,
-        "ecmwf:aifs": 269.41,
+        "ecmwf:aifs": 268.4,
         "noaa": 274.68,
         "sg": 280.52
       },
       "windSpeed": {
         "dwd": 6.87,
         "ecmwf": 10.87,
-        "ecmwf:aifs": 10.22,
+        "ecmwf:aifs": 11.38,
         "noaa": 13.4,
         "sg": 10.87
       },
@@ -4977,7 +4977,7 @@
       "airTemperature": {
         "dwd": 9.45,
         "ecmwf": 12.21,
-        "ecmwf:aifs": 11.88,
+        "ecmwf:aifs": 12.03,
         "noaa": 12.48,
         "sg": 12.21
       },
@@ -4989,7 +4989,7 @@
       "precipitation": {
         "dwd": 0.0,
         "ecmwf": 0.31,
-        "ecmwf:aifs": 0.56,
+        "ecmwf:aifs": 0.58,
         "noaa": 0.6,
         "sg": 0.31
       },
@@ -5051,14 +5051,14 @@
       "windDirection": {
         "dwd": 232.96,
         "ecmwf": 278.93,
-        "ecmwf:aifs": 269.04,
+        "ecmwf:aifs": 267.2,
         "noaa": 272.52,
         "sg": 278.93
       },
       "windSpeed": {
         "dwd": 6.28,
         "ecmwf": 10.81,
-        "ecmwf:aifs": 9.98,
+        "ecmwf:aifs": 11.16,
         "noaa": 12.86,
         "sg": 10.81
       },
@@ -5085,7 +5085,7 @@
       "airTemperature": {
         "dwd": 9.56,
         "ecmwf": 12.26,
-        "ecmwf:aifs": 11.82,
+        "ecmwf:aifs": 11.95,
         "noaa": 12.61,
         "sg": 12.26
       },
@@ -5097,7 +5097,7 @@
       "precipitation": {
         "dwd": 0.69,
         "ecmwf": 0.24,
-        "ecmwf:aifs": 0.58,
+        "ecmwf:aifs": 0.6,
         "noaa": 0.6,
         "sg": 0.24
       },
@@ -5159,14 +5159,14 @@
       "windDirection": {
         "dwd": 243.09,
         "ecmwf": 277.34,
-        "ecmwf:aifs": 268.67,
+        "ecmwf:aifs": 266.0,
         "noaa": 270.37,
         "sg": 277.34
       },
       "windSpeed": {
         "dwd": 6.28,
         "ecmwf": 10.74,
-        "ecmwf:aifs": 9.73,
+        "ecmwf:aifs": 10.93,
         "noaa": 12.33,
         "sg": 10.74
       },
@@ -5193,7 +5193,7 @@
       "airTemperature": {
         "dwd": 9.15,
         "ecmwf": 12.32,
-        "ecmwf:aifs": 11.76,
+        "ecmwf:aifs": 11.86,
         "noaa": 12.74,
         "sg": 12.32
       },
@@ -5205,7 +5205,7 @@
       "precipitation": {
         "dwd": 3.09,
         "ecmwf": 0.17,
-        "ecmwf:aifs": 0.6,
+        "ecmwf:aifs": 0.63,
         "noaa": 0.6,
         "sg": 0.17
       },
@@ -5267,14 +5267,14 @@
       "windDirection": {
         "dwd": 241.84,
         "ecmwf": 275.75,
-        "ecmwf:aifs": 268.3,
+        "ecmwf:aifs": 264.8,
         "noaa": 268.21,
         "sg": 275.75
       },
       "windSpeed": {
         "dwd": 5.65,
         "ecmwf": 10.68,
-        "ecmwf:aifs": 9.48,
+        "ecmwf:aifs": 10.7,
         "noaa": 11.79,
         "sg": 10.68
       },
@@ -5301,7 +5301,7 @@
       "airTemperature": {
         "dwd": 9.25,
         "ecmwf": 12.12,
-        "ecmwf:aifs": 11.68,
+        "ecmwf:aifs": 11.84,
         "noaa": 12.66,
         "sg": 12.12
       },
@@ -5313,7 +5313,7 @@
       "precipitation": {
         "dwd": 1.16,
         "ecmwf": 0.2,
-        "ecmwf:aifs": 0.62,
+        "ecmwf:aifs": 0.65,
         "noaa": 0.66,
         "sg": 0.2
       },
@@ -5375,14 +5375,14 @@
       "windDirection": {
         "dwd": 242.44,
         "ecmwf": 277.68,
-        "ecmwf:aifs": 269.96,
+        "ecmwf:aifs": 266.69,
         "noaa": 271.8,
         "sg": 277.68
       },
       "windSpeed": {
         "dwd": 4.85,
         "ecmwf": 10.34,
-        "ecmwf:aifs": 9.5,
+        "ecmwf:aifs": 10.67,
         "noaa": 12.28,
         "sg": 10.34
       },
@@ -5409,7 +5409,7 @@
       "airTemperature": {
         "dwd": 9.56,
         "ecmwf": 11.93,
-        "ecmwf:aifs": 11.6,
+        "ecmwf:aifs": 11.81,
         "noaa": 12.59,
         "sg": 11.93
       },
@@ -5421,7 +5421,7 @@
       "precipitation": {
         "dwd": 2.32,
         "ecmwf": 0.23,
-        "ecmwf:aifs": 0.65,
+        "ecmwf:aifs": 0.67,
         "noaa": 0.72,
         "sg": 0.23
       },
@@ -5483,14 +5483,14 @@
       "windDirection": {
         "dwd": 258.69,
         "ecmwf": 279.61,
-        "ecmwf:aifs": 271.61,
+        "ecmwf:aifs": 268.58,
         "noaa": 275.39,
         "sg": 279.61
       },
       "windSpeed": {
         "dwd": 5.48,
         "ecmwf": 9.99,
-        "ecmwf:aifs": 9.51,
+        "ecmwf:aifs": 10.63,
         "noaa": 12.78,
         "sg": 9.99
       },
@@ -5517,7 +5517,7 @@
       "airTemperature": {
         "dwd": 9.69,
         "ecmwf": 11.74,
-        "ecmwf:aifs": 11.53,
+        "ecmwf:aifs": 11.79,
         "noaa": 12.51,
         "sg": 11.74
       },
@@ -5529,7 +5529,7 @@
       "precipitation": {
         "dwd": 0.58,
         "ecmwf": 0.25,
-        "ecmwf:aifs": 0.68,
+        "ecmwf:aifs": 0.69,
         "noaa": 0.78,
         "sg": 0.25
       },
@@ -5591,14 +5591,14 @@
       "windDirection": {
         "dwd": 255.36,
         "ecmwf": 281.54,
-        "ecmwf:aifs": 273.27,
+        "ecmwf:aifs": 270.46,
         "noaa": 278.98,
         "sg": 281.54
       },
       "windSpeed": {
         "dwd": 6.44,
         "ecmwf": 9.65,
-        "ecmwf:aifs": 9.53,
+        "ecmwf:aifs": 10.6,
         "noaa": 13.27,
         "sg": 9.65
       },
@@ -5625,7 +5625,7 @@
       "airTemperature": {
         "dwd": 9.47,
         "ecmwf": 11.76,
-        "ecmwf:aifs": 11.45,
+        "ecmwf:aifs": 11.76,
         "noaa": 12.33,
         "sg": 11.76
       },
@@ -5637,7 +5637,7 @@
       "precipitation": {
         "dwd": 0.6,
         "ecmwf": 0.25,
-        "ecmwf:aifs": 0.7,
+        "ecmwf:aifs": 0.72,
         "noaa": 0.79,
         "sg": 0.25
       },
@@ -5699,14 +5699,14 @@
       "windDirection": {
         "dwd": 254.4,
         "ecmwf": 281.85,
-        "ecmwf:aifs": 274.93,
+        "ecmwf:aifs": 272.35,
         "noaa": 280.9,
         "sg": 281.85
       },
       "windSpeed": {
         "dwd": 5.57,
         "ecmwf": 9.68,
-        "ecmwf:aifs": 9.55,
+        "ecmwf:aifs": 10.57,
         "noaa": 13.49,
         "sg": 9.68
       },
@@ -5733,7 +5733,7 @@
       "airTemperature": {
         "dwd": 9.66,
         "ecmwf": 11.78,
-        "ecmwf:aifs": 11.37,
+        "ecmwf:aifs": 11.74,
         "noaa": 12.16,
         "sg": 11.78
       },
@@ -5745,7 +5745,7 @@
       "precipitation": {
         "dwd": 0.47,
         "ecmwf": 0.24,
-        "ecmwf:aifs": 0.73,
+        "ecmwf:aifs": 0.74,
         "noaa": 0.8,
         "sg": 0.24
       },
@@ -5807,14 +5807,14 @@
       "windDirection": {
         "dwd": 260.94,
         "ecmwf": 282.15,
-        "ecmwf:aifs": 276.58,
+        "ecmwf:aifs": 274.24,
         "noaa": 282.82,
         "sg": 282.15
       },
       "windSpeed": {
         "dwd": 5.78,
         "ecmwf": 9.7,
-        "ecmwf:aifs": 9.56,
+        "ecmwf:aifs": 10.53,
         "noaa": 13.72,
         "sg": 9.7
       },
@@ -5841,7 +5841,7 @@
       "airTemperature": {
         "dwd": 9.41,
         "ecmwf": 11.8,
-        "ecmwf:aifs": 11.29,
+        "ecmwf:aifs": 11.71,
         "noaa": 11.98,
         "sg": 11.8
       },
@@ -5853,7 +5853,7 @@
       "precipitation": {
         "dwd": 1.22,
         "ecmwf": 0.24,
-        "ecmwf:aifs": 0.75,
+        "ecmwf:aifs": 0.76,
         "noaa": 0.8,
         "sg": 0.24
       },
@@ -5915,14 +5915,14 @@
       "windDirection": {
         "dwd": 265.13,
         "ecmwf": 282.46,
-        "ecmwf:aifs": 278.24,
+        "ecmwf:aifs": 276.13,
         "noaa": 284.74,
         "sg": 282.46
       },
       "windSpeed": {
         "dwd": 5.89,
         "ecmwf": 9.73,
-        "ecmwf:aifs": 9.58,
+        "ecmwf:aifs": 10.5,
         "noaa": 13.94,
         "sg": 9.73
       },
@@ -5949,7 +5949,7 @@
       "airTemperature": {
         "dwd": 9.61,
         "ecmwf": 11.43,
-        "ecmwf:aifs": 11.46,
+        "ecmwf:aifs": 11.87,
         "noaa": 12.13,
         "sg": 11.43
       },
@@ -5961,7 +5961,7 @@
       "precipitation": {
         "dwd": 1.12,
         "ecmwf": 0.45,
-        "ecmwf:aifs": 0.71,
+        "ecmwf:aifs": 0.68,
         "noaa": 0.68,
         "sg": 0.45
       },
@@ -6023,14 +6023,14 @@
       "windDirection": {
         "dwd": 270.18,
         "ecmwf": 282.11,
-        "ecmwf:aifs": 279.66,
+        "ecmwf:aifs": 272.34,
         "noaa": 285.2,
         "sg": 282.11
       },
       "windSpeed": {
         "dwd": 5.36,
         "ecmwf": 9.92,
-        "ecmwf:aifs": 9.45,
+        "ecmwf:aifs": 10.11,
         "noaa": 13.67,
         "sg": 9.92
       },
@@ -6057,7 +6057,7 @@
       "airTemperature": {
         "dwd": 9.43,
         "ecmwf": 11.06,
-        "ecmwf:aifs": 11.62,
+        "ecmwf:aifs": 12.04,
         "noaa": 12.27,
         "sg": 11.06
       },
@@ -6069,7 +6069,7 @@
       "precipitation": {
         "dwd": 1.14,
         "ecmwf": 0.66,
-        "ecmwf:aifs": 0.67,
+        "ecmwf:aifs": 0.6,
         "noaa": 0.56,
         "sg": 0.66
       },
@@ -6131,14 +6131,14 @@
       "windDirection": {
         "dwd": 261.69,
         "ecmwf": 281.76,
-        "ecmwf:aifs": 281.08,
+        "ecmwf:aifs": 268.55,
         "noaa": 285.66,
         "sg": 281.76
       },
       "windSpeed": {
         "dwd": 5.27,
         "ecmwf": 10.1,
-        "ecmwf:aifs": 9.31,
+        "ecmwf:aifs": 9.73,
         "noaa": 13.4,
         "sg": 10.1
       },
@@ -6165,7 +6165,7 @@
       "airTemperature": {
         "dwd": 9.9,
         "ecmwf": 10.69,
-        "ecmwf:aifs": 11.78,
+        "ecmwf:aifs": 12.2,
         "noaa": 12.41,
         "sg": 10.69
       },
@@ -6177,7 +6177,7 @@
       "precipitation": {
         "dwd": 2.0,
         "ecmwf": 0.88,
-        "ecmwf:aifs": 0.63,
+        "ecmwf:aifs": 0.52,
         "noaa": 0.44,
         "sg": 0.88
       },
@@ -6239,14 +6239,14 @@
       "windDirection": {
         "dwd": 269.5,
         "ecmwf": 281.41,
-        "ecmwf:aifs": 282.5,
+        "ecmwf:aifs": 264.76,
         "noaa": 286.12,
         "sg": 281.41
       },
       "windSpeed": {
         "dwd": 4.85,
         "ecmwf": 10.29,
-        "ecmwf:aifs": 9.18,
+        "ecmwf:aifs": 9.34,
         "noaa": 13.13,
         "sg": 10.29
       },
@@ -6273,7 +6273,7 @@
       "airTemperature": {
         "dwd": 10.37,
         "ecmwf": 10.76,
-        "ecmwf:aifs": 11.94,
+        "ecmwf:aifs": 12.36,
         "noaa": 12.43,
         "sg": 10.76
       },
@@ -6285,7 +6285,7 @@
       "precipitation": {
         "dwd": 1.66,
         "ecmwf": 0.79,
-        "ecmwf:aifs": 0.59,
+        "ecmwf:aifs": 0.44,
         "noaa": 0.46,
         "sg": 0.79
       },
@@ -6347,14 +6347,14 @@
       "windDirection": {
         "dwd": 276.31,
         "ecmwf": 281.41,
-        "ecmwf:aifs": 283.93,
+        "ecmwf:aifs": 260.97,
         "noaa": 288.43,
         "sg": 281.41
       },
       "windSpeed": {
         "dwd": 5.46,
         "ecmwf": 10.66,
-        "ecmwf:aifs": 9.04,
+        "ecmwf:aifs": 8.95,
         "noaa": 13.03,
         "sg": 10.66
       },
@@ -6381,7 +6381,7 @@
       "airTemperature": {
         "dwd": 10.77,
         "ecmwf": 10.84,
-        "ecmwf:aifs": 12.1,
+        "ecmwf:aifs": 12.52,
         "noaa": 12.44,
         "sg": 10.84
       },
@@ -6393,7 +6393,7 @@
       "precipitation": {
         "dwd": 1.03,
         "ecmwf": 0.69,
-        "ecmwf:aifs": 0.55,
+        "ecmwf:aifs": 0.36,
         "noaa": 0.49,
         "sg": 0.69
       },
@@ -6455,14 +6455,14 @@
       "windDirection": {
         "dwd": 268.07,
         "ecmwf": 281.4,
-        "ecmwf:aifs": 285.35,
+        "ecmwf:aifs": 257.18,
         "noaa": 290.75,
         "sg": 281.4
       },
       "windSpeed": {
         "dwd": 5.36,
         "ecmwf": 11.03,
-        "ecmwf:aifs": 8.91,
+        "ecmwf:aifs": 8.57,
         "noaa": 12.92,
         "sg": 11.03
       },
@@ -6489,7 +6489,7 @@
       "airTemperature": {
         "dwd": 11.43,
         "ecmwf": 10.92,
-        "ecmwf:aifs": 12.26,
+        "ecmwf:aifs": 12.69,
         "noaa": 12.46,
         "sg": 10.92
       },
@@ -6501,7 +6501,7 @@
       "precipitation": {
         "dwd": 0.52,
         "ecmwf": 0.6,
-        "ecmwf:aifs": 0.5,
+        "ecmwf:aifs": 0.27,
         "noaa": 0.51,
         "sg": 0.6
       },
@@ -6563,14 +6563,14 @@
       "windDirection": {
         "dwd": 262.14,
         "ecmwf": 281.4,
-        "ecmwf:aifs": 286.77,
+        "ecmwf:aifs": 253.39,
         "noaa": 293.06,
         "sg": 281.4
       },
       "windSpeed": {
         "dwd": 6.12,
         "ecmwf": 11.4,
-        "ecmwf:aifs": 8.77,
+        "ecmwf:aifs": 8.18,
         "noaa": 12.82,
         "sg": 11.4
       },
@@ -6597,7 +6597,7 @@
       "airTemperature": {
         "dwd": 11.2,
         "ecmwf": 11.11,
-        "ecmwf:aifs": 12.28,
+        "ecmwf:aifs": 12.73,
         "noaa": 12.63,
         "sg": 11.11
       },
@@ -6609,7 +6609,7 @@
       "precipitation": {
         "dwd": 0.26,
         "ecmwf": 0.55,
-        "ecmwf:aifs": 0.44,
+        "ecmwf:aifs": 0.4,
         "noaa": 0.43,
         "sg": 0.55
       },
@@ -6671,7 +6671,7 @@
       "windDirection": {
         "dwd": 251.49,
         "ecmwf": 275.68,
-        "ecmwf:aifs": 279.93,
+        "ecmwf:aifs": 242.44,
         "noaa": 292.77,
         "sg": 275.68
       },
@@ -6705,7 +6705,7 @@
       "airTemperature": {
         "dwd": 11.22,
         "ecmwf": 11.3,
-        "ecmwf:aifs": 12.3,
+        "ecmwf:aifs": 12.77,
         "noaa": 12.81,
         "sg": 11.3
       },
@@ -6717,7 +6717,7 @@
       "precipitation": {
         "dwd": 0.52,
         "ecmwf": 0.51,
-        "ecmwf:aifs": 0.38,
+        "ecmwf:aifs": 0.53,
         "noaa": 0.34,
         "sg": 0.51
       },
@@ -6779,14 +6779,14 @@
       "windDirection": {
         "dwd": 249.4,
         "ecmwf": 269.97,
-        "ecmwf:aifs": 273.08,
+        "ecmwf:aifs": 231.5,
         "noaa": 292.48,
         "sg": 269.97
       },
       "windSpeed": {
         "dwd": 6.09,
         "ecmwf": 9.03,
-        "ecmwf:aifs": 8.37,
+        "ecmwf:aifs": 8.95,
         "noaa": 11.3,
         "sg": 9.03
       },
@@ -6813,7 +6813,7 @@
       "airTemperature": {
         "dwd": 11.4,
         "ecmwf": 11.5,
-        "ecmwf:aifs": 12.32,
+        "ecmwf:aifs": 12.81,
         "noaa": 12.98,
         "sg": 11.5
       },
@@ -6825,7 +6825,7 @@
       "precipitation": {
         "dwd": 0.14,
         "ecmwf": 0.46,
-        "ecmwf:aifs": 0.32,
+        "ecmwf:aifs": 0.65,
         "noaa": 0.26,
         "sg": 0.46
       },
@@ -6887,14 +6887,14 @@
       "windDirection": {
         "dwd": 238.8,
         "ecmwf": 264.25,
-        "ecmwf:aifs": 266.24,
+        "ecmwf:aifs": 220.55,
         "noaa": 292.19,
         "sg": 264.25
       },
       "windSpeed": {
         "dwd": 5.21,
         "ecmwf": 7.84,
-        "ecmwf:aifs": 8.17,
+        "ecmwf:aifs": 9.34,
         "noaa": 10.54,
         "sg": 7.84
       },
@@ -6921,7 +6921,7 @@
       "airTemperature": {
         "dwd": 11.02,
         "ecmwf": 11.51,
-        "ecmwf:aifs": 12.35,
+        "ecmwf:aifs": 12.86,
         "noaa": 13.08,
         "sg": 11.51
       },
@@ -6933,7 +6933,7 @@
       "precipitation": {
         "dwd": 0.91,
         "ecmwf": 0.52,
-        "ecmwf:aifs": 0.26,
+        "ecmwf:aifs": 0.78,
         "noaa": 0.22,
         "sg": 0.52
       },
@@ -6995,14 +6995,14 @@
       "windDirection": {
         "dwd": 232.7,
         "ecmwf": 258.37,
-        "ecmwf:aifs": 259.4,
+        "ecmwf:aifs": 209.6,
         "noaa": 283.16,
         "sg": 258.37
       },
       "windSpeed": {
         "dwd": 5.56,
         "ecmwf": 7.58,
-        "ecmwf:aifs": 7.96,
+        "ecmwf:aifs": 9.73,
         "noaa": 9.15,
         "sg": 7.58
       },
@@ -7029,7 +7029,7 @@
       "airTemperature": {
         "dwd": 10.75,
         "ecmwf": 11.53,
-        "ecmwf:aifs": 12.37,
+        "ecmwf:aifs": 12.9,
         "noaa": 13.18,
         "sg": 11.53
       },
@@ -7041,7 +7041,7 @@
       "precipitation": {
         "dwd": 1.51,
         "ecmwf": 0.58,
-        "ecmwf:aifs": 0.2,
+        "ecmwf:aifs": 0.9,
         "noaa": 0.18,
         "sg": 0.58
       },
@@ -7103,14 +7103,14 @@
       "windDirection": {
         "dwd": 235.52,
         "ecmwf": 252.5,
-        "ecmwf:aifs": 252.55,
+        "ecmwf:aifs": 198.66,
         "noaa": 274.13,
         "sg": 252.5
       },
       "windSpeed": {
         "dwd": 6.19,
         "ecmwf": 7.33,
-        "ecmwf:aifs": 7.76,
+        "ecmwf:aifs": 10.11,
         "noaa": 7.76,
         "sg": 7.33
       },
@@ -7137,7 +7137,7 @@
       "airTemperature": {
         "dwd": 10.77,
         "ecmwf": 11.54,
-        "ecmwf:aifs": 12.39,
+        "ecmwf:aifs": 12.94,
         "noaa": 13.29,
         "sg": 11.54
       },
@@ -7149,7 +7149,7 @@
       "precipitation": {
         "dwd": 2.46,
         "ecmwf": 0.64,
-        "ecmwf:aifs": 0.14,
+        "ecmwf:aifs": 1.03,
         "noaa": 0.14,
         "sg": 0.64
       },
@@ -7211,14 +7211,14 @@
       "windDirection": {
         "dwd": 213.17,
         "ecmwf": 246.62,
-        "ecmwf:aifs": 245.71,
+        "ecmwf:aifs": 187.71,
         "noaa": 265.1,
         "sg": 246.62
       },
       "windSpeed": {
         "dwd": 4.75,
         "ecmwf": 7.07,
-        "ecmwf:aifs": 7.56,
+        "ecmwf:aifs": 10.5,
         "noaa": 6.37,
         "sg": 7.07
       },
@@ -7245,7 +7245,7 @@
       "airTemperature": {
         "dwd": 10.89,
         "ecmwf": 11.86,
-        "ecmwf:aifs": 12.5,
+        "ecmwf:aifs": 13.37,
         "noaa": 12.76,
         "sg": 11.86
       },
@@ -7257,7 +7257,7 @@
       "precipitation": {
         "dwd": 3.54,
         "ecmwf": 0.76,
-        "ecmwf:aifs": 0.32,
+        "ecmwf:aifs": 1.02,
         "noaa": 0.18,
         "sg": 0.76
       },
@@ -7319,14 +7319,14 @@
       "windDirection": {
         "dwd": 175.73,
         "ecmwf": 229.93,
-        "ecmwf:aifs": 234.14,
+        "ecmwf:aifs": 201.08,
         "noaa": 249.73,
         "sg": 229.93
       },
       "windSpeed": {
         "dwd": 4.57,
         "ecmwf": 7.44,
-        "ecmwf:aifs": 8.08,
+        "ecmwf:aifs": 10.68,
         "noaa": 7.12,
         "sg": 7.44
       },
@@ -7353,7 +7353,7 @@
       "airTemperature": {
         "dwd": 11.63,
         "ecmwf": 12.18,
-        "ecmwf:aifs": 12.61,
+        "ecmwf:aifs": 13.81,
         "noaa": 12.22,
         "sg": 12.18
       },
@@ -7365,7 +7365,7 @@
       "precipitation": {
         "dwd": 2.49,
         "ecmwf": 0.87,
-        "ecmwf:aifs": 0.5,
+        "ecmwf:aifs": 1.02,
         "noaa": 0.22,
         "sg": 0.87
       },
@@ -7427,14 +7427,14 @@
       "windDirection": {
         "dwd": 180.87,
         "ecmwf": 213.24,
-        "ecmwf:aifs": 222.57,
+        "ecmwf:aifs": 214.46,
         "noaa": 234.37,
         "sg": 213.24
       },
       "windSpeed": {
         "dwd": 6.54,
         "ecmwf": 7.82,
-        "ecmwf:aifs": 8.59,
+        "ecmwf:aifs": 10.86,
         "noaa": 7.86,
         "sg": 7.82
       },
@@ -7461,7 +7461,7 @@
       "airTemperature": {
         "dwd": 12.67,
         "ecmwf": 12.51,
-        "ecmwf:aifs": 12.72,
+        "ecmwf:aifs": 14.24,
         "noaa": 11.69,
         "sg": 12.51
       },
@@ -7473,7 +7473,7 @@
       "precipitation": {
         "dwd": 0.17,
         "ecmwf": 0.98,
-        "ecmwf:aifs": 0.68,
+        "ecmwf:aifs": 1.01,
         "noaa": 0.26,
         "sg": 0.98
       },
@@ -7535,14 +7535,14 @@
       "windDirection": {
         "dwd": 187.44,
         "ecmwf": 196.55,
-        "ecmwf:aifs": 211.0,
+        "ecmwf:aifs": 227.83,
         "noaa": 219.0,
         "sg": 196.55
       },
       "windSpeed": {
         "dwd": 6.52,
         "ecmwf": 8.19,
-        "ecmwf:aifs": 9.11,
+        "ecmwf:aifs": 11.04,
         "noaa": 8.61,
         "sg": 8.19
       },
@@ -7569,7 +7569,7 @@
       "airTemperature": {
         "dwd": 14.45,
         "ecmwf": 12.51,
-        "ecmwf:aifs": 12.82,
+        "ecmwf:aifs": 14.67,
         "noaa": 11.6,
         "sg": 12.51
       },
@@ -7581,7 +7581,7 @@
       "precipitation": {
         "dwd": 0.43,
         "ecmwf": 0.89,
-        "ecmwf:aifs": 0.85,
+        "ecmwf:aifs": 1.0,
         "noaa": 0.49,
         "sg": 0.89
       },
@@ -7643,14 +7643,14 @@
       "windDirection": {
         "dwd": 254.48,
         "ecmwf": 193.76,
-        "ecmwf:aifs": 199.43,
+        "ecmwf:aifs": 241.2,
         "noaa": 200.51,
         "sg": 193.76
       },
       "windSpeed": {
         "dwd": 9.0,
         "ecmwf": 8.89,
-        "ecmwf:aifs": 9.63,
+        "ecmwf:aifs": 11.22,
         "noaa": 9.11,
         "sg": 8.89
       },
@@ -7677,7 +7677,7 @@
       "airTemperature": {
         "dwd": 14.91,
         "ecmwf": 12.51,
-        "ecmwf:aifs": 12.93,
+        "ecmwf:aifs": 15.1,
         "noaa": 11.51,
         "sg": 12.51
       },
@@ -7689,7 +7689,7 @@
       "precipitation": {
         "dwd": 0.32,
         "ecmwf": 0.79,
-        "ecmwf:aifs": 1.03,
+        "ecmwf:aifs": 1.0,
         "noaa": 0.73,
         "sg": 0.79
       },
@@ -7751,14 +7751,14 @@
       "windDirection": {
         "dwd": 258.67,
         "ecmwf": 190.96,
-        "ecmwf:aifs": 187.86,
+        "ecmwf:aifs": 254.58,
         "noaa": 182.02,
         "sg": 190.96
       },
       "windSpeed": {
         "dwd": 9.0,
         "ecmwf": 9.58,
-        "ecmwf:aifs": 10.14,
+        "ecmwf:aifs": 11.4,
         "noaa": 9.61,
         "sg": 9.58
       },
@@ -7785,7 +7785,7 @@
       "airTemperature": {
         "dwd": 14.8,
         "ecmwf": 12.51,
-        "ecmwf:aifs": 13.04,
+        "ecmwf:aifs": 15.53,
         "noaa": 11.42,
         "sg": 12.51
       },
@@ -7797,7 +7797,7 @@
       "precipitation": {
         "dwd": 0.18,
         "ecmwf": 0.7,
-        "ecmwf:aifs": 1.21,
+        "ecmwf:aifs": 0.99,
         "noaa": 0.96,
         "sg": 0.7
       },
@@ -7859,14 +7859,14 @@
       "windDirection": {
         "dwd": 255.24,
         "ecmwf": 188.17,
-        "ecmwf:aifs": 176.29,
+        "ecmwf:aifs": 267.95,
         "noaa": 163.53,
         "sg": 188.17
       },
       "windSpeed": {
         "dwd": 8.39,
         "ecmwf": 10.28,
-        "ecmwf:aifs": 10.66,
+        "ecmwf:aifs": 11.58,
         "noaa": 10.11,
         "sg": 10.28
       },
@@ -7893,7 +7893,7 @@
       "airTemperature": {
         "dwd": 14.65,
         "ecmwf": 13.08,
-        "ecmwf:aifs": 13.36,
+        "ecmwf:aifs": 15.47,
         "noaa": 12.26,
         "sg": 13.08
       },
@@ -7905,7 +7905,7 @@
       "precipitation": {
         "dwd": 0.14,
         "ecmwf": 0.58,
-        "ecmwf:aifs": 1.07,
+        "ecmwf:aifs": 0.93,
         "noaa": 1.23,
         "sg": 0.58
       },
@@ -7967,14 +7967,14 @@
       "windDirection": {
         "dwd": 263.12,
         "ecmwf": 214.77,
-        "ecmwf:aifs": 193.74,
+        "ecmwf:aifs": 267.6,
         "noaa": 172.98,
         "sg": 214.77
       },
       "windSpeed": {
         "dwd": 9.31,
         "ecmwf": 11.22,
-        "ecmwf:aifs": 10.78,
+        "ecmwf:aifs": 11.27,
         "noaa": 9.32,
         "sg": 11.22
       },
@@ -8001,7 +8001,7 @@
       "airTemperature": {
         "dwd": 14.58,
         "ecmwf": 13.64,
-        "ecmwf:aifs": 13.68,
+        "ecmwf:aifs": 15.41,
         "noaa": 13.1,
         "sg": 13.64
       },
@@ -8013,7 +8013,7 @@
       "precipitation": {
         "dwd": 0.13,
         "ecmwf": 0.45,
-        "ecmwf:aifs": 0.94,
+        "ecmwf:aifs": 0.86,
         "noaa": 1.5,
         "sg": 0.45
       },
@@ -8075,14 +8075,14 @@
       "windDirection": {
         "dwd": 265.08,
         "ecmwf": 241.36,
-        "ecmwf:aifs": 211.18,
+        "ecmwf:aifs": 267.24,
         "noaa": 182.44,
         "sg": 241.36
       },
       "windSpeed": {
         "dwd": 8.48,
         "ecmwf": 12.15,
-        "ecmwf:aifs": 10.9,
+        "ecmwf:aifs": 10.96,
         "noaa": 8.54,
         "sg": 12.15
       },
@@ -8109,7 +8109,7 @@
       "airTemperature": {
         "dwd": 14.23,
         "ecmwf": 14.2,
-        "ecmwf:aifs": 13.99,
+        "ecmwf:aifs": 15.36,
         "noaa": 13.93,
         "sg": 14.2
       },
@@ -8183,14 +8183,14 @@
       "windDirection": {
         "dwd": 273.81,
         "ecmwf": 267.96,
-        "ecmwf:aifs": 228.63,
+        "ecmwf:aifs": 266.89,
         "noaa": 191.89,
         "sg": 267.96
       },
       "windSpeed": {
         "dwd": 7.53,
         "ecmwf": 13.09,
-        "ecmwf:aifs": 11.03,
+        "ecmwf:aifs": 10.65,
         "noaa": 7.75,
         "sg": 13.09
       },
@@ -8217,7 +8217,7 @@
       "airTemperature": {
         "dwd": 13.98,
         "ecmwf": 14.44,
-        "ecmwf:aifs": 14.31,
+        "ecmwf:aifs": 15.3,
         "noaa": 14.24,
         "sg": 14.44
       },
@@ -8229,7 +8229,7 @@
       "precipitation": {
         "dwd": 0.12,
         "ecmwf": 0.23,
-        "ecmwf:aifs": 0.67,
+        "ecmwf:aifs": 0.73,
         "noaa": 1.53,
         "sg": 0.23
       },
@@ -8291,14 +8291,14 @@
       "windDirection": {
         "dwd": 266.0,
         "ecmwf": 271.66,
-        "ecmwf:aifs": 246.08,
+        "ecmwf:aifs": 266.54,
         "noaa": 222.7,
         "sg": 271.66
       },
       "windSpeed": {
         "dwd": 6.0,
         "ecmwf": 12.81,
-        "ecmwf:aifs": 11.15,
+        "ecmwf:aifs": 10.35,
         "noaa": 8.18,
         "sg": 12.81
       },
@@ -8325,7 +8325,7 @@
       "airTemperature": {
         "dwd": 13.97,
         "ecmwf": 14.68,
-        "ecmwf:aifs": 14.63,
+        "ecmwf:aifs": 15.24,
         "noaa": 14.55,
         "sg": 14.68
       },
@@ -8337,7 +8337,7 @@
       "precipitation": {
         "dwd": 0.22,
         "ecmwf": 0.14,
-        "ecmwf:aifs": 0.53,
+        "ecmwf:aifs": 0.66,
         "noaa": 1.28,
         "sg": 0.14
       },
@@ -8399,14 +8399,14 @@
       "windDirection": {
         "dwd": 283.44,
         "ecmwf": 275.35,
-        "ecmwf:aifs": 263.52,
+        "ecmwf:aifs": 266.18,
         "noaa": 253.51,
         "sg": 275.35
       },
       "windSpeed": {
         "dwd": 6.77,
         "ecmwf": 12.54,
-        "ecmwf:aifs": 11.27,
+        "ecmwf:aifs": 10.04,
         "noaa": 8.61,
         "sg": 12.54
       },
@@ -8433,7 +8433,7 @@
       "airTemperature": {
         "dwd": 13.69,
         "ecmwf": 14.92,
-        "ecmwf:aifs": 14.94,
+        "ecmwf:aifs": 15.18,
         "noaa": 14.86,
         "sg": 14.92
       },
@@ -8445,7 +8445,7 @@
       "precipitation": {
         "dwd": 0.05,
         "ecmwf": 0.05,
-        "ecmwf:aifs": 0.4,
+        "ecmwf:aifs": 0.6,
         "noaa": 1.04,
         "sg": 0.05
       },
@@ -8507,14 +8507,14 @@
       "windDirection": {
         "dwd": 275.87,
         "ecmwf": 279.05,
-        "ecmwf:aifs": 280.97,
+        "ecmwf:aifs": 265.83,
         "noaa": 284.32,
         "sg": 279.05
       },
       "windSpeed": {
         "dwd": 5.09,
         "ecmwf": 12.26,
-        "ecmwf:aifs": 11.39,
+        "ecmwf:aifs": 9.73,
         "noaa": 9.04,
         "sg": 12.26
       },
@@ -8541,7 +8541,7 @@
       "airTemperature": {
         "dwd": 13.58,
         "ecmwf": 14.92,
-        "ecmwf:aifs": 14.95,
+        "ecmwf:aifs": 15.18,
         "noaa": 14.79,
         "sg": 14.92
       },
@@ -8553,7 +8553,7 @@
       "precipitation": {
         "dwd": 0.22,
         "ecmwf": 0.03,
-        "ecmwf:aifs": 0.36,
+        "ecmwf:aifs": 0.66,
         "noaa": 0.7,
         "sg": 0.03
       },
@@ -8611,14 +8611,14 @@
       "windDirection": {
         "dwd": 264.82,
         "ecmwf": 276.64,
-        "ecmwf:aifs": 278.14,
+        "ecmwf:aifs": 263.46,
         "noaa": 279.31,
         "sg": 276.64
       },
       "windSpeed": {
         "dwd": 4.21,
         "ecmwf": 11.17,
-        "ecmwf:aifs": 10.86,
+        "ecmwf:aifs": 9.64,
         "noaa": 8.27,
         "sg": 11.17
       },
@@ -8642,7 +8642,7 @@
       "airTemperature": {
         "dwd": 13.46,
         "ecmwf": 14.93,
-        "ecmwf:aifs": 14.95,
+        "ecmwf:aifs": 15.19,
         "noaa": 14.73,
         "sg": 14.93
       },
@@ -8654,7 +8654,7 @@
       "precipitation": {
         "dwd": 0.38,
         "ecmwf": 0.02,
-        "ecmwf:aifs": 0.31,
+        "ecmwf:aifs": 0.72,
         "noaa": 0.36,
         "sg": 0.02
       },
@@ -8712,14 +8712,14 @@
       "windDirection": {
         "dwd": 253.76,
         "ecmwf": 274.22,
-        "ecmwf:aifs": 275.31,
+        "ecmwf:aifs": 261.08,
         "noaa": 274.31,
         "sg": 274.22
       },
       "windSpeed": {
         "dwd": 3.33,
         "ecmwf": 10.07,
-        "ecmwf:aifs": 10.32,
+        "ecmwf:aifs": 9.55,
         "noaa": 7.49,
         "sg": 10.07
       },
@@ -8743,7 +8743,7 @@
       "airTemperature": {
         "dwd": 13.35,
         "ecmwf": 14.93,
-        "ecmwf:aifs": 14.96,
+        "ecmwf:aifs": 15.19,
         "noaa": 14.66,
         "sg": 14.93
       },
@@ -8755,7 +8755,7 @@
       "precipitation": {
         "dwd": 0.55,
         "ecmwf": 0.01,
-        "ecmwf:aifs": 0.27,
+        "ecmwf:aifs": 0.79,
         "noaa": 0.02,
         "sg": 0.01
       },
@@ -8813,14 +8813,14 @@
       "windDirection": {
         "dwd": 242.71,
         "ecmwf": 271.81,
-        "ecmwf:aifs": 272.49,
+        "ecmwf:aifs": 258.71,
         "noaa": 269.3,
         "sg": 271.81
       },
       "windSpeed": {
         "dwd": 2.45,
         "ecmwf": 8.98,
-        "ecmwf:aifs": 9.79,
+        "ecmwf:aifs": 9.46,
         "noaa": 6.72,
         "sg": 8.98
       },
@@ -8844,7 +8844,7 @@
       "airTemperature": {
         "dwd": 13.31,
         "ecmwf": 14.73,
-        "ecmwf:aifs": 14.96,
+        "ecmwf:aifs": 15.2,
         "noaa": 14.59,
         "sg": 14.73
       },
@@ -8856,7 +8856,7 @@
       "precipitation": {
         "dwd": 1.17,
         "ecmwf": 0.09,
-        "ecmwf:aifs": 0.23,
+        "ecmwf:aifs": 0.85,
         "noaa": 0.02,
         "sg": 0.09
       },
@@ -8914,14 +8914,14 @@
       "windDirection": {
         "dwd": 213.64,
         "ecmwf": 269.62,
-        "ecmwf:aifs": 269.66,
+        "ecmwf:aifs": 256.34,
         "noaa": 254.91,
         "sg": 269.62
       },
       "windSpeed": {
         "dwd": 2.3,
         "ecmwf": 8.87,
-        "ecmwf:aifs": 9.25,
+        "ecmwf:aifs": 9.37,
         "noaa": 6.1,
         "sg": 8.87
       },
@@ -8945,7 +8945,7 @@
       "airTemperature": {
         "dwd": 13.26,
         "ecmwf": 14.54,
-        "ecmwf:aifs": 14.96,
+        "ecmwf:aifs": 15.2,
         "noaa": 14.53,
         "sg": 14.54
       },
@@ -8957,7 +8957,7 @@
       "precipitation": {
         "dwd": 1.78,
         "ecmwf": 0.17,
-        "ecmwf:aifs": 0.19,
+        "ecmwf:aifs": 0.91,
         "noaa": 0.02,
         "sg": 0.17
       },
@@ -9015,14 +9015,14 @@
       "windDirection": {
         "dwd": 184.57,
         "ecmwf": 267.43,
-        "ecmwf:aifs": 266.83,
+        "ecmwf:aifs": 253.96,
         "noaa": 240.53,
         "sg": 267.43
       },
       "windSpeed": {
         "dwd": 2.16,
         "ecmwf": 8.77,
-        "ecmwf:aifs": 8.72,
+        "ecmwf:aifs": 9.28,
         "noaa": 5.48,
         "sg": 8.77
       },
@@ -9046,7 +9046,7 @@
       "airTemperature": {
         "dwd": 13.22,
         "ecmwf": 14.35,
-        "ecmwf:aifs": 14.97,
+        "ecmwf:aifs": 15.21,
         "noaa": 14.47,
         "sg": 14.35
       },
@@ -9058,7 +9058,7 @@
       "precipitation": {
         "dwd": 2.4,
         "ecmwf": 0.25,
-        "ecmwf:aifs": 0.15,
+        "ecmwf:aifs": 0.97,
         "noaa": 0.02,
         "sg": 0.25
       },
@@ -9116,14 +9116,14 @@
       "windDirection": {
         "dwd": 155.5,
         "ecmwf": 265.24,
-        "ecmwf:aifs": 264.0,
+        "ecmwf:aifs": 251.59,
         "noaa": 226.14,
         "sg": 265.24
       },
       "windSpeed": {
         "dwd": 2.01,
         "ecmwf": 8.66,
-        "ecmwf:aifs": 8.18,
+        "ecmwf:aifs": 9.19,
         "noaa": 4.86,
         "sg": 8.66
       },
@@ -9147,7 +9147,7 @@
       "airTemperature": {
         "dwd": 13.19,
         "ecmwf": 14.25,
-        "ecmwf:aifs": 14.94,
+        "ecmwf:aifs": 15.26,
         "noaa": 14.22,
         "sg": 14.25
       },
@@ -9159,7 +9159,7 @@
       "precipitation": {
         "dwd": 4.69,
         "ecmwf": 0.24,
-        "ecmwf:aifs": 0.21,
+        "ecmwf:aifs": 1.0,
         "noaa": 0.27,
         "sg": 0.24
       },
@@ -9217,14 +9217,14 @@
       "windDirection": {
         "dwd": 159.57,
         "ecmwf": 260.81,
-        "ecmwf:aifs": 258.61,
+        "ecmwf:aifs": 249.77,
         "noaa": 216.34,
         "sg": 260.81
       },
       "windSpeed": {
         "dwd": 2.45,
         "ecmwf": 8.39,
-        "ecmwf:aifs": 8.07,
+        "ecmwf:aifs": 9.66,
         "noaa": 5.38,
         "sg": 8.39
       },
@@ -9248,7 +9248,7 @@
       "airTemperature": {
         "dwd": 13.17,
         "ecmwf": 14.15,
-        "ecmwf:aifs": 14.91,
+        "ecmwf:aifs": 15.31,
         "noaa": 13.98,
         "sg": 14.15
       },
@@ -9260,7 +9260,7 @@
       "precipitation": {
         "dwd": 6.98,
         "ecmwf": 0.23,
-        "ecmwf:aifs": 0.28,
+        "ecmwf:aifs": 1.03,
         "noaa": 0.51,
         "sg": 0.23
       },
@@ -9318,14 +9318,14 @@
       "windDirection": {
         "dwd": 163.64,
         "ecmwf": 256.37,
-        "ecmwf:aifs": 253.22,
+        "ecmwf:aifs": 247.95,
         "noaa": 206.54,
         "sg": 256.37
       },
       "windSpeed": {
         "dwd": 2.9,
         "ecmwf": 8.12,
-        "ecmwf:aifs": 7.96,
+        "ecmwf:aifs": 10.14,
         "noaa": 5.91,
         "sg": 8.12
       },
@@ -9349,7 +9349,7 @@
       "airTemperature": {
         "dwd": 13.14,
         "ecmwf": 14.05,
-        "ecmwf:aifs": 14.88,
+        "ecmwf:aifs": 15.37,
         "noaa": 13.74,
         "sg": 14.05
       },
@@ -9361,7 +9361,7 @@
       "precipitation": {
         "dwd": 9.27,
         "ecmwf": 0.22,
-        "ecmwf:aifs": 0.34,
+        "ecmwf:aifs": 1.06,
         "noaa": 0.76,
         "sg": 0.22
       },
@@ -9419,14 +9419,14 @@
       "windDirection": {
         "dwd": 167.71,
         "ecmwf": 251.94,
-        "ecmwf:aifs": 247.82,
+        "ecmwf:aifs": 246.12,
         "noaa": 196.74,
         "sg": 251.94
       },
       "windSpeed": {
         "dwd": 3.34,
         "ecmwf": 7.85,
-        "ecmwf:aifs": 7.86,
+        "ecmwf:aifs": 10.61,
         "noaa": 6.43,
         "sg": 7.85
       },
@@ -9450,7 +9450,7 @@
       "airTemperature": {
         "dwd": 13.81,
         "ecmwf": 14.3,
-        "ecmwf:aifs": 14.86,
+        "ecmwf:aifs": 15.42,
         "noaa": 14.29,
         "sg": 14.3
       },
@@ -9462,7 +9462,7 @@
       "precipitation": {
         "dwd": 7.21,
         "ecmwf": 0.34,
-        "ecmwf:aifs": 0.4,
+        "ecmwf:aifs": 1.09,
         "noaa": 0.73,
         "sg": 0.34
       },
@@ -9520,14 +9520,14 @@
       "windDirection": {
         "dwd": 190.72,
         "ecmwf": 245.6,
-        "ecmwf:aifs": 242.43,
+        "ecmwf:aifs": 244.3,
         "noaa": 209.44,
         "sg": 245.6
       },
       "windSpeed": {
         "dwd": 5.23,
         "ecmwf": 8.08,
-        "ecmwf:aifs": 7.75,
+        "ecmwf:aifs": 11.08,
         "noaa": 8.89,
         "sg": 8.08
       },
@@ -9551,7 +9551,7 @@
       "airTemperature": {
         "dwd": 14.48,
         "ecmwf": 14.56,
-        "ecmwf:aifs": 14.83,
+        "ecmwf:aifs": 15.47,
         "noaa": 14.85,
         "sg": 14.56
       },
@@ -9563,7 +9563,7 @@
       "precipitation": {
         "dwd": 5.15,
         "ecmwf": 0.45,
-        "ecmwf:aifs": 0.47,
+        "ecmwf:aifs": 1.12,
         "noaa": 0.7,
         "sg": 0.45
       },
@@ -9621,14 +9621,14 @@
       "windDirection": {
         "dwd": 213.73,
         "ecmwf": 239.26,
-        "ecmwf:aifs": 237.04,
+        "ecmwf:aifs": 242.48,
         "noaa": 222.13,
         "sg": 239.26
       },
       "windSpeed": {
         "dwd": 7.12,
         "ecmwf": 8.3,
-        "ecmwf:aifs": 7.64,
+        "ecmwf:aifs": 11.56,
         "noaa": 11.36,
         "sg": 8.3
       },
@@ -9652,7 +9652,7 @@
       "airTemperature": {
         "dwd": 15.15,
         "ecmwf": 14.81,
-        "ecmwf:aifs": 14.8,
+        "ecmwf:aifs": 15.52,
         "noaa": 15.4,
         "sg": 14.81
       },
@@ -9664,7 +9664,7 @@
       "precipitation": {
         "dwd": 3.09,
         "ecmwf": 0.56,
-        "ecmwf:aifs": 0.53,
+        "ecmwf:aifs": 1.15,
         "noaa": 0.67,
         "sg": 0.56
       },
@@ -9722,14 +9722,14 @@
       "windDirection": {
         "dwd": 236.74,
         "ecmwf": 232.92,
-        "ecmwf:aifs": 231.65,
+        "ecmwf:aifs": 240.66,
         "noaa": 234.83,
         "sg": 232.92
       },
       "windSpeed": {
         "dwd": 9.01,
         "ecmwf": 8.53,
-        "ecmwf:aifs": 7.53,
+        "ecmwf:aifs": 12.03,
         "noaa": 13.82,
         "sg": 8.53
       },
@@ -9753,7 +9753,7 @@
       "airTemperature": {
         "dwd": 15.16,
         "ecmwf": 14.78,
-        "ecmwf:aifs": 14.9,
+        "ecmwf:aifs": 15.52,
         "noaa": 15.47,
         "sg": 14.78
       },
@@ -9765,7 +9765,7 @@
       "precipitation": {
         "dwd": 2.7,
         "ecmwf": 0.91,
-        "ecmwf:aifs": 0.63,
+        "ecmwf:aifs": 1.21,
         "noaa": 0.54,
         "sg": 0.91
       },
@@ -9823,14 +9823,14 @@
       "windDirection": {
         "dwd": 233.85,
         "ecmwf": 236.02,
-        "ecmwf:aifs": 231.08,
+        "ecmwf:aifs": 238.25,
         "noaa": 234.96,
         "sg": 236.02
       },
       "windSpeed": {
         "dwd": 9.05,
         "ecmwf": 9.37,
-        "ecmwf:aifs": 8.32,
+        "ecmwf:aifs": 12.3,
         "noaa": 14.48,
         "sg": 9.37
       },
@@ -9854,7 +9854,7 @@
       "airTemperature": {
         "dwd": 15.16,
         "ecmwf": 14.75,
-        "ecmwf:aifs": 14.99,
+        "ecmwf:aifs": 15.51,
         "noaa": 15.53,
         "sg": 14.75
       },
@@ -9866,7 +9866,7 @@
       "precipitation": {
         "dwd": 2.3,
         "ecmwf": 1.25,
-        "ecmwf:aifs": 0.73,
+        "ecmwf:aifs": 1.28,
         "noaa": 0.41,
         "sg": 1.25
       },
@@ -9924,14 +9924,14 @@
       "windDirection": {
         "dwd": 230.97,
         "ecmwf": 239.11,
-        "ecmwf:aifs": 230.52,
+        "ecmwf:aifs": 235.84,
         "noaa": 235.08,
         "sg": 239.11
       },
       "windSpeed": {
         "dwd": 9.09,
         "ecmwf": 10.21,
-        "ecmwf:aifs": 9.12,
+        "ecmwf:aifs": 12.58,
         "noaa": 15.13,
         "sg": 10.21
       },
@@ -9955,7 +9955,7 @@
       "airTemperature": {
         "dwd": 15.17,
         "ecmwf": 14.72,
-        "ecmwf:aifs": 15.09,
+        "ecmwf:aifs": 15.5,
         "noaa": 15.59,
         "sg": 14.72
       },
@@ -9967,7 +9967,7 @@
       "precipitation": {
         "dwd": 1.9,
         "ecmwf": 1.59,
-        "ecmwf:aifs": 0.83,
+        "ecmwf:aifs": 1.34,
         "noaa": 0.28,
         "sg": 1.59
       },
@@ -10025,14 +10025,14 @@
       "windDirection": {
         "dwd": 228.08,
         "ecmwf": 242.21,
-        "ecmwf:aifs": 229.95,
+        "ecmwf:aifs": 233.43,
         "noaa": 235.21,
         "sg": 242.21
       },
       "windSpeed": {
         "dwd": 9.13,
         "ecmwf": 11.05,
-        "ecmwf:aifs": 9.91,
+        "ecmwf:aifs": 12.86,
         "noaa": 15.79,
         "sg": 11.05
       },
@@ -10056,7 +10056,7 @@
       "airTemperature": {
         "dwd": 15.2,
         "ecmwf": 14.87,
-        "ecmwf:aifs": 15.18,
+        "ecmwf:aifs": 15.49,
         "noaa": 15.47,
         "sg": 14.87
       },
@@ -10068,7 +10068,7 @@
       "precipitation": {
         "dwd": 1.8,
         "ecmwf": 1.92,
-        "ecmwf:aifs": 0.92,
+        "ecmwf:aifs": 1.4,
         "noaa": 0.34,
         "sg": 1.92
       },
@@ -10126,14 +10126,14 @@
       "windDirection": {
         "dwd": 227.74,
         "ecmwf": 241.03,
-        "ecmwf:aifs": 229.39,
+        "ecmwf:aifs": 231.02,
         "noaa": 235.34,
         "sg": 241.03
       },
       "windSpeed": {
         "dwd": 9.46,
         "ecmwf": 12.09,
-        "ecmwf:aifs": 10.7,
+        "ecmwf:aifs": 13.13,
         "noaa": 15.59,
         "sg": 12.09
       },
@@ -10157,7 +10157,7 @@
       "airTemperature": {
         "dwd": 15.23,
         "ecmwf": 15.01,
-        "ecmwf:aifs": 15.28,
+        "ecmwf:aifs": 15.49,
         "noaa": 15.36,
         "sg": 15.01
       },
@@ -10169,7 +10169,7 @@
       "precipitation": {
         "dwd": 1.7,
         "ecmwf": 2.25,
-        "ecmwf:aifs": 1.02,
+        "ecmwf:aifs": 1.47,
         "noaa": 0.39,
         "sg": 2.25
       },
@@ -10227,14 +10227,14 @@
       "windDirection": {
         "dwd": 227.41,
         "ecmwf": 239.84,
-        "ecmwf:aifs": 228.82,
+        "ecmwf:aifs": 228.61,
         "noaa": 235.48,
         "sg": 239.84
       },
       "windSpeed": {
         "dwd": 9.8,
         "ecmwf": 13.12,
-        "ecmwf:aifs": 11.5,
+        "ecmwf:aifs": 13.41,
         "noaa": 15.4,
         "sg": 13.12
       },
@@ -10258,7 +10258,7 @@
       "airTemperature": {
         "dwd": 15.26,
         "ecmwf": 15.16,
-        "ecmwf:aifs": 15.37,
+        "ecmwf:aifs": 15.48,
         "noaa": 15.25,
         "sg": 15.16
       },
@@ -10270,7 +10270,7 @@
       "precipitation": {
         "dwd": 1.59,
         "ecmwf": 2.59,
-        "ecmwf:aifs": 1.12,
+        "ecmwf:aifs": 1.53,
         "noaa": 0.45,
         "sg": 2.59
       },
@@ -10328,14 +10328,14 @@
       "windDirection": {
         "dwd": 227.07,
         "ecmwf": 238.66,
-        "ecmwf:aifs": 228.26,
+        "ecmwf:aifs": 226.2,
         "noaa": 235.61,
         "sg": 238.66
       },
       "windSpeed": {
         "dwd": 10.13,
         "ecmwf": 14.16,
-        "ecmwf:aifs": 12.29,
+        "ecmwf:aifs": 13.68,
         "noaa": 15.2,
         "sg": 14.16
       },
@@ -10359,7 +10359,7 @@
       "airTemperature": {
         "dwd": 15.21,
         "ecmwf": 15.2,
-        "ecmwf:aifs": 15.4,
+        "ecmwf:aifs": 15.5,
         "noaa": 15.13,
         "sg": 15.2
       },
@@ -10371,7 +10371,7 @@
       "precipitation": {
         "dwd": 3.07,
         "ecmwf": 2.18,
-        "ecmwf:aifs": 1.17,
+        "ecmwf:aifs": 1.54,
         "noaa": 0.63,
         "sg": 2.18
       },
@@ -10429,14 +10429,14 @@
       "windDirection": {
         "dwd": 225.14,
         "ecmwf": 235.84,
-        "ecmwf:aifs": 230.82,
+        "ecmwf:aifs": 227.59,
         "noaa": 238.57,
         "sg": 235.84
       },
       "windSpeed": {
         "dwd": 10.19,
         "ecmwf": 14.21,
-        "ecmwf:aifs": 12.53,
+        "ecmwf:aifs": 13.77,
         "noaa": 14.36,
         "sg": 14.21
       },
@@ -10460,7 +10460,7 @@
       "airTemperature": {
         "dwd": 15.16,
         "ecmwf": 15.23,
-        "ecmwf:aifs": 15.42,
+        "ecmwf:aifs": 15.51,
         "noaa": 15.01,
         "sg": 15.23
       },
@@ -10472,7 +10472,7 @@
       "precipitation": {
         "dwd": 4.54,
         "ecmwf": 1.77,
-        "ecmwf:aifs": 1.23,
+        "ecmwf:aifs": 1.55,
         "noaa": 0.81,
         "sg": 1.77
       },
@@ -10530,14 +10530,14 @@
       "windDirection": {
         "dwd": 223.22,
         "ecmwf": 233.02,
-        "ecmwf:aifs": 233.37,
+        "ecmwf:aifs": 228.98,
         "noaa": 241.53,
         "sg": 233.02
       },
       "windSpeed": {
         "dwd": 10.26,
         "ecmwf": 14.27,
-        "ecmwf:aifs": 12.76,
+        "ecmwf:aifs": 13.87,
         "noaa": 13.53,
         "sg": 14.27
       },
@@ -10561,7 +10561,7 @@
       "airTemperature": {
         "dwd": 15.12,
         "ecmwf": 15.27,
-        "ecmwf:aifs": 15.44,
+        "ecmwf:aifs": 15.53,
         "noaa": 14.9,
         "sg": 15.27
       },
@@ -10573,7 +10573,7 @@
       "precipitation": {
         "dwd": 6.01,
         "ecmwf": 1.37,
-        "ecmwf:aifs": 1.28,
+        "ecmwf:aifs": 1.56,
         "noaa": 0.98,
         "sg": 1.37
       },
@@ -10631,14 +10631,14 @@
       "windDirection": {
         "dwd": 221.29,
         "ecmwf": 230.2,
-        "ecmwf:aifs": 235.93,
+        "ecmwf:aifs": 230.36,
         "noaa": 244.49,
         "sg": 230.2
       },
       "windSpeed": {
         "dwd": 10.32,
         "ecmwf": 14.32,
-        "ecmwf:aifs": 13.0,
+        "ecmwf:aifs": 13.96,
         "noaa": 12.69,
         "sg": 14.32
       },
@@ -10662,7 +10662,7 @@
       "airTemperature": {
         "dwd": 15.08,
         "ecmwf": 15.2,
-        "ecmwf:aifs": 15.46,
+        "ecmwf:aifs": 15.55,
         "noaa": 15.02,
         "sg": 15.2
       },
@@ -10674,7 +10674,7 @@
       "precipitation": {
         "dwd": 4.34,
         "ecmwf": 1.15,
-        "ecmwf:aifs": 1.34,
+        "ecmwf:aifs": 1.56,
         "noaa": 0.99,
         "sg": 1.15
       },
@@ -10732,14 +10732,14 @@
       "windDirection": {
         "dwd": 229.52,
         "ecmwf": 238.02,
-        "ecmwf:aifs": 238.49,
+        "ecmwf:aifs": 231.75,
         "noaa": 246.13,
         "sg": 238.02
       },
       "windSpeed": {
         "dwd": 9.76,
         "ecmwf": 13.77,
-        "ecmwf:aifs": 13.24,
+        "ecmwf:aifs": 14.05,
         "noaa": 13.11,
         "sg": 13.77
       },
@@ -10763,7 +10763,7 @@
       "airTemperature": {
         "dwd": 15.04,
         "ecmwf": 15.13,
-        "ecmwf:aifs": 15.48,
+        "ecmwf:aifs": 15.57,
         "noaa": 15.14,
         "sg": 15.13
       },
@@ -10775,7 +10775,7 @@
       "precipitation": {
         "dwd": 2.68,
         "ecmwf": 0.92,
-        "ecmwf:aifs": 1.39,
+        "ecmwf:aifs": 1.57,
         "noaa": 1.0,
         "sg": 0.92
       },
@@ -10833,14 +10833,14 @@
       "windDirection": {
         "dwd": 237.76,
         "ecmwf": 245.84,
-        "ecmwf:aifs": 241.04,
+        "ecmwf:aifs": 233.14,
         "noaa": 247.77,
         "sg": 245.84
       },
       "windSpeed": {
         "dwd": 9.2,
         "ecmwf": 13.22,
-        "ecmwf:aifs": 13.47,
+        "ecmwf:aifs": 14.15,
         "noaa": 13.54,
         "sg": 13.22
       },
@@ -10864,7 +10864,7 @@
       "airTemperature": {
         "dwd": 15.01,
         "ecmwf": 15.06,
-        "ecmwf:aifs": 15.5,
+        "ecmwf:aifs": 15.58,
         "noaa": 15.26,
         "sg": 15.06
       },
@@ -10876,7 +10876,7 @@
       "precipitation": {
         "dwd": 1.02,
         "ecmwf": 0.7,
-        "ecmwf:aifs": 1.45,
+        "ecmwf:aifs": 1.58,
         "noaa": 1.0,
         "sg": 0.7
       },
@@ -10934,14 +10934,14 @@
       "windDirection": {
         "dwd": 245.99,
         "ecmwf": 253.66,
-        "ecmwf:aifs": 243.6,
+        "ecmwf:aifs": 234.53,
         "noaa": 249.41,
         "sg": 253.66
       },
       "windSpeed": {
         "dwd": 8.64,
         "ecmwf": 12.67,
-        "ecmwf:aifs": 13.71,
+        "ecmwf:aifs": 14.24,
         "noaa": 13.96,
         "sg": 12.67
       },
@@ -10965,7 +10965,7 @@
       "airTemperature": {
         "dwd": 14.91,
         "ecmwf": 14.87,
-        "ecmwf:aifs": 15.43,
+        "ecmwf:aifs": 15.52,
         "noaa": 15.04,
         "sg": 14.87
       },
@@ -10977,7 +10977,7 @@
       "precipitation": {
         "dwd": 0.76,
         "ecmwf": 0.56,
-        "ecmwf:aifs": 1.25,
+        "ecmwf:aifs": 1.37,
         "noaa": 0.77,
         "sg": 0.56
       },
@@ -11035,14 +11035,14 @@
       "windDirection": {
         "dwd": 241.92,
         "ecmwf": 251.55,
-        "ecmwf:aifs": 243.09,
+        "ecmwf:aifs": 235.74,
         "noaa": 251.43,
         "sg": 251.55
       },
       "windSpeed": {
         "dwd": 8.41,
         "ecmwf": 12.58,
-        "ecmwf:aifs": 13.54,
+        "ecmwf:aifs": 14.03,
         "noaa": 13.58,
         "sg": 12.58
       },
@@ -11066,7 +11066,7 @@
       "airTemperature": {
         "dwd": 14.81,
         "ecmwf": 14.68,
-        "ecmwf:aifs": 15.36,
+        "ecmwf:aifs": 15.45,
         "noaa": 14.83,
         "sg": 14.68
       },
@@ -11078,7 +11078,7 @@
       "precipitation": {
         "dwd": 0.49,
         "ecmwf": 0.43,
-        "ecmwf:aifs": 1.05,
+        "ecmwf:aifs": 1.15,
         "noaa": 0.54,
         "sg": 0.43
       },
@@ -11136,14 +11136,14 @@
       "windDirection": {
         "dwd": 237.85,
         "ecmwf": 249.45,
-        "ecmwf:aifs": 242.57,
+        "ecmwf:aifs": 236.95,
         "noaa": 253.44,
         "sg": 249.45
       },
       "windSpeed": {
         "dwd": 8.18,
         "ecmwf": 12.48,
-        "ecmwf:aifs": 13.37,
+        "ecmwf:aifs": 13.83,
         "noaa": 13.19,
         "sg": 12.48
       },
@@ -11167,7 +11167,7 @@
       "airTemperature": {
         "dwd": 14.7,
         "ecmwf": 14.49,
-        "ecmwf:aifs": 15.29,
+        "ecmwf:aifs": 15.39,
         "noaa": 14.62,
         "sg": 14.49
       },
@@ -11179,7 +11179,7 @@
       "precipitation": {
         "dwd": 0.23,
         "ecmwf": 0.3,
-        "ecmwf:aifs": 0.84,
+        "ecmwf:aifs": 0.94,
         "noaa": 0.31,
         "sg": 0.3
       },
@@ -11237,14 +11237,14 @@
       "windDirection": {
         "dwd": 233.78,
         "ecmwf": 247.34,
-        "ecmwf:aifs": 242.06,
+        "ecmwf:aifs": 238.15,
         "noaa": 255.46,
         "sg": 247.34
       },
       "windSpeed": {
         "dwd": 7.95,
         "ecmwf": 12.39,
-        "ecmwf:aifs": 13.2,
+        "ecmwf:aifs": 13.62,
         "noaa": 12.81,
         "sg": 12.39
       },
@@ -11268,7 +11268,7 @@
       "airTemperature": {
         "dwd": 14.97,
         "ecmwf": 14.38,
-        "ecmwf:aifs": 15.22,
+        "ecmwf:aifs": 15.32,
         "noaa": 14.54,
         "sg": 14.38
       },
@@ -11280,7 +11280,7 @@
       "precipitation": {
         "dwd": 0.26,
         "ecmwf": 0.38,
-        "ecmwf:aifs": 0.64,
+        "ecmwf:aifs": 0.72,
         "noaa": 0.3,
         "sg": 0.38
       },
@@ -11338,14 +11338,14 @@
       "windDirection": {
         "dwd": 234.34,
         "ecmwf": 246.15,
-        "ecmwf:aifs": 241.55,
+        "ecmwf:aifs": 239.36,
         "noaa": 254.1,
         "sg": 246.15
       },
       "windSpeed": {
         "dwd": 8.64,
         "ecmwf": 12.53,
-        "ecmwf:aifs": 13.03,
+        "ecmwf:aifs": 13.42,
         "noaa": 12.75,
         "sg": 12.53
       },
@@ -11369,7 +11369,7 @@
       "airTemperature": {
         "dwd": 15.23,
         "ecmwf": 14.26,
-        "ecmwf:aifs": 15.15,
+        "ecmwf:aifs": 15.26,
         "noaa": 14.46,
         "sg": 14.26
       },
@@ -11381,7 +11381,7 @@
       "precipitation": {
         "dwd": 0.29,
         "ecmwf": 0.46,
-        "ecmwf:aifs": 0.44,
+        "ecmwf:aifs": 0.51,
         "noaa": 0.28,
         "sg": 0.46
       },
@@ -11439,14 +11439,14 @@
       "windDirection": {
         "dwd": 234.91,
         "ecmwf": 244.96,
-        "ecmwf:aifs": 241.03,
+        "ecmwf:aifs": 240.57,
         "noaa": 252.74,
         "sg": 244.96
       },
       "windSpeed": {
         "dwd": 9.33,
         "ecmwf": 12.67,
-        "ecmwf:aifs": 12.86,
+        "ecmwf:aifs": 13.22,
         "noaa": 12.7,
         "sg": 12.67
       },
@@ -11470,7 +11470,7 @@
       "airTemperature": {
         "dwd": 15.49,
         "ecmwf": 14.14,
-        "ecmwf:aifs": 15.08,
+        "ecmwf:aifs": 15.19,
         "noaa": 14.38,
         "sg": 14.14
       },
@@ -11482,7 +11482,7 @@
       "precipitation": {
         "dwd": 0.31,
         "ecmwf": 0.54,
-        "ecmwf:aifs": 0.24,
+        "ecmwf:aifs": 0.29,
         "noaa": 0.27,
         "sg": 0.54
       },
@@ -11540,14 +11540,14 @@
       "windDirection": {
         "dwd": 235.47,
         "ecmwf": 243.77,
-        "ecmwf:aifs": 240.52,
+        "ecmwf:aifs": 241.78,
         "noaa": 251.38,
         "sg": 243.77
       },
       "windSpeed": {
         "dwd": 10.02,
         "ecmwf": 12.81,
-        "ecmwf:aifs": 12.69,
+        "ecmwf:aifs": 13.01,
         "noaa": 12.64,
         "sg": 12.81
       },
@@ -11571,7 +11571,7 @@
       "airTemperature": {
         "dwd": 15.19,
         "ecmwf": 14.22,
-        "ecmwf:aifs": 14.97,
+        "ecmwf:aifs": 15.09,
         "noaa": 14.27,
         "sg": 14.22
       },
@@ -11583,7 +11583,7 @@
       "precipitation": {
         "dwd": 1.27,
         "ecmwf": 0.45,
-        "ecmwf:aifs": 0.24,
+        "ecmwf:aifs": 0.26,
         "noaa": 0.26,
         "sg": 0.45
       },
@@ -11641,14 +11641,14 @@
       "windDirection": {
         "dwd": 238.11,
         "ecmwf": 246.45,
-        "ecmwf:aifs": 241.51,
+        "ecmwf:aifs": 242.05,
         "noaa": 251.22,
         "sg": 246.45
       },
       "windSpeed": {
         "dwd": 9.95,
         "ecmwf": 12.82,
-        "ecmwf:aifs": 12.78,
+        "ecmwf:aifs": 12.77,
         "noaa": 12.65,
         "sg": 12.82
       },
@@ -11672,7 +11672,7 @@
       "airTemperature": {
         "dwd": 14.9,
         "ecmwf": 14.3,
-        "ecmwf:aifs": 14.86,
+        "ecmwf:aifs": 14.99,
         "noaa": 14.17,
         "sg": 14.3
       },
@@ -11684,7 +11684,7 @@
       "precipitation": {
         "dwd": 2.23,
         "ecmwf": 0.36,
-        "ecmwf:aifs": 0.24,
+        "ecmwf:aifs": 0.23,
         "noaa": 0.25,
         "sg": 0.36
       },
@@ -11742,14 +11742,14 @@
       "windDirection": {
         "dwd": 240.76,
         "ecmwf": 249.14,
-        "ecmwf:aifs": 242.5,
+        "ecmwf:aifs": 242.31,
         "noaa": 251.07,
         "sg": 249.14
       },
       "windSpeed": {
         "dwd": 9.87,
         "ecmwf": 12.84,
-        "ecmwf:aifs": 12.86,
+        "ecmwf:aifs": 12.52,
         "noaa": 12.66,
         "sg": 12.84
       },
@@ -11773,7 +11773,7 @@
       "airTemperature": {
         "dwd": 14.61,
         "ecmwf": 14.38,
-        "ecmwf:aifs": 14.75,
+        "ecmwf:aifs": 14.89,
         "noaa": 14.06,
         "sg": 14.38
       },
@@ -11785,7 +11785,7 @@
       "precipitation": {
         "dwd": 3.19,
         "ecmwf": 0.27,
-        "ecmwf:aifs": 0.24,
+        "ecmwf:aifs": 0.2,
         "noaa": 0.23,
         "sg": 0.27
       },
@@ -11843,14 +11843,14 @@
       "windDirection": {
         "dwd": 243.4,
         "ecmwf": 251.82,
-        "ecmwf:aifs": 243.49,
+        "ecmwf:aifs": 242.58,
         "noaa": 250.91,
         "sg": 251.82
       },
       "windSpeed": {
         "dwd": 9.8,
         "ecmwf": 12.85,
-        "ecmwf:aifs": 12.95,
+        "ecmwf:aifs": 12.28,
         "noaa": 12.67,
         "sg": 12.85
       },
@@ -11874,7 +11874,7 @@
       "airTemperature": {
         "dwd": 14.21,
         "ecmwf": 14.37,
-        "ecmwf:aifs": 14.64,
+        "ecmwf:aifs": 14.78,
         "noaa": 13.96,
         "sg": 14.37
       },
@@ -11886,7 +11886,7 @@
       "precipitation": {
         "dwd": 2.84,
         "ecmwf": 0.2,
-        "ecmwf:aifs": 0.24,
+        "ecmwf:aifs": 0.17,
         "noaa": 0.23,
         "sg": 0.2
       },
@@ -11944,14 +11944,14 @@
       "windDirection": {
         "dwd": 242.28,
         "ecmwf": 252.09,
-        "ecmwf:aifs": 244.48,
+        "ecmwf:aifs": 242.85,
         "noaa": 250.5,
         "sg": 252.09
       },
       "windSpeed": {
         "dwd": 8.95,
         "ecmwf": 12.08,
-        "ecmwf:aifs": 13.04,
+        "ecmwf:aifs": 12.04,
         "noaa": 12.35,
         "sg": 12.08
       },
@@ -11975,7 +11975,7 @@
       "airTemperature": {
         "dwd": 13.81,
         "ecmwf": 14.37,
-        "ecmwf:aifs": 14.53,
+        "ecmwf:aifs": 14.68,
         "noaa": 13.85,
         "sg": 14.37
       },
@@ -11987,7 +11987,7 @@
       "precipitation": {
         "dwd": 2.49,
         "ecmwf": 0.13,
-        "ecmwf:aifs": 0.23,
+        "ecmwf:aifs": 0.15,
         "noaa": 0.22,
         "sg": 0.13
       },
@@ -12045,14 +12045,14 @@
       "windDirection": {
         "dwd": 241.16,
         "ecmwf": 252.36,
-        "ecmwf:aifs": 245.47,
+        "ecmwf:aifs": 243.11,
         "noaa": 250.08,
         "sg": 252.36
       },
       "windSpeed": {
         "dwd": 8.1,
         "ecmwf": 11.3,
-        "ecmwf:aifs": 13.12,
+        "ecmwf:aifs": 11.79,
         "noaa": 12.03,
         "sg": 11.3
       },
@@ -12076,7 +12076,7 @@
       "airTemperature": {
         "dwd": 13.41,
         "ecmwf": 14.37,
-        "ecmwf:aifs": 14.42,
+        "ecmwf:aifs": 14.58,
         "noaa": 13.75,
         "sg": 14.37
       },
@@ -12088,7 +12088,7 @@
       "precipitation": {
         "dwd": 2.14,
         "ecmwf": 0.06,
-        "ecmwf:aifs": 0.23,
+        "ecmwf:aifs": 0.12,
         "noaa": 0.21,
         "sg": 0.06
       },
@@ -12146,14 +12146,14 @@
       "windDirection": {
         "dwd": 240.04,
         "ecmwf": 252.63,
-        "ecmwf:aifs": 246.46,
+        "ecmwf:aifs": 243.38,
         "noaa": 249.67,
         "sg": 252.63
       },
       "windSpeed": {
         "dwd": 7.25,
         "ecmwf": 10.53,
-        "ecmwf:aifs": 13.21,
+        "ecmwf:aifs": 11.55,
         "noaa": 11.71,
         "sg": 10.53
       },
@@ -12177,7 +12177,7 @@
       "airTemperature": {
         "dwd": 13.15,
         "ecmwf": 13.9,
-        "ecmwf:aifs": 14.35,
+        "ecmwf:aifs": 14.47,
         "noaa": 13.68,
         "sg": 13.9
       },
@@ -12189,7 +12189,7 @@
       "precipitation": {
         "dwd": 2.24,
         "ecmwf": 0.17,
-        "ecmwf:aifs": 0.25,
+        "ecmwf:aifs": 0.14,
         "noaa": 0.2,
         "sg": 0.17
       },
@@ -12247,14 +12247,14 @@
       "windDirection": {
         "dwd": 240.71,
         "ecmwf": 253.01,
-        "ecmwf:aifs": 246.25,
+        "ecmwf:aifs": 241.93,
         "noaa": 247.01,
         "sg": 253.01
       },
       "windSpeed": {
         "dwd": 7.21,
         "ecmwf": 10.08,
-        "ecmwf:aifs": 12.96,
+        "ecmwf:aifs": 11.46,
         "noaa": 11.45,
         "sg": 10.08
       },
@@ -12278,7 +12278,7 @@
       "airTemperature": {
         "dwd": 12.9,
         "ecmwf": 13.42,
-        "ecmwf:aifs": 14.27,
+        "ecmwf:aifs": 14.36,
         "noaa": 13.61,
         "sg": 13.42
       },
@@ -12290,7 +12290,7 @@
       "precipitation": {
         "dwd": 2.34,
         "ecmwf": 0.29,
-        "ecmwf:aifs": 0.27,
+        "ecmwf:aifs": 0.16,
         "noaa": 0.19,
         "sg": 0.29
       },
@@ -12348,14 +12348,14 @@
       "windDirection": {
         "dwd": 241.38,
         "ecmwf": 253.38,
-        "ecmwf:aifs": 246.05,
+        "ecmwf:aifs": 240.48,
         "noaa": 244.34,
         "sg": 253.38
       },
       "windSpeed": {
         "dwd": 7.17,
         "ecmwf": 9.63,
-        "ecmwf:aifs": 12.72,
+        "ecmwf:aifs": 11.37,
         "noaa": 11.19,
         "sg": 9.63
       },
@@ -12379,7 +12379,7 @@
       "airTemperature": {
         "dwd": 12.65,
         "ecmwf": 12.95,
-        "ecmwf:aifs": 14.2,
+        "ecmwf:aifs": 14.25,
         "noaa": 13.54,
         "sg": 12.95
       },
@@ -12391,7 +12391,7 @@
       "precipitation": {
         "dwd": 2.44,
         "ecmwf": 0.4,
-        "ecmwf:aifs": 0.28,
+        "ecmwf:aifs": 0.18,
         "noaa": 0.19,
         "sg": 0.4
       },
@@ -12449,14 +12449,14 @@
       "windDirection": {
         "dwd": 242.05,
         "ecmwf": 253.76,
-        "ecmwf:aifs": 245.84,
+        "ecmwf:aifs": 239.03,
         "noaa": 241.68,
         "sg": 253.76
       },
       "windSpeed": {
         "dwd": 7.13,
         "ecmwf": 9.18,
-        "ecmwf:aifs": 12.47,
+        "ecmwf:aifs": 11.29,
         "noaa": 10.93,
         "sg": 9.18
       },
@@ -12480,7 +12480,7 @@
       "airTemperature": {
         "dwd": 12.57,
         "ecmwf": 12.84,
-        "ecmwf:aifs": 14.12,
+        "ecmwf:aifs": 14.13,
         "noaa": 13.52,
         "sg": 12.84
       },
@@ -12492,7 +12492,7 @@
       "precipitation": {
         "dwd": 2.17,
         "ecmwf": 0.6,
-        "ecmwf:aifs": 0.3,
+        "ecmwf:aifs": 0.2,
         "noaa": 0.2,
         "sg": 0.6
       },
@@ -12550,14 +12550,14 @@
       "windDirection": {
         "dwd": 242.21,
         "ecmwf": 254.46,
-        "ecmwf:aifs": 245.63,
+        "ecmwf:aifs": 237.58,
         "noaa": 239.53,
         "sg": 254.46
       },
       "windSpeed": {
         "dwd": 6.72,
         "ecmwf": 9.35,
-        "ecmwf:aifs": 12.23,
+        "ecmwf:aifs": 11.2,
         "noaa": 11.09,
         "sg": 9.35
       },
@@ -12581,7 +12581,7 @@
       "airTemperature": {
         "dwd": 12.49,
         "ecmwf": 12.72,
-        "ecmwf:aifs": 14.05,
+        "ecmwf:aifs": 14.02,
         "noaa": 13.49,
         "sg": 12.72
       },
@@ -12593,7 +12593,7 @@
       "precipitation": {
         "dwd": 1.91,
         "ecmwf": 0.79,
-        "ecmwf:aifs": 0.32,
+        "ecmwf:aifs": 0.22,
         "noaa": 0.2,
         "sg": 0.79
       },
@@ -12651,14 +12651,14 @@
       "windDirection": {
         "dwd": 242.38,
         "ecmwf": 255.15,
-        "ecmwf:aifs": 245.43,
+        "ecmwf:aifs": 236.13,
         "noaa": 237.39,
         "sg": 255.15
       },
       "windSpeed": {
         "dwd": 6.32,
         "ecmwf": 9.52,
-        "ecmwf:aifs": 11.98,
+        "ecmwf:aifs": 11.11,
         "noaa": 11.25,
         "sg": 9.52
       },
@@ -12682,7 +12682,7 @@
       "airTemperature": {
         "dwd": 12.4,
         "ecmwf": 12.6,
-        "ecmwf:aifs": 13.98,
+        "ecmwf:aifs": 13.91,
         "noaa": 13.46,
         "sg": 12.6
       },
@@ -12694,7 +12694,7 @@
       "precipitation": {
         "dwd": 1.65,
         "ecmwf": 0.98,
-        "ecmwf:aifs": 0.33,
+        "ecmwf:aifs": 0.24,
         "noaa": 0.21,
         "sg": 0.98
       },
@@ -12752,14 +12752,14 @@
       "windDirection": {
         "dwd": 242.54,
         "ecmwf": 255.85,
-        "ecmwf:aifs": 245.22,
+        "ecmwf:aifs": 234.68,
         "noaa": 235.24,
         "sg": 255.85
       },
       "windSpeed": {
         "dwd": 5.91,
         "ecmwf": 9.69,
-        "ecmwf:aifs": 11.74,
+        "ecmwf:aifs": 11.02,
         "noaa": 11.41,
         "sg": 9.69
       },
@@ -12781,7 +12781,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.88,
+        "ecmwf:aifs": 13.77,
         "noaa": 13.5,
         "sg": 13.5
       },
@@ -12790,7 +12790,7 @@
         "sg": 98.6
       },
       "precipitation": {
-        "ecmwf:aifs": 0.35,
+        "ecmwf:aifs": 0.29,
         "noaa": 0.3,
         "sg": 0.3
       },
@@ -12843,12 +12843,12 @@
         "sg": 9.76
       },
       "windDirection": {
-        "ecmwf:aifs": 245.16,
+        "ecmwf:aifs": 236.18,
         "noaa": 233.13,
         "sg": 233.13
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.74,
+        "ecmwf:aifs": 11.07,
         "noaa": 11.72,
         "sg": 11.72
       },
@@ -12870,7 +12870,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.78,
+        "ecmwf:aifs": 13.63,
         "noaa": 13.54,
         "sg": 13.54
       },
@@ -12879,7 +12879,7 @@
         "sg": 97.2
       },
       "precipitation": {
-        "ecmwf:aifs": 0.37,
+        "ecmwf:aifs": 0.35,
         "noaa": 0.39,
         "sg": 0.39
       },
@@ -12932,12 +12932,12 @@
         "sg": 9.78
       },
       "windDirection": {
-        "ecmwf:aifs": 245.1,
+        "ecmwf:aifs": 237.69,
         "noaa": 231.02,
         "sg": 231.02
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.75,
+        "ecmwf:aifs": 11.11,
         "noaa": 12.03,
         "sg": 12.03
       },
@@ -12959,7 +12959,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.69,
+        "ecmwf:aifs": 13.49,
         "noaa": 13.58,
         "sg": 13.58
       },
@@ -13021,12 +13021,12 @@
         "sg": 9.81
       },
       "windDirection": {
-        "ecmwf:aifs": 245.04,
+        "ecmwf:aifs": 239.19,
         "noaa": 228.91,
         "sg": 228.91
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.76,
+        "ecmwf:aifs": 11.16,
         "noaa": 12.34,
         "sg": 12.34
       },
@@ -13048,7 +13048,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.59,
+        "ecmwf:aifs": 13.35,
         "noaa": 13.22,
         "sg": 13.22
       },
@@ -13057,7 +13057,7 @@
         "sg": 83.83
       },
       "precipitation": {
-        "ecmwf:aifs": 0.42,
+        "ecmwf:aifs": 0.45,
         "noaa": 0.51,
         "sg": 0.51
       },
@@ -13110,12 +13110,12 @@
         "sg": 9.77
       },
       "windDirection": {
-        "ecmwf:aifs": 244.97,
+        "ecmwf:aifs": 240.69,
         "noaa": 235.27,
         "sg": 235.27
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.76,
+        "ecmwf:aifs": 11.2,
         "noaa": 13.27,
         "sg": 13.27
       },
@@ -13137,7 +13137,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.5,
+        "ecmwf:aifs": 13.21,
         "noaa": 12.86,
         "sg": 12.86
       },
@@ -13146,7 +13146,7 @@
         "sg": 71.87
       },
       "precipitation": {
-        "ecmwf:aifs": 0.44,
+        "ecmwf:aifs": 0.51,
         "noaa": 0.55,
         "sg": 0.55
       },
@@ -13199,12 +13199,12 @@
         "sg": 9.72
       },
       "windDirection": {
-        "ecmwf:aifs": 244.91,
+        "ecmwf:aifs": 242.2,
         "noaa": 241.62,
         "sg": 241.62
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.77,
+        "ecmwf:aifs": 11.25,
         "noaa": 14.21,
         "sg": 14.21
       },
@@ -13226,7 +13226,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.4,
+        "ecmwf:aifs": 13.07,
         "noaa": 12.51,
         "sg": 12.51
       },
@@ -13235,7 +13235,7 @@
         "sg": 59.9
       },
       "precipitation": {
-        "ecmwf:aifs": 0.46,
+        "ecmwf:aifs": 0.56,
         "noaa": 0.58,
         "sg": 0.58
       },
@@ -13288,12 +13288,12 @@
         "sg": 9.68
       },
       "windDirection": {
-        "ecmwf:aifs": 244.85,
+        "ecmwf:aifs": 243.7,
         "noaa": 247.98,
         "sg": 247.98
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.77,
+        "ecmwf:aifs": 11.29,
         "noaa": 15.14,
         "sg": 15.14
       },
@@ -13315,7 +13315,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.39,
+        "ecmwf:aifs": 13.1,
         "noaa": 12.25,
         "sg": 12.25
       },
@@ -13324,7 +13324,7 @@
         "sg": 70.6
       },
       "precipitation": {
-        "ecmwf:aifs": 0.47,
+        "ecmwf:aifs": 0.54,
         "noaa": 0.78,
         "sg": 0.78
       },
@@ -13377,12 +13377,12 @@
         "sg": 9.54
       },
       "windDirection": {
-        "ecmwf:aifs": 244.99,
+        "ecmwf:aifs": 244.27,
         "noaa": 255.91,
         "sg": 255.91
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.7,
+        "ecmwf:aifs": 11.17,
         "noaa": 14.12,
         "sg": 14.12
       },
@@ -13404,7 +13404,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.38,
+        "ecmwf:aifs": 13.13,
         "noaa": 11.99,
         "sg": 11.99
       },
@@ -13413,7 +13413,7 @@
         "sg": 81.3
       },
       "precipitation": {
-        "ecmwf:aifs": 0.47,
+        "ecmwf:aifs": 0.51,
         "noaa": 0.98,
         "sg": 0.98
       },
@@ -13466,12 +13466,12 @@
         "sg": 9.4
       },
       "windDirection": {
-        "ecmwf:aifs": 245.14,
+        "ecmwf:aifs": 244.84,
         "noaa": 263.85,
         "sg": 263.85
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.63,
+        "ecmwf:aifs": 11.05,
         "noaa": 13.09,
         "sg": 13.09
       },
@@ -13493,7 +13493,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.37,
+        "ecmwf:aifs": 13.16,
         "noaa": 11.73,
         "sg": 11.73
       },
@@ -13502,7 +13502,7 @@
         "sg": 92.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.48,
+        "ecmwf:aifs": 0.49,
         "noaa": 1.18,
         "sg": 1.18
       },
@@ -13555,12 +13555,12 @@
         "sg": 9.26
       },
       "windDirection": {
-        "ecmwf:aifs": 245.28,
+        "ecmwf:aifs": 245.42,
         "noaa": 271.78,
         "sg": 271.78
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.56,
+        "ecmwf:aifs": 10.93,
         "noaa": 12.07,
         "sg": 12.07
       },
@@ -13582,7 +13582,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.36,
+        "ecmwf:aifs": 13.19,
         "noaa": 12.11,
         "sg": 12.11
       },
@@ -13591,7 +13591,7 @@
         "sg": 63.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.49,
+        "ecmwf:aifs": 0.47,
         "noaa": 1.04,
         "sg": 1.04
       },
@@ -13644,12 +13644,12 @@
         "sg": 9.12
       },
       "windDirection": {
-        "ecmwf:aifs": 245.42,
+        "ecmwf:aifs": 245.99,
         "noaa": 272.67,
         "sg": 272.67
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.48,
+        "ecmwf:aifs": 10.8,
         "noaa": 11.99,
         "sg": 11.99
       },
@@ -13671,7 +13671,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.35,
+        "ecmwf:aifs": 13.23,
         "noaa": 12.49,
         "sg": 12.49
       },
@@ -13680,7 +13680,7 @@
         "sg": 34.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.49,
+        "ecmwf:aifs": 0.44,
         "noaa": 0.9,
         "sg": 0.9
       },
@@ -13733,12 +13733,12 @@
         "sg": 8.99
       },
       "windDirection": {
-        "ecmwf:aifs": 245.57,
+        "ecmwf:aifs": 246.56,
         "noaa": 273.55,
         "sg": 273.55
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.41,
+        "ecmwf:aifs": 10.68,
         "noaa": 11.9,
         "sg": 11.9
       },
@@ -13760,7 +13760,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.35,
+        "ecmwf:aifs": 13.26,
         "noaa": 12.87,
         "sg": 12.87
       },
@@ -13769,7 +13769,7 @@
         "sg": 5.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.5,
+        "ecmwf:aifs": 0.42,
         "noaa": 0.75,
         "sg": 0.75
       },
@@ -13822,12 +13822,12 @@
         "sg": 8.85
       },
       "windDirection": {
-        "ecmwf:aifs": 245.71,
+        "ecmwf:aifs": 247.13,
         "noaa": 274.44,
         "sg": 274.44
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.34,
+        "ecmwf:aifs": 10.56,
         "noaa": 11.82,
         "sg": 11.82
       },
@@ -13849,7 +13849,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.26,
+        "ecmwf:aifs": 13.18,
         "noaa": 12.85,
         "sg": 12.85
       },
@@ -13858,7 +13858,7 @@
         "sg": 4.1
       },
       "precipitation": {
-        "ecmwf:aifs": 0.47,
+        "ecmwf:aifs": 0.4,
         "noaa": 0.6,
         "sg": 0.6
       },
@@ -13911,12 +13911,12 @@
         "sg": 8.81
       },
       "windDirection": {
-        "ecmwf:aifs": 247.59,
+        "ecmwf:aifs": 247.97,
         "noaa": 273.66,
         "sg": 273.66
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.13,
+        "ecmwf:aifs": 10.45,
         "noaa": 11.86,
         "sg": 11.86
       },
@@ -13938,7 +13938,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.18,
+        "ecmwf:aifs": 13.11,
         "noaa": 12.82,
         "sg": 12.82
       },
@@ -13947,7 +13947,7 @@
         "sg": 3.2
       },
       "precipitation": {
-        "ecmwf:aifs": 0.44,
+        "ecmwf:aifs": 0.38,
         "noaa": 0.45,
         "sg": 0.45
       },
@@ -14000,12 +14000,12 @@
         "sg": 8.76
       },
       "windDirection": {
-        "ecmwf:aifs": 249.46,
+        "ecmwf:aifs": 248.81,
         "noaa": 272.87,
         "sg": 272.87
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.93,
+        "ecmwf:aifs": 10.35,
         "noaa": 11.91,
         "sg": 11.91
       },
@@ -14027,7 +14027,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.1,
+        "ecmwf:aifs": 13.03,
         "noaa": 12.8,
         "sg": 12.8
       },
@@ -14036,7 +14036,7 @@
         "sg": 2.3
       },
       "precipitation": {
-        "ecmwf:aifs": 0.41,
+        "ecmwf:aifs": 0.36,
         "noaa": 0.29,
         "sg": 0.29
       },
@@ -14089,12 +14089,12 @@
         "sg": 8.72
       },
       "windDirection": {
-        "ecmwf:aifs": 251.33,
+        "ecmwf:aifs": 249.65,
         "noaa": 272.09,
         "sg": 272.09
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.72,
+        "ecmwf:aifs": 10.24,
         "noaa": 11.95,
         "sg": 11.95
       },
@@ -14116,7 +14116,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.02,
+        "ecmwf:aifs": 12.96,
         "noaa": 12.77,
         "sg": 12.77
       },
@@ -14125,7 +14125,7 @@
         "sg": 4.8
       },
       "precipitation": {
-        "ecmwf:aifs": 0.38,
+        "ecmwf:aifs": 0.34,
         "noaa": 0.28,
         "sg": 0.28
       },
@@ -14178,12 +14178,12 @@
         "sg": 8.71
       },
       "windDirection": {
-        "ecmwf:aifs": 253.21,
+        "ecmwf:aifs": 250.49,
         "noaa": 271.96,
         "sg": 271.96
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.51,
+        "ecmwf:aifs": 10.13,
         "noaa": 12.23,
         "sg": 12.23
       },
@@ -14205,7 +14205,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.93,
+        "ecmwf:aifs": 12.88,
         "noaa": 12.74,
         "sg": 12.74
       },
@@ -14214,7 +14214,7 @@
         "sg": 7.3
       },
       "precipitation": {
-        "ecmwf:aifs": 0.35,
+        "ecmwf:aifs": 0.32,
         "noaa": 0.28,
         "sg": 0.28
       },
@@ -14267,12 +14267,12 @@
         "sg": 8.71
       },
       "windDirection": {
-        "ecmwf:aifs": 255.08,
+        "ecmwf:aifs": 251.33,
         "noaa": 271.82,
         "sg": 271.82
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.31,
+        "ecmwf:aifs": 10.03,
         "noaa": 12.5,
         "sg": 12.5
       },
@@ -14294,7 +14294,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.85,
+        "ecmwf:aifs": 12.81,
         "noaa": 12.71,
         "sg": 12.71
       },
@@ -14303,7 +14303,7 @@
         "sg": 9.8
       },
       "precipitation": {
-        "ecmwf:aifs": 0.32,
+        "ecmwf:aifs": 0.3,
         "noaa": 0.27,
         "sg": 0.27
       },
@@ -14356,12 +14356,12 @@
         "sg": 8.7
       },
       "windDirection": {
-        "ecmwf:aifs": 256.96,
+        "ecmwf:aifs": 252.17,
         "noaa": 271.69,
         "sg": 271.69
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.1,
+        "ecmwf:aifs": 9.92,
         "noaa": 12.78,
         "sg": 12.78
       },
@@ -14383,7 +14383,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.85,
+        "ecmwf:aifs": 12.79,
         "noaa": 12.65,
         "sg": 12.65
       },
@@ -14392,7 +14392,7 @@
         "sg": 7.67
       },
       "precipitation": {
-        "ecmwf:aifs": 0.31,
+        "ecmwf:aifs": 0.29,
         "noaa": 0.33,
         "sg": 0.33
       },
@@ -14445,12 +14445,12 @@
         "sg": 8.82
       },
       "windDirection": {
-        "ecmwf:aifs": 258.6,
+        "ecmwf:aifs": 254.01,
         "noaa": 272.39,
         "sg": 272.39
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.92,
+        "ecmwf:aifs": 9.75,
         "noaa": 12.84,
         "sg": 12.84
       },
@@ -14472,7 +14472,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.85,
+        "ecmwf:aifs": 12.77,
         "noaa": 12.6,
         "sg": 12.6
       },
@@ -14481,7 +14481,7 @@
         "sg": 5.53
       },
       "precipitation": {
-        "ecmwf:aifs": 0.3,
+        "ecmwf:aifs": 0.29,
         "noaa": 0.4,
         "sg": 0.4
       },
@@ -14534,12 +14534,12 @@
         "sg": 8.93
       },
       "windDirection": {
-        "ecmwf:aifs": 260.25,
+        "ecmwf:aifs": 255.86,
         "noaa": 273.1,
         "sg": 273.1
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.74,
+        "ecmwf:aifs": 9.58,
         "noaa": 12.91,
         "sg": 12.91
       },
@@ -14561,7 +14561,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.85,
+        "ecmwf:aifs": 12.76,
         "noaa": 12.55,
         "sg": 12.55
       },
@@ -14623,12 +14623,12 @@
         "sg": 9.05
       },
       "windDirection": {
-        "ecmwf:aifs": 261.89,
+        "ecmwf:aifs": 257.7,
         "noaa": 273.8,
         "sg": 273.8
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.56,
+        "ecmwf:aifs": 9.41,
         "noaa": 12.97,
         "sg": 12.97
       },
@@ -14650,7 +14650,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.85,
+        "ecmwf:aifs": 12.74,
         "noaa": 12.62,
         "sg": 12.62
       },
@@ -14712,12 +14712,12 @@
         "sg": 9.17
       },
       "windDirection": {
-        "ecmwf:aifs": 263.53,
+        "ecmwf:aifs": 259.54,
         "noaa": 270.62,
         "sg": 270.62
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.38,
+        "ecmwf:aifs": 9.23,
         "noaa": 12.45,
         "sg": 12.45
       },
@@ -14739,7 +14739,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.86,
+        "ecmwf:aifs": 12.72,
         "noaa": 12.69,
         "sg": 12.69
       },
@@ -14748,7 +14748,7 @@
         "sg": 67.8
       },
       "precipitation": {
-        "ecmwf:aifs": 0.28,
+        "ecmwf:aifs": 0.29,
         "noaa": 0.37,
         "sg": 0.37
       },
@@ -14801,12 +14801,12 @@
         "sg": 9.3
       },
       "windDirection": {
-        "ecmwf:aifs": 265.18,
+        "ecmwf:aifs": 261.39,
         "noaa": 267.45,
         "sg": 267.45
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.2,
+        "ecmwf:aifs": 9.06,
         "noaa": 11.92,
         "sg": 11.92
       },
@@ -14828,7 +14828,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.86,
+        "ecmwf:aifs": 12.7,
         "noaa": 12.77,
         "sg": 12.77
       },
@@ -14837,7 +14837,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.27,
+        "ecmwf:aifs": 0.28,
         "noaa": 0.32,
         "sg": 0.32
       },
@@ -14890,12 +14890,12 @@
         "sg": 9.42
       },
       "windDirection": {
-        "ecmwf:aifs": 266.82,
+        "ecmwf:aifs": 263.23,
         "noaa": 264.27,
         "sg": 264.27
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.02,
+        "ecmwf:aifs": 8.89,
         "noaa": 11.4,
         "sg": 11.4
       },
@@ -14917,7 +14917,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.81,
+        "ecmwf:aifs": 12.7,
         "noaa": 12.67,
         "sg": 12.67
       },
@@ -14926,7 +14926,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.29,
+        "ecmwf:aifs": 0.3,
         "noaa": 0.42,
         "sg": 0.42
       },
@@ -14979,12 +14979,12 @@
         "sg": 9.33
       },
       "windDirection": {
-        "ecmwf:aifs": 270.82,
+        "ecmwf:aifs": 265.77,
         "noaa": 260.98,
         "sg": 260.98
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.06,
+        "ecmwf:aifs": 8.86,
         "noaa": 10.5,
         "sg": 10.5
       },
@@ -15006,7 +15006,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.77,
+        "ecmwf:aifs": 12.69,
         "noaa": 12.57,
         "sg": 12.57
       },
@@ -15068,12 +15068,12 @@
         "sg": 9.24
       },
       "windDirection": {
-        "ecmwf:aifs": 274.82,
+        "ecmwf:aifs": 268.3,
         "noaa": 257.69,
         "sg": 257.69
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.1,
+        "ecmwf:aifs": 8.84,
         "noaa": 9.6,
         "sg": 9.6
       },
@@ -15095,7 +15095,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.73,
+        "ecmwf:aifs": 12.68,
         "noaa": 12.47,
         "sg": 12.47
       },
@@ -15104,7 +15104,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.35,
+        "ecmwf:aifs": 0.34,
         "noaa": 0.6,
         "sg": 0.6
       },
@@ -15157,12 +15157,12 @@
         "sg": 9.15
       },
       "windDirection": {
-        "ecmwf:aifs": 278.82,
+        "ecmwf:aifs": 270.84,
         "noaa": 254.4,
         "sg": 254.4
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.15,
+        "ecmwf:aifs": 8.81,
         "noaa": 8.7,
         "sg": 8.7
       },
@@ -15184,7 +15184,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.69,
+        "ecmwf:aifs": 12.67,
         "noaa": 12.49,
         "sg": 12.49
       },
@@ -15193,7 +15193,7 @@
         "sg": 94.83
       },
       "precipitation": {
-        "ecmwf:aifs": 0.38,
+        "ecmwf:aifs": 0.36,
         "noaa": 0.62,
         "sg": 0.62
       },
@@ -15246,12 +15246,12 @@
         "sg": 8.96
       },
       "windDirection": {
-        "ecmwf:aifs": 282.82,
+        "ecmwf:aifs": 273.37,
         "noaa": 258.65,
         "sg": 258.65
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.19,
+        "ecmwf:aifs": 8.78,
         "noaa": 8.83,
         "sg": 8.83
       },
@@ -15273,7 +15273,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.64,
+        "ecmwf:aifs": 12.66,
         "noaa": 12.5,
         "sg": 12.5
       },
@@ -15282,7 +15282,7 @@
         "sg": 89.67
       },
       "precipitation": {
-        "ecmwf:aifs": 0.41,
+        "ecmwf:aifs": 0.38,
         "noaa": 0.63,
         "sg": 0.63
       },
@@ -15335,12 +15335,12 @@
         "sg": 8.76
       },
       "windDirection": {
-        "ecmwf:aifs": 286.82,
+        "ecmwf:aifs": 275.91,
         "noaa": 262.91,
         "sg": 262.91
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.23,
+        "ecmwf:aifs": 8.76,
         "noaa": 8.96,
         "sg": 8.96
       },
@@ -15362,7 +15362,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.6,
+        "ecmwf:aifs": 12.66,
         "noaa": 12.52,
         "sg": 12.52
       },
@@ -15371,7 +15371,7 @@
         "sg": 84.5
       },
       "precipitation": {
-        "ecmwf:aifs": 0.44,
+        "ecmwf:aifs": 0.4,
         "noaa": 0.64,
         "sg": 0.64
       },
@@ -15424,12 +15424,12 @@
         "sg": 8.57
       },
       "windDirection": {
-        "ecmwf:aifs": 290.82,
+        "ecmwf:aifs": 278.44,
         "noaa": 267.16,
         "sg": 267.16
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.27,
+        "ecmwf:aifs": 8.73,
         "noaa": 9.09,
         "sg": 9.09
       },
@@ -15451,7 +15451,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.76,
+        "ecmwf:aifs": 12.78,
         "noaa": 12.66,
         "sg": 12.66
       },
@@ -15460,7 +15460,7 @@
         "sg": 58.6
       },
       "precipitation": {
-        "ecmwf:aifs": 0.4,
+        "ecmwf:aifs": 0.36,
         "noaa": 0.54,
         "sg": 0.54
       },
@@ -15513,12 +15513,12 @@
         "sg": 8.59
       },
       "windDirection": {
-        "ecmwf:aifs": 290.58,
+        "ecmwf:aifs": 273.43,
         "noaa": 272.63,
         "sg": 272.63
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.13,
+        "ecmwf:aifs": 8.74,
         "noaa": 9.03,
         "sg": 9.03
       },
@@ -15540,7 +15540,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.93,
+        "ecmwf:aifs": 12.91,
         "noaa": 12.8,
         "sg": 12.8
       },
@@ -15549,7 +15549,7 @@
         "sg": 32.7
       },
       "precipitation": {
-        "ecmwf:aifs": 0.36,
+        "ecmwf:aifs": 0.32,
         "noaa": 0.44,
         "sg": 0.44
       },
@@ -15602,12 +15602,12 @@
         "sg": 8.6
       },
       "windDirection": {
-        "ecmwf:aifs": 290.34,
+        "ecmwf:aifs": 268.43,
         "noaa": 278.11,
         "sg": 278.11
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.0,
+        "ecmwf:aifs": 8.74,
         "noaa": 8.97,
         "sg": 8.97
       },
@@ -15629,7 +15629,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.09,
+        "ecmwf:aifs": 13.04,
         "noaa": 12.94,
         "sg": 12.94
       },
@@ -15638,7 +15638,7 @@
         "sg": 6.8
       },
       "precipitation": {
-        "ecmwf:aifs": 0.32,
+        "ecmwf:aifs": 0.28,
         "noaa": 0.34,
         "sg": 0.34
       },
@@ -15691,12 +15691,12 @@
         "sg": 8.62
       },
       "windDirection": {
-        "ecmwf:aifs": 290.11,
+        "ecmwf:aifs": 263.42,
         "noaa": 283.58,
         "sg": 283.58
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.86,
+        "ecmwf:aifs": 8.75,
         "noaa": 8.91,
         "sg": 8.91
       },
@@ -15718,7 +15718,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.25,
+        "ecmwf:aifs": 13.16,
         "noaa": 13.0,
         "sg": 13.0
       },
@@ -15727,7 +15727,7 @@
         "sg": 37.87
       },
       "precipitation": {
-        "ecmwf:aifs": 0.28,
+        "ecmwf:aifs": 0.24,
         "noaa": 0.32,
         "sg": 0.32
       },
@@ -15780,12 +15780,12 @@
         "sg": 8.67
       },
       "windDirection": {
-        "ecmwf:aifs": 289.87,
+        "ecmwf:aifs": 258.41,
         "noaa": 287.17,
         "sg": 287.17
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.72,
+        "ecmwf:aifs": 8.76,
         "noaa": 8.78,
         "sg": 8.78
       },
@@ -15807,7 +15807,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.42,
+        "ecmwf:aifs": 13.29,
         "noaa": 13.06,
         "sg": 13.06
       },
@@ -15816,7 +15816,7 @@
         "sg": 68.93
       },
       "precipitation": {
-        "ecmwf:aifs": 0.24,
+        "ecmwf:aifs": 0.2,
         "noaa": 0.31,
         "sg": 0.31
       },
@@ -15869,12 +15869,12 @@
         "sg": 8.72
       },
       "windDirection": {
-        "ecmwf:aifs": 289.63,
+        "ecmwf:aifs": 253.41,
         "noaa": 290.75,
         "sg": 290.75
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.59,
+        "ecmwf:aifs": 8.76,
         "noaa": 8.66,
         "sg": 8.66
       },
@@ -15896,7 +15896,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.58,
+        "ecmwf:aifs": 13.42,
         "noaa": 13.12,
         "sg": 13.12
       },
@@ -15905,7 +15905,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.2,
+        "ecmwf:aifs": 0.16,
         "noaa": 0.29,
         "sg": 0.29
       },
@@ -15958,12 +15958,12 @@
         "sg": 8.77
       },
       "windDirection": {
-        "ecmwf:aifs": 289.39,
+        "ecmwf:aifs": 248.4,
         "noaa": 294.34,
         "sg": 294.34
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.45,
+        "ecmwf:aifs": 8.77,
         "noaa": 8.53,
         "sg": 8.53
       },
@@ -15985,7 +15985,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.62,
+        "ecmwf:aifs": 13.47,
         "noaa": 13.23,
         "sg": 13.23
       },
@@ -15994,7 +15994,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.18,
+        "ecmwf:aifs": 0.33,
         "noaa": 0.2,
         "sg": 0.2
       },
@@ -16047,12 +16047,12 @@
         "sg": 8.81
       },
       "windDirection": {
-        "ecmwf:aifs": 286.35,
+        "ecmwf:aifs": 243.75,
         "noaa": 290.88,
         "sg": 290.88
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.39,
+        "ecmwf:aifs": 9.36,
         "noaa": 7.79,
         "sg": 7.79
       },
@@ -16074,7 +16074,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.67,
+        "ecmwf:aifs": 13.53,
         "noaa": 13.34,
         "sg": 13.34
       },
@@ -16083,7 +16083,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.16,
+        "ecmwf:aifs": 0.51,
         "noaa": 0.11,
         "sg": 0.11
       },
@@ -16136,12 +16136,12 @@
         "sg": 8.84
       },
       "windDirection": {
-        "ecmwf:aifs": 283.32,
+        "ecmwf:aifs": 239.1,
         "noaa": 287.42,
         "sg": 287.42
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.32,
+        "ecmwf:aifs": 9.95,
         "noaa": 7.06,
         "sg": 7.06
       },
@@ -16163,7 +16163,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.72,
+        "ecmwf:aifs": 13.59,
         "noaa": 13.46,
         "sg": 13.46
       },
@@ -16172,7 +16172,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.13,
+        "ecmwf:aifs": 0.69,
         "noaa": 0.03,
         "sg": 0.03
       },
@@ -16225,12 +16225,12 @@
         "sg": 8.88
       },
       "windDirection": {
-        "ecmwf:aifs": 280.28,
+        "ecmwf:aifs": 234.45,
         "noaa": 283.96,
         "sg": 283.96
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.26,
+        "ecmwf:aifs": 10.55,
         "noaa": 6.32,
         "sg": 6.32
       },
@@ -16252,7 +16252,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.76,
+        "ecmwf:aifs": 13.65,
         "noaa": 13.55,
         "sg": 13.55
       },
@@ -16261,7 +16261,7 @@
         "sg": 94.17
       },
       "precipitation": {
-        "ecmwf:aifs": 0.11,
+        "ecmwf:aifs": 0.86,
         "noaa": 0.02,
         "sg": 0.02
       },
@@ -16314,12 +16314,12 @@
         "sg": 8.88
       },
       "windDirection": {
-        "ecmwf:aifs": 277.24,
+        "ecmwf:aifs": 229.8,
         "noaa": 272.17,
         "sg": 272.17
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.2,
+        "ecmwf:aifs": 11.14,
         "noaa": 6.0,
         "sg": 6.0
       },
@@ -16341,7 +16341,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.81,
+        "ecmwf:aifs": 13.71,
         "noaa": 13.65,
         "sg": 13.65
       },
@@ -16350,7 +16350,7 @@
         "sg": 88.33
       },
       "precipitation": {
-        "ecmwf:aifs": 0.09,
+        "ecmwf:aifs": 1.04,
         "noaa": 0.02,
         "sg": 0.02
       },
@@ -16403,12 +16403,12 @@
         "sg": 8.89
       },
       "windDirection": {
-        "ecmwf:aifs": 274.21,
+        "ecmwf:aifs": 225.15,
         "noaa": 260.39,
         "sg": 260.39
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.13,
+        "ecmwf:aifs": 11.73,
         "noaa": 5.68,
         "sg": 5.68
       },
@@ -16430,7 +16430,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.85,
+        "ecmwf:aifs": 13.77,
         "noaa": 13.75,
         "sg": 13.75
       },
@@ -16439,7 +16439,7 @@
         "sg": 82.5
       },
       "precipitation": {
-        "ecmwf:aifs": 0.06,
+        "ecmwf:aifs": 1.21,
         "noaa": 0.01,
         "sg": 0.01
       },
@@ -16492,12 +16492,12 @@
         "sg": 8.89
       },
       "windDirection": {
-        "ecmwf:aifs": 271.17,
+        "ecmwf:aifs": 220.5,
         "noaa": 248.6,
         "sg": 248.6
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.07,
+        "ecmwf:aifs": 12.32,
         "noaa": 5.36,
         "sg": 5.36
       },
@@ -16519,7 +16519,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.92,
+        "ecmwf:aifs": 13.97,
         "noaa": 13.81,
         "sg": 13.81
       },
@@ -16528,7 +16528,7 @@
         "sg": 88.33
       },
       "precipitation": {
-        "ecmwf:aifs": 0.06,
+        "ecmwf:aifs": 1.15,
         "noaa": 0.01,
         "sg": 0.01
       },
@@ -16581,12 +16581,12 @@
         "sg": 8.89
       },
       "windDirection": {
-        "ecmwf:aifs": 263.89,
+        "ecmwf:aifs": 223.67,
         "noaa": 236.09,
         "sg": 236.09
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.28,
+        "ecmwf:aifs": 12.38,
         "noaa": 6.45,
         "sg": 6.45
       },
@@ -16608,7 +16608,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.99,
+        "ecmwf:aifs": 14.17,
         "noaa": 13.88,
         "sg": 13.88
       },
@@ -16617,7 +16617,7 @@
         "sg": 94.17
       },
       "precipitation": {
-        "ecmwf:aifs": 0.06,
+        "ecmwf:aifs": 1.08,
         "noaa": 0.01,
         "sg": 0.01
       },
@@ -16670,12 +16670,12 @@
         "sg": 8.9
       },
       "windDirection": {
-        "ecmwf:aifs": 256.61,
+        "ecmwf:aifs": 226.84,
         "noaa": 223.59,
         "sg": 223.59
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.49,
+        "ecmwf:aifs": 12.45,
         "noaa": 7.54,
         "sg": 7.54
       },
@@ -16697,7 +16697,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.05,
+        "ecmwf:aifs": 14.37,
         "noaa": 13.94,
         "sg": 13.94
       },
@@ -16706,7 +16706,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.06,
+        "ecmwf:aifs": 1.01,
         "noaa": 0.01,
         "sg": 0.01
       },
@@ -16759,12 +16759,12 @@
         "sg": 8.9
       },
       "windDirection": {
-        "ecmwf:aifs": 249.33,
+        "ecmwf:aifs": 230.01,
         "noaa": 211.08,
         "sg": 211.08
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.7,
+        "ecmwf:aifs": 12.51,
         "noaa": 8.63,
         "sg": 8.63
       },
@@ -16786,7 +16786,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.12,
+        "ecmwf:aifs": 14.57,
         "noaa": 14.05,
         "sg": 14.05
       },
@@ -16795,7 +16795,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.06,
+        "ecmwf:aifs": 0.95,
         "noaa": 0.01,
         "sg": 0.01
       },
@@ -16848,12 +16848,12 @@
         "sg": 8.89
       },
       "windDirection": {
-        "ecmwf:aifs": 242.05,
+        "ecmwf:aifs": 233.19,
         "noaa": 209.14,
         "sg": 209.14
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.92,
+        "ecmwf:aifs": 12.58,
         "noaa": 9.42,
         "sg": 9.42
       },
@@ -16875,7 +16875,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.19,
+        "ecmwf:aifs": 14.78,
         "noaa": 14.16,
         "sg": 14.16
       },
@@ -16884,7 +16884,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.06,
+        "ecmwf:aifs": 0.88,
         "noaa": 0.01,
         "sg": 0.01
       },
@@ -16937,12 +16937,12 @@
         "sg": 8.88
       },
       "windDirection": {
-        "ecmwf:aifs": 234.77,
+        "ecmwf:aifs": 236.36,
         "noaa": 207.2,
         "sg": 207.2
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.13,
+        "ecmwf:aifs": 12.64,
         "noaa": 10.2,
         "sg": 10.2
       },
@@ -16964,7 +16964,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.25,
+        "ecmwf:aifs": 14.98,
         "noaa": 14.27,
         "sg": 14.27
       },
@@ -16973,7 +16973,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.06,
+        "ecmwf:aifs": 0.81,
         "noaa": 0.01,
         "sg": 0.01
       },
@@ -17026,12 +17026,12 @@
         "sg": 8.87
       },
       "windDirection": {
-        "ecmwf:aifs": 227.49,
+        "ecmwf:aifs": 239.53,
         "noaa": 205.26,
         "sg": 205.26
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.34,
+        "ecmwf:aifs": 12.71,
         "noaa": 10.99,
         "sg": 10.99
       },
@@ -17053,7 +17053,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.28,
+        "ecmwf:aifs": 15.0,
         "noaa": 14.43,
         "sg": 14.43
       },
@@ -17062,7 +17062,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.08,
+        "ecmwf:aifs": 0.72,
         "noaa": 0.04,
         "sg": 0.04
       },
@@ -17115,12 +17115,12 @@
         "sg": 8.77
       },
       "windDirection": {
-        "ecmwf:aifs": 225.95,
+        "ecmwf:aifs": 237.61,
         "noaa": 210.42,
         "sg": 210.42
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.9,
+        "ecmwf:aifs": 12.88,
         "noaa": 11.2,
         "sg": 11.2
       },
@@ -17142,7 +17142,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.31,
+        "ecmwf:aifs": 15.02,
         "noaa": 14.59,
         "sg": 14.59
       },
@@ -17151,7 +17151,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.1,
+        "ecmwf:aifs": 0.62,
         "noaa": 0.06,
         "sg": 0.06
       },
@@ -17204,12 +17204,12 @@
         "sg": 8.66
       },
       "windDirection": {
-        "ecmwf:aifs": 224.41,
+        "ecmwf:aifs": 235.69,
         "noaa": 215.57,
         "sg": 215.57
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.45,
+        "ecmwf:aifs": 13.04,
         "noaa": 11.4,
         "sg": 11.4
       },
@@ -17231,7 +17231,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.33,
+        "ecmwf:aifs": 15.04,
         "noaa": 14.75,
         "sg": 14.75
       },
@@ -17240,7 +17240,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.13,
+        "ecmwf:aifs": 0.52,
         "noaa": 0.09,
         "sg": 0.09
       },
@@ -17293,12 +17293,12 @@
         "sg": 8.56
       },
       "windDirection": {
-        "ecmwf:aifs": 222.88,
+        "ecmwf:aifs": 233.77,
         "noaa": 220.73,
         "sg": 220.73
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.01,
+        "ecmwf:aifs": 13.21,
         "noaa": 11.61,
         "sg": 11.61
       },
@@ -17320,7 +17320,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.36,
+        "ecmwf:aifs": 15.06,
         "noaa": 14.85,
         "sg": 14.85
       },
@@ -17329,7 +17329,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.15,
+        "ecmwf:aifs": 0.43,
         "noaa": 0.17,
         "sg": 0.17
       },
@@ -17382,12 +17382,12 @@
         "sg": 8.42
       },
       "windDirection": {
-        "ecmwf:aifs": 221.34,
+        "ecmwf:aifs": 231.85,
         "noaa": 223.81,
         "sg": 223.81
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.57,
+        "ecmwf:aifs": 13.38,
         "noaa": 12.63,
         "sg": 12.63
       },
@@ -17409,7 +17409,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.39,
+        "ecmwf:aifs": 15.08,
         "noaa": 14.95,
         "sg": 14.95
       },
@@ -17418,7 +17418,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.18,
+        "ecmwf:aifs": 0.33,
         "noaa": 0.24,
         "sg": 0.24
       },
@@ -17471,12 +17471,12 @@
         "sg": 8.29
       },
       "windDirection": {
-        "ecmwf:aifs": 219.8,
+        "ecmwf:aifs": 229.93,
         "noaa": 226.88,
         "sg": 226.88
       },
       "windSpeed": {
-        "ecmwf:aifs": 12.12,
+        "ecmwf:aifs": 13.54,
         "noaa": 13.65,
         "sg": 13.65
       },
@@ -17498,7 +17498,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.41,
+        "ecmwf:aifs": 15.1,
         "noaa": 15.04,
         "sg": 15.04
       },
@@ -17507,7 +17507,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.2,
+        "ecmwf:aifs": 0.23,
         "noaa": 0.32,
         "sg": 0.32
       },
@@ -17560,12 +17560,12 @@
         "sg": 8.15
       },
       "windDirection": {
-        "ecmwf:aifs": 218.26,
+        "ecmwf:aifs": 228.01,
         "noaa": 229.96,
         "sg": 229.96
       },
       "windSpeed": {
-        "ecmwf:aifs": 12.68,
+        "ecmwf:aifs": 13.71,
         "noaa": 14.67,
         "sg": 14.67
       },
@@ -17587,7 +17587,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.5,
+        "ecmwf:aifs": 15.1,
         "noaa": 14.84,
         "sg": 14.84
       },
@@ -17596,7 +17596,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.41,
+        "ecmwf:aifs": 0.44,
         "noaa": 0.61,
         "sg": 0.61
       },
@@ -17649,12 +17649,12 @@
         "sg": 7.94
       },
       "windDirection": {
-        "ecmwf:aifs": 222.22,
+        "ecmwf:aifs": 228.3,
         "noaa": 227.65,
         "sg": 227.65
       },
       "windSpeed": {
-        "ecmwf:aifs": 12.59,
+        "ecmwf:aifs": 13.91,
         "noaa": 14.5,
         "sg": 14.5
       },
@@ -17676,7 +17676,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.6,
+        "ecmwf:aifs": 15.11,
         "noaa": 14.64,
         "sg": 14.64
       },
@@ -17685,7 +17685,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.62,
+        "ecmwf:aifs": 0.65,
         "noaa": 0.89,
         "sg": 0.89
       },
@@ -17738,12 +17738,12 @@
         "sg": 7.73
       },
       "windDirection": {
-        "ecmwf:aifs": 226.18,
+        "ecmwf:aifs": 228.58,
         "noaa": 225.35,
         "sg": 225.35
       },
       "windSpeed": {
-        "ecmwf:aifs": 12.5,
+        "ecmwf:aifs": 14.11,
         "noaa": 14.32,
         "sg": 14.32
       },
@@ -17765,7 +17765,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.69,
+        "ecmwf:aifs": 15.11,
         "noaa": 14.45,
         "sg": 14.45
       },
@@ -17774,7 +17774,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.83,
+        "ecmwf:aifs": 0.86,
         "noaa": 1.18,
         "sg": 1.18
       },
@@ -17827,12 +17827,12 @@
         "sg": 7.52
       },
       "windDirection": {
-        "ecmwf:aifs": 230.13,
+        "ecmwf:aifs": 228.87,
         "noaa": 223.04,
         "sg": 223.04
       },
       "windSpeed": {
-        "ecmwf:aifs": 12.41,
+        "ecmwf:aifs": 14.32,
         "noaa": 14.15,
         "sg": 14.15
       },
@@ -17854,7 +17854,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.78,
+        "ecmwf:aifs": 15.12,
         "noaa": 14.47,
         "sg": 14.47
       },
@@ -17863,7 +17863,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 1.05,
+        "ecmwf:aifs": 1.07,
         "noaa": 1.41,
         "sg": 1.41
       },
@@ -17916,12 +17916,12 @@
         "sg": 7.39
       },
       "windDirection": {
-        "ecmwf:aifs": 234.09,
+        "ecmwf:aifs": 229.16,
         "noaa": 226.32,
         "sg": 226.32
       },
       "windSpeed": {
-        "ecmwf:aifs": 12.33,
+        "ecmwf:aifs": 14.52,
         "noaa": 14.38,
         "sg": 14.38
       },
@@ -17943,7 +17943,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.87,
+        "ecmwf:aifs": 15.12,
         "noaa": 14.49,
         "sg": 14.49
       },
@@ -17952,7 +17952,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 1.26,
+        "ecmwf:aifs": 1.28,
         "noaa": 1.64,
         "sg": 1.64
       },
@@ -18005,12 +18005,12 @@
         "sg": 7.25
       },
       "windDirection": {
-        "ecmwf:aifs": 238.05,
+        "ecmwf:aifs": 229.44,
         "noaa": 229.6,
         "sg": 229.6
       },
       "windSpeed": {
-        "ecmwf:aifs": 12.24,
+        "ecmwf:aifs": 14.72,
         "noaa": 14.62,
         "sg": 14.62
       },
@@ -18032,7 +18032,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.96,
+        "ecmwf:aifs": 15.12,
         "noaa": 14.51,
         "sg": 14.51
       },
@@ -18041,7 +18041,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 1.47,
+        "ecmwf:aifs": 1.48,
         "noaa": 1.87,
         "sg": 1.87
       },
@@ -18094,12 +18094,12 @@
         "sg": 7.12
       },
       "windDirection": {
-        "ecmwf:aifs": 242.01,
+        "ecmwf:aifs": 229.73,
         "noaa": 232.88,
         "sg": 232.88
       },
       "windSpeed": {
-        "ecmwf:aifs": 12.15,
+        "ecmwf:aifs": 14.92,
         "noaa": 14.85,
         "sg": 14.85
       },
@@ -18121,7 +18121,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.82,
+        "ecmwf:aifs": 15.11,
         "noaa": 14.22,
         "sg": 14.22
       },
@@ -18130,7 +18130,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 1.26,
+        "ecmwf:aifs": 1.4,
         "noaa": 1.59,
         "sg": 1.59
       },
@@ -18183,12 +18183,12 @@
         "sg": 7.21
       },
       "windDirection": {
-        "ecmwf:aifs": 248.18,
+        "ecmwf:aifs": 234.63,
         "noaa": 266.43,
         "sg": 266.43
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.28,
+        "ecmwf:aifs": 14.32,
         "noaa": 12.22,
         "sg": 12.22
       },
@@ -18210,7 +18210,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.69,
+        "ecmwf:aifs": 15.11,
         "noaa": 13.92,
         "sg": 13.92
       },
@@ -18219,7 +18219,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 1.06,
+        "ecmwf:aifs": 1.32,
         "noaa": 1.31,
         "sg": 1.31
       },
@@ -18272,12 +18272,12 @@
         "sg": 7.31
       },
       "windDirection": {
-        "ecmwf:aifs": 254.36,
+        "ecmwf:aifs": 239.54,
         "noaa": 299.97,
         "sg": 299.97
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.41,
+        "ecmwf:aifs": 13.71,
         "noaa": 9.59,
         "sg": 9.59
       },
@@ -18299,7 +18299,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.55,
+        "ecmwf:aifs": 15.1,
         "noaa": 13.63,
         "sg": 13.63
       },
@@ -18308,7 +18308,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.86,
+        "ecmwf:aifs": 1.24,
         "noaa": 1.02,
         "sg": 1.02
       },
@@ -18361,12 +18361,12 @@
         "sg": 7.4
       },
       "windDirection": {
-        "ecmwf:aifs": 260.53,
+        "ecmwf:aifs": 244.44,
         "noaa": 333.52,
         "sg": 333.52
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.54,
+        "ecmwf:aifs": 13.11,
         "noaa": 6.96,
         "sg": 6.96
       },
@@ -18388,7 +18388,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.41,
+        "ecmwf:aifs": 15.09,
         "noaa": 13.64,
         "sg": 13.64
       },
@@ -18397,7 +18397,7 @@
         "sg": 67.67
       },
       "precipitation": {
-        "ecmwf:aifs": 0.65,
+        "ecmwf:aifs": 1.16,
         "noaa": 0.86,
         "sg": 0.86
       },
@@ -18450,12 +18450,12 @@
         "sg": 7.53
       },
       "windDirection": {
-        "ecmwf:aifs": 266.71,
+        "ecmwf:aifs": 249.35,
         "noaa": 324.52,
         "sg": 324.52
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.67,
+        "ecmwf:aifs": 12.5,
         "noaa": 6.92,
         "sg": 6.92
       },
@@ -18477,7 +18477,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.28,
+        "ecmwf:aifs": 15.08,
         "noaa": 13.64,
         "sg": 13.64
       },
@@ -18486,7 +18486,7 @@
         "sg": 35.33
       },
       "precipitation": {
-        "ecmwf:aifs": 0.45,
+        "ecmwf:aifs": 1.08,
         "noaa": 0.71,
         "sg": 0.71
       },
@@ -18539,12 +18539,12 @@
         "sg": 7.67
       },
       "windDirection": {
-        "ecmwf:aifs": 272.88,
+        "ecmwf:aifs": 254.26,
         "noaa": 315.51,
         "sg": 315.51
       },
       "windSpeed": {
-        "ecmwf:aifs": 7.8,
+        "ecmwf:aifs": 11.89,
         "noaa": 6.87,
         "sg": 6.87
       },
@@ -18566,7 +18566,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 14.14,
+        "ecmwf:aifs": 15.07,
         "noaa": 13.64,
         "sg": 13.64
       },
@@ -18575,7 +18575,7 @@
         "sg": 3.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.25,
+        "ecmwf:aifs": 1.0,
         "noaa": 0.55,
         "sg": 0.55
       },
@@ -18628,12 +18628,12 @@
         "sg": 7.8
       },
       "windDirection": {
-        "ecmwf:aifs": 279.06,
+        "ecmwf:aifs": 259.16,
         "noaa": 306.51,
         "sg": 306.51
       },
       "windSpeed": {
-        "ecmwf:aifs": 6.93,
+        "ecmwf:aifs": 11.29,
         "noaa": 6.83,
         "sg": 6.83
       },
@@ -18655,7 +18655,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.96,
+        "ecmwf:aifs": 14.88,
         "noaa": 13.6,
         "sg": 13.6
       },
@@ -18664,7 +18664,7 @@
         "sg": 2.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.25,
+        "ecmwf:aifs": 0.86,
         "noaa": 0.37,
         "sg": 0.37
       },
@@ -18717,12 +18717,12 @@
         "sg": 7.95
       },
       "windDirection": {
-        "ecmwf:aifs": 277.85,
+        "ecmwf:aifs": 260.7,
         "noaa": 300.5,
         "sg": 300.5
       },
       "windSpeed": {
-        "ecmwf:aifs": 7.39,
+        "ecmwf:aifs": 10.98,
         "noaa": 6.28,
         "sg": 6.28
       },
@@ -18744,7 +18744,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.78,
+        "ecmwf:aifs": 14.68,
         "noaa": 13.55,
         "sg": 13.55
       },
@@ -18753,7 +18753,7 @@
         "sg": 1.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.25,
+        "ecmwf:aifs": 0.73,
         "noaa": 0.19,
         "sg": 0.19
       },
@@ -18806,12 +18806,12 @@
         "sg": 8.11
       },
       "windDirection": {
-        "ecmwf:aifs": 276.65,
+        "ecmwf:aifs": 262.23,
         "noaa": 294.49,
         "sg": 294.49
       },
       "windSpeed": {
-        "ecmwf:aifs": 7.86,
+        "ecmwf:aifs": 10.67,
         "noaa": 5.72,
         "sg": 5.72
       },
@@ -18833,7 +18833,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.59,
+        "ecmwf:aifs": 14.49,
         "noaa": 13.5,
         "sg": 13.5
       },
@@ -18842,7 +18842,7 @@
         "sg": 0.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.26,
+        "ecmwf:aifs": 0.59,
         "noaa": 0.0,
         "sg": 0.0
       },
@@ -18895,12 +18895,12 @@
         "sg": 8.26
       },
       "windDirection": {
-        "ecmwf:aifs": 275.44,
+        "ecmwf:aifs": 263.77,
         "noaa": 288.48,
         "sg": 288.48
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.33,
+        "ecmwf:aifs": 10.36,
         "noaa": 5.17,
         "sg": 5.17
       },
@@ -18922,7 +18922,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.41,
+        "ecmwf:aifs": 14.3,
         "noaa": 13.5,
         "sg": 13.5
       },
@@ -18931,7 +18931,7 @@
         "sg": 1.2
       },
       "precipitation": {
-        "ecmwf:aifs": 0.26,
+        "ecmwf:aifs": 0.46,
         "noaa": 0.0,
         "sg": 0.0
       },
@@ -18984,12 +18984,12 @@
         "sg": 8.38
       },
       "windDirection": {
-        "ecmwf:aifs": 274.24,
+        "ecmwf:aifs": 265.31,
         "noaa": 277.45,
         "sg": 277.45
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.79,
+        "ecmwf:aifs": 10.04,
         "noaa": 5.54,
         "sg": 5.54
       },
@@ -19011,7 +19011,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.23,
+        "ecmwf:aifs": 14.11,
         "noaa": 13.51,
         "sg": 13.51
       },
@@ -19020,7 +19020,7 @@
         "sg": 2.4
       },
       "precipitation": {
-        "ecmwf:aifs": 0.27,
+        "ecmwf:aifs": 0.32,
         "noaa": 0.01,
         "sg": 0.01
       },
@@ -19073,12 +19073,12 @@
         "sg": 8.51
       },
       "windDirection": {
-        "ecmwf:aifs": 273.03,
+        "ecmwf:aifs": 266.84,
         "noaa": 266.42,
         "sg": 266.42
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.26,
+        "ecmwf:aifs": 9.73,
         "noaa": 5.92,
         "sg": 5.92
       },
@@ -19100,7 +19100,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 13.05,
+        "ecmwf:aifs": 13.92,
         "noaa": 13.51,
         "sg": 13.51
       },
@@ -19109,7 +19109,7 @@
         "sg": 3.6
       },
       "precipitation": {
-        "ecmwf:aifs": 0.27,
+        "ecmwf:aifs": 0.19,
         "noaa": 0.01,
         "sg": 0.01
       },
@@ -19162,12 +19162,12 @@
         "sg": 8.63
       },
       "windDirection": {
-        "ecmwf:aifs": 271.83,
+        "ecmwf:aifs": 268.38,
         "noaa": 255.39,
         "sg": 255.39
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.72,
+        "ecmwf:aifs": 9.42,
         "noaa": 6.29,
         "sg": 6.29
       },
@@ -19189,7 +19189,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.89,
+        "ecmwf:aifs": 13.69,
         "noaa": 13.49,
         "sg": 13.49
       },
@@ -19198,7 +19198,7 @@
         "sg": 35.73
       },
       "precipitation": {
-        "ecmwf:aifs": 0.33,
+        "ecmwf:aifs": 0.22,
         "noaa": 0.01,
         "sg": 0.01
       },
@@ -19245,12 +19245,12 @@
         "sg": 12.62
       },
       "windDirection": {
-        "ecmwf:aifs": 274.33,
+        "ecmwf:aifs": 269.84,
         "noaa": 257.57,
         "sg": 257.57
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.0,
+        "ecmwf:aifs": 9.87,
         "noaa": 6.85,
         "sg": 6.85
       },
@@ -19269,7 +19269,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.74,
+        "ecmwf:aifs": 13.47,
         "noaa": 13.47,
         "sg": 13.47
       },
@@ -19278,7 +19278,7 @@
         "sg": 67.87
       },
       "precipitation": {
-        "ecmwf:aifs": 0.4,
+        "ecmwf:aifs": 0.25,
         "noaa": 0.02,
         "sg": 0.02
       },
@@ -19325,12 +19325,12 @@
         "sg": 12.67
       },
       "windDirection": {
-        "ecmwf:aifs": 276.82,
+        "ecmwf:aifs": 271.3,
         "noaa": 259.76,
         "sg": 259.76
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.28,
+        "ecmwf:aifs": 10.32,
         "noaa": 7.4,
         "sg": 7.4
       },
@@ -19349,7 +19349,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.58,
+        "ecmwf:aifs": 13.25,
         "noaa": 13.45,
         "sg": 13.45
       },
@@ -19358,7 +19358,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.46,
+        "ecmwf:aifs": 0.28,
         "noaa": 0.03,
         "sg": 0.03
       },
@@ -19405,12 +19405,12 @@
         "sg": 12.73
       },
       "windDirection": {
-        "ecmwf:aifs": 279.32,
+        "ecmwf:aifs": 272.76,
         "noaa": 261.94,
         "sg": 261.94
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.56,
+        "ecmwf:aifs": 10.76,
         "noaa": 7.96,
         "sg": 7.96
       },
@@ -19429,7 +19429,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.43,
+        "ecmwf:aifs": 13.02,
         "noaa": 13.43,
         "sg": 13.43
       },
@@ -19438,7 +19438,7 @@
         "sg": 68.23
       },
       "precipitation": {
-        "ecmwf:aifs": 0.52,
+        "ecmwf:aifs": 0.31,
         "noaa": 0.04,
         "sg": 0.04
       },
@@ -19485,12 +19485,12 @@
         "sg": 12.92
       },
       "windDirection": {
-        "ecmwf:aifs": 281.82,
+        "ecmwf:aifs": 274.23,
         "noaa": 266.96,
         "sg": 266.96
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.84,
+        "ecmwf:aifs": 11.21,
         "noaa": 8.03,
         "sg": 8.03
       },
@@ -19509,7 +19509,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.27,
+        "ecmwf:aifs": 12.8,
         "noaa": 13.41,
         "sg": 13.41
       },
@@ -19518,7 +19518,7 @@
         "sg": 36.47
       },
       "precipitation": {
-        "ecmwf:aifs": 0.59,
+        "ecmwf:aifs": 0.34,
         "noaa": 0.05,
         "sg": 0.05
       },
@@ -19565,12 +19565,12 @@
         "sg": 13.1
       },
       "windDirection": {
-        "ecmwf:aifs": 284.31,
+        "ecmwf:aifs": 275.69,
         "noaa": 271.99,
         "sg": 271.99
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.12,
+        "ecmwf:aifs": 11.66,
         "noaa": 8.1,
         "sg": 8.1
       },
@@ -19589,7 +19589,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.12,
+        "ecmwf:aifs": 12.57,
         "noaa": 13.39,
         "sg": 13.39
       },
@@ -19598,7 +19598,7 @@
         "sg": 4.7
       },
       "precipitation": {
-        "ecmwf:aifs": 0.65,
+        "ecmwf:aifs": 0.37,
         "noaa": 0.06,
         "sg": 0.06
       },
@@ -19645,12 +19645,12 @@
         "sg": 13.29
       },
       "windDirection": {
-        "ecmwf:aifs": 286.81,
+        "ecmwf:aifs": 277.15,
         "noaa": 277.01,
         "sg": 277.01
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.4,
+        "ecmwf:aifs": 12.11,
         "noaa": 8.17,
         "sg": 8.17
       },
@@ -19669,7 +19669,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.13,
+        "ecmwf:aifs": 12.63,
         "noaa": 13.39,
         "sg": 13.39
       },
@@ -19678,7 +19678,7 @@
         "sg": 36.47
       },
       "precipitation": {
-        "ecmwf:aifs": 0.63,
+        "ecmwf:aifs": 0.41,
         "noaa": 0.07,
         "sg": 0.07
       },
@@ -19725,12 +19725,12 @@
         "sg": 13.37
       },
       "windDirection": {
-        "ecmwf:aifs": 286.87,
+        "ecmwf:aifs": 281.26,
         "noaa": 266.81,
         "sg": 266.81
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.42,
+        "ecmwf:aifs": 12.31,
         "noaa": 8.47,
         "sg": 8.47
       },
@@ -19749,7 +19749,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.14,
+        "ecmwf:aifs": 12.68,
         "noaa": 13.39,
         "sg": 13.39
       },
@@ -19758,7 +19758,7 @@
         "sg": 68.23
       },
       "precipitation": {
-        "ecmwf:aifs": 0.61,
+        "ecmwf:aifs": 0.45,
         "noaa": 0.07,
         "sg": 0.07
       },
@@ -19805,12 +19805,12 @@
         "sg": 13.45
       },
       "windDirection": {
-        "ecmwf:aifs": 286.93,
+        "ecmwf:aifs": 285.38,
         "noaa": 256.6,
         "sg": 256.6
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.44,
+        "ecmwf:aifs": 12.51,
         "noaa": 8.78,
         "sg": 8.78
       },
@@ -19829,7 +19829,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.15,
+        "ecmwf:aifs": 12.74,
         "noaa": 13.39,
         "sg": 13.39
       },
@@ -19838,7 +19838,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.6,
+        "ecmwf:aifs": 0.49,
         "noaa": 0.08,
         "sg": 0.08
       },
@@ -19885,12 +19885,12 @@
         "sg": 13.53
       },
       "windDirection": {
-        "ecmwf:aifs": 286.99,
+        "ecmwf:aifs": 289.49,
         "noaa": 246.4,
         "sg": 246.4
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.46,
+        "ecmwf:aifs": 12.7,
         "noaa": 9.08,
         "sg": 9.08
       },
@@ -19909,7 +19909,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.17,
+        "ecmwf:aifs": 12.79,
         "noaa": 13.47,
         "sg": 13.47
       },
@@ -19918,7 +19918,7 @@
         "sg": 78.3
       },
       "precipitation": {
-        "ecmwf:aifs": 0.58,
+        "ecmwf:aifs": 0.53,
         "noaa": 0.13,
         "sg": 0.13
       },
@@ -19965,12 +19965,12 @@
         "sg": 13.61
       },
       "windDirection": {
-        "ecmwf:aifs": 287.05,
+        "ecmwf:aifs": 293.61,
         "noaa": 248.22,
         "sg": 248.22
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.49,
+        "ecmwf:aifs": 12.9,
         "noaa": 10.52,
         "sg": 10.52
       },
@@ -19989,7 +19989,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.18,
+        "ecmwf:aifs": 12.85,
         "noaa": 13.55,
         "sg": 13.55
       },
@@ -19998,7 +19998,7 @@
         "sg": 56.6
       },
       "precipitation": {
-        "ecmwf:aifs": 0.56,
+        "ecmwf:aifs": 0.57,
         "noaa": 0.19,
         "sg": 0.19
       },
@@ -20045,12 +20045,12 @@
         "sg": 13.69
       },
       "windDirection": {
-        "ecmwf:aifs": 287.11,
+        "ecmwf:aifs": 297.72,
         "noaa": 250.04,
         "sg": 250.04
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.51,
+        "ecmwf:aifs": 13.1,
         "noaa": 11.95,
         "sg": 11.95
       },
@@ -20069,7 +20069,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.19,
+        "ecmwf:aifs": 12.9,
         "noaa": 13.64,
         "sg": 13.64
       },
@@ -20078,7 +20078,7 @@
         "sg": 34.9
       },
       "precipitation": {
-        "ecmwf:aifs": 0.54,
+        "ecmwf:aifs": 0.61,
         "noaa": 0.25,
         "sg": 0.25
       },
@@ -20125,12 +20125,12 @@
         "sg": 13.77
       },
       "windDirection": {
-        "ecmwf:aifs": 287.17,
+        "ecmwf:aifs": 301.84,
         "noaa": 251.86,
         "sg": 251.86
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.53,
+        "ecmwf:aifs": 13.3,
         "noaa": 13.39,
         "sg": 13.39
       },
@@ -20149,7 +20149,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.24,
+        "ecmwf:aifs": 12.95,
         "noaa": 13.04,
         "sg": 13.04
       },
@@ -20158,7 +20158,7 @@
         "sg": 56.23
       },
       "precipitation": {
-        "ecmwf:aifs": 0.52,
+        "ecmwf:aifs": 0.53,
         "noaa": 0.63,
         "sg": 0.63
       },
@@ -20205,12 +20205,12 @@
         "sg": 13.73
       },
       "windDirection": {
-        "ecmwf:aifs": 288.73,
+        "ecmwf:aifs": 302.37,
         "noaa": 265.48,
         "sg": 265.48
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.53,
+        "ecmwf:aifs": 12.99,
         "noaa": 14.35,
         "sg": 14.35
       },
@@ -20229,7 +20229,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.29,
+        "ecmwf:aifs": 12.99,
         "noaa": 12.45,
         "sg": 12.45
       },
@@ -20238,7 +20238,7 @@
         "sg": 77.57
       },
       "precipitation": {
-        "ecmwf:aifs": 0.5,
+        "ecmwf:aifs": 0.45,
         "noaa": 1.0,
         "sg": 1.0
       },
@@ -20285,12 +20285,12 @@
         "sg": 13.7
       },
       "windDirection": {
-        "ecmwf:aifs": 290.29,
+        "ecmwf:aifs": 302.89,
         "noaa": 279.1,
         "sg": 279.1
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.53,
+        "ecmwf:aifs": 12.67,
         "noaa": 15.3,
         "sg": 15.3
       },
@@ -20309,7 +20309,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.33,
+        "ecmwf:aifs": 13.03,
         "noaa": 11.85,
         "sg": 11.85
       },
@@ -20318,7 +20318,7 @@
         "sg": 98.9
       },
       "precipitation": {
-        "ecmwf:aifs": 0.47,
+        "ecmwf:aifs": 0.36,
         "noaa": 1.38,
         "sg": 1.38
       },
@@ -20365,12 +20365,12 @@
         "sg": 13.66
       },
       "windDirection": {
-        "ecmwf:aifs": 291.86,
+        "ecmwf:aifs": 303.42,
         "noaa": 292.72,
         "sg": 292.72
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.53,
+        "ecmwf:aifs": 12.36,
         "noaa": 16.26,
         "sg": 16.26
       },
@@ -20389,7 +20389,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.38,
+        "ecmwf:aifs": 13.07,
         "noaa": 12.03,
         "sg": 12.03
       },
@@ -20398,7 +20398,7 @@
         "sg": 68.1
       },
       "precipitation": {
-        "ecmwf:aifs": 0.45,
+        "ecmwf:aifs": 0.28,
         "noaa": 1.17,
         "sg": 1.17
       },
@@ -20445,12 +20445,12 @@
         "sg": 13.49
       },
       "windDirection": {
-        "ecmwf:aifs": 293.42,
+        "ecmwf:aifs": 303.95,
         "noaa": 300.97,
         "sg": 300.97
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.54,
+        "ecmwf:aifs": 12.04,
         "noaa": 15.27,
         "sg": 15.27
       },
@@ -20469,7 +20469,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.43,
+        "ecmwf:aifs": 13.11,
         "noaa": 12.2,
         "sg": 12.2
       },
@@ -20478,7 +20478,7 @@
         "sg": 37.3
       },
       "precipitation": {
-        "ecmwf:aifs": 0.43,
+        "ecmwf:aifs": 0.2,
         "noaa": 0.97,
         "sg": 0.97
       },
@@ -20525,12 +20525,12 @@
         "sg": 13.31
       },
       "windDirection": {
-        "ecmwf:aifs": 294.98,
+        "ecmwf:aifs": 304.47,
         "noaa": 309.21,
         "sg": 309.21
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.54,
+        "ecmwf:aifs": 11.72,
         "noaa": 14.29,
         "sg": 14.29
       },
@@ -20549,7 +20549,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.48,
+        "ecmwf:aifs": 13.15,
         "noaa": 12.37,
         "sg": 12.37
       },
@@ -20558,7 +20558,7 @@
         "sg": 6.5
       },
       "precipitation": {
-        "ecmwf:aifs": 0.41,
+        "ecmwf:aifs": 0.12,
         "noaa": 0.76,
         "sg": 0.76
       },
@@ -20605,12 +20605,12 @@
         "sg": 13.14
       },
       "windDirection": {
-        "ecmwf:aifs": 296.54,
+        "ecmwf:aifs": 305.0,
         "noaa": 317.46,
         "sg": 317.46
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.54,
+        "ecmwf:aifs": 11.41,
         "noaa": 13.3,
         "sg": 13.3
       },
@@ -20629,7 +20629,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.53,
+        "ecmwf:aifs": 13.14,
         "noaa": 12.62,
         "sg": 12.62
       },
@@ -20638,7 +20638,7 @@
         "sg": 5.93
       },
       "precipitation": {
-        "ecmwf:aifs": 0.38,
+        "ecmwf:aifs": 0.12,
         "noaa": 0.52,
         "sg": 0.52
       },
@@ -20685,12 +20685,12 @@
         "sg": 12.95
       },
       "windDirection": {
-        "ecmwf:aifs": 297.42,
+        "ecmwf:aifs": 303.01,
         "noaa": 316.72,
         "sg": 316.72
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.31,
+        "ecmwf:aifs": 11.23,
         "noaa": 12.54,
         "sg": 12.54
       },
@@ -20709,7 +20709,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.58,
+        "ecmwf:aifs": 13.13,
         "noaa": 12.87,
         "sg": 12.87
       },
@@ -20718,7 +20718,7 @@
         "sg": 5.37
       },
       "precipitation": {
-        "ecmwf:aifs": 0.36,
+        "ecmwf:aifs": 0.12,
         "noaa": 0.27,
         "sg": 0.27
       },
@@ -20765,12 +20765,12 @@
         "sg": 12.77
       },
       "windDirection": {
-        "ecmwf:aifs": 298.29,
+        "ecmwf:aifs": 301.02,
         "noaa": 315.99,
         "sg": 315.99
       },
       "windSpeed": {
-        "ecmwf:aifs": 11.08,
+        "ecmwf:aifs": 11.05,
         "noaa": 11.77,
         "sg": 11.77
       },
@@ -20789,7 +20789,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.63,
+        "ecmwf:aifs": 13.12,
         "noaa": 13.12,
         "sg": 13.12
       },
@@ -20798,7 +20798,7 @@
         "sg": 4.8
       },
       "precipitation": {
-        "ecmwf:aifs": 0.33,
+        "ecmwf:aifs": 0.12,
         "noaa": 0.02,
         "sg": 0.02
       },
@@ -20845,12 +20845,12 @@
         "sg": 12.58
       },
       "windDirection": {
-        "ecmwf:aifs": 299.17,
+        "ecmwf:aifs": 299.02,
         "noaa": 315.25,
         "sg": 315.25
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.85,
+        "ecmwf:aifs": 10.88,
         "noaa": 11.01,
         "sg": 11.01
       },
@@ -20869,7 +20869,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.69,
+        "ecmwf:aifs": 13.12,
         "noaa": 13.12,
         "sg": 13.12
       },
@@ -20878,7 +20878,7 @@
         "sg": 4.87
       },
       "precipitation": {
-        "ecmwf:aifs": 0.3,
+        "ecmwf:aifs": 0.12,
         "noaa": 0.03,
         "sg": 0.03
       },
@@ -20925,12 +20925,12 @@
         "sg": 12.56
       },
       "windDirection": {
-        "ecmwf:aifs": 300.05,
+        "ecmwf:aifs": 297.03,
         "noaa": 314.39,
         "sg": 314.39
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.62,
+        "ecmwf:aifs": 10.7,
         "noaa": 10.8,
         "sg": 10.8
       },
@@ -20949,7 +20949,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.74,
+        "ecmwf:aifs": 13.11,
         "noaa": 13.12,
         "sg": 13.12
       },
@@ -20958,7 +20958,7 @@
         "sg": 4.93
       },
       "precipitation": {
-        "ecmwf:aifs": 0.27,
+        "ecmwf:aifs": 0.11,
         "noaa": 0.03,
         "sg": 0.03
       },
@@ -21005,12 +21005,12 @@
         "sg": 12.54
       },
       "windDirection": {
-        "ecmwf:aifs": 300.92,
+        "ecmwf:aifs": 295.04,
         "noaa": 313.53,
         "sg": 313.53
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.39,
+        "ecmwf:aifs": 10.52,
         "noaa": 10.59,
         "sg": 10.59
       },
@@ -21029,7 +21029,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.79,
+        "ecmwf:aifs": 13.1,
         "noaa": 13.12,
         "sg": 13.12
       },
@@ -21038,7 +21038,7 @@
         "sg": 5.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.25,
+        "ecmwf:aifs": 0.11,
         "noaa": 0.04,
         "sg": 0.04
       },
@@ -21084,12 +21084,12 @@
         "sg": 12.52
       },
       "windDirection": {
-        "ecmwf:aifs": 301.8,
+        "ecmwf:aifs": 293.05,
         "noaa": 312.67,
         "sg": 312.67
       },
       "windSpeed": {
-        "ecmwf:aifs": 10.16,
+        "ecmwf:aifs": 10.34,
         "noaa": 10.38,
         "sg": 10.38
       },
@@ -21108,7 +21108,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.76,
+        "ecmwf:aifs": 13.06,
         "noaa": 13.17,
         "sg": 13.17
       },
@@ -21117,7 +21117,7 @@
         "sg": 5.67
       },
       "precipitation": {
-        "ecmwf:aifs": 0.23,
+        "ecmwf:aifs": 0.11,
         "noaa": 0.03,
         "sg": 0.03
       },
@@ -21163,12 +21163,12 @@
         "sg": 12.5
       },
       "windDirection": {
-        "ecmwf:aifs": 301.56,
+        "ecmwf:aifs": 293.09,
         "noaa": 312.98,
         "sg": 312.98
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.98,
+        "ecmwf:aifs": 10.21,
         "noaa": 9.78,
         "sg": 9.78
       },
@@ -21187,7 +21187,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.73,
+        "ecmwf:aifs": 13.03,
         "noaa": 13.21,
         "sg": 13.21
       },
@@ -21196,7 +21196,7 @@
         "sg": 6.33
       },
       "precipitation": {
-        "ecmwf:aifs": 0.21,
+        "ecmwf:aifs": 0.11,
         "noaa": 0.02,
         "sg": 0.02
       },
@@ -21242,12 +21242,12 @@
         "sg": 12.49
       },
       "windDirection": {
-        "ecmwf:aifs": 301.32,
+        "ecmwf:aifs": 293.14,
         "noaa": 313.29,
         "sg": 313.29
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.8,
+        "ecmwf:aifs": 10.07,
         "noaa": 9.19,
         "sg": 9.19
       },
@@ -21266,7 +21266,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.69,
+        "ecmwf:aifs": 12.99,
         "noaa": 13.26,
         "sg": 13.26
       },
@@ -21275,7 +21275,7 @@
         "sg": 7.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.2,
+        "ecmwf:aifs": 0.11,
         "noaa": 0.01,
         "sg": 0.01
       },
@@ -21321,12 +21321,12 @@
         "sg": 12.47
       },
       "windDirection": {
-        "ecmwf:aifs": 301.08,
+        "ecmwf:aifs": 293.18,
         "noaa": 313.6,
         "sg": 313.6
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.62,
+        "ecmwf:aifs": 9.93,
         "noaa": 8.59,
         "sg": 8.59
       },
@@ -21345,7 +21345,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.66,
+        "ecmwf:aifs": 12.96,
         "noaa": 13.29,
         "sg": 13.29
       },
@@ -21354,7 +21354,7 @@
         "sg": 31.63
       },
       "precipitation": {
-        "ecmwf:aifs": 0.18,
+        "ecmwf:aifs": 0.11,
         "noaa": 0.02,
         "sg": 0.02
       },
@@ -21400,12 +21400,12 @@
         "sg": 12.45
       },
       "windDirection": {
-        "ecmwf:aifs": 300.84,
+        "ecmwf:aifs": 293.22,
         "noaa": 305.84,
         "sg": 305.84
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.45,
+        "ecmwf:aifs": 9.8,
         "noaa": 8.57,
         "sg": 8.57
       },
@@ -21424,7 +21424,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.63,
+        "ecmwf:aifs": 12.92,
         "noaa": 13.32,
         "sg": 13.32
       },
@@ -21433,7 +21433,7 @@
         "sg": 56.27
       },
       "precipitation": {
-        "ecmwf:aifs": 0.17,
+        "ecmwf:aifs": 0.11,
         "noaa": 0.02,
         "sg": 0.02
       },
@@ -21479,12 +21479,12 @@
         "sg": 12.43
       },
       "windDirection": {
-        "ecmwf:aifs": 300.6,
+        "ecmwf:aifs": 293.27,
         "noaa": 298.08,
         "sg": 298.08
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.27,
+        "ecmwf:aifs": 9.66,
         "noaa": 8.55,
         "sg": 8.55
       },
@@ -21503,7 +21503,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.6,
+        "ecmwf:aifs": 12.89,
         "noaa": 13.35,
         "sg": 13.35
       },
@@ -21512,7 +21512,7 @@
         "sg": 80.9
       },
       "precipitation": {
-        "ecmwf:aifs": 0.15,
+        "ecmwf:aifs": 0.11,
         "noaa": 0.03,
         "sg": 0.03
       },
@@ -21558,12 +21558,12 @@
         "sg": 12.41
       },
       "windDirection": {
-        "ecmwf:aifs": 300.36,
+        "ecmwf:aifs": 293.31,
         "noaa": 290.32,
         "sg": 290.32
       },
       "windSpeed": {
-        "ecmwf:aifs": 9.09,
+        "ecmwf:aifs": 9.53,
         "noaa": 8.53,
         "sg": 8.53
       },
@@ -21582,7 +21582,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.64,
+        "ecmwf:aifs": 12.94,
         "noaa": 13.44,
         "sg": 13.44
       },
@@ -21591,7 +21591,7 @@
         "sg": 87.27
       },
       "precipitation": {
-        "ecmwf:aifs": 0.15,
+        "ecmwf:aifs": 0.1,
         "noaa": 0.03,
         "sg": 0.03
       },
@@ -21637,12 +21637,12 @@
         "sg": 12.4
       },
       "windDirection": {
-        "ecmwf:aifs": 297.98,
+        "ecmwf:aifs": 291.51,
         "noaa": 280.83,
         "sg": 280.83
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.81,
+        "ecmwf:aifs": 9.2,
         "noaa": 8.1,
         "sg": 8.1
       },
@@ -21661,7 +21661,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.67,
+        "ecmwf:aifs": 12.99,
         "noaa": 13.53,
         "sg": 13.53
       },
@@ -21670,7 +21670,7 @@
         "sg": 93.63
       },
       "precipitation": {
-        "ecmwf:aifs": 0.14,
+        "ecmwf:aifs": 0.09,
         "noaa": 0.03,
         "sg": 0.03
       },
@@ -21716,12 +21716,12 @@
         "sg": 12.39
       },
       "windDirection": {
-        "ecmwf:aifs": 295.6,
+        "ecmwf:aifs": 289.72,
         "noaa": 271.33,
         "sg": 271.33
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.53,
+        "ecmwf:aifs": 8.86,
         "noaa": 7.66,
         "sg": 7.66
       },
@@ -21740,7 +21740,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.71,
+        "ecmwf:aifs": 13.04,
         "noaa": 13.62,
         "sg": 13.62
       },
@@ -21749,7 +21749,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.14,
+        "ecmwf:aifs": 0.09,
         "noaa": 0.03,
         "sg": 0.03
       },
@@ -21795,12 +21795,12 @@
         "sg": 12.38
       },
       "windDirection": {
-        "ecmwf:aifs": 293.22,
+        "ecmwf:aifs": 287.92,
         "noaa": 261.84,
         "sg": 261.84
       },
       "windSpeed": {
-        "ecmwf:aifs": 8.25,
+        "ecmwf:aifs": 8.53,
         "noaa": 7.23,
         "sg": 7.23
       },
@@ -21819,7 +21819,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.75,
+        "ecmwf:aifs": 13.1,
         "noaa": 13.63,
         "sg": 13.63
       },
@@ -21828,7 +21828,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.14,
+        "ecmwf:aifs": 0.08,
         "noaa": 0.02,
         "sg": 0.02
       },
@@ -21874,12 +21874,12 @@
         "sg": 12.39
       },
       "windDirection": {
-        "ecmwf:aifs": 290.85,
+        "ecmwf:aifs": 286.12,
         "noaa": 253.18,
         "sg": 253.18
       },
       "windSpeed": {
-        "ecmwf:aifs": 7.97,
+        "ecmwf:aifs": 8.2,
         "noaa": 7.62,
         "sg": 7.62
       },
@@ -21898,7 +21898,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.78,
+        "ecmwf:aifs": 13.15,
         "noaa": 13.64,
         "sg": 13.64
       },
@@ -21907,7 +21907,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.13,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.02,
         "sg": 0.02
       },
@@ -21953,12 +21953,12 @@
         "sg": 12.4
       },
       "windDirection": {
-        "ecmwf:aifs": 288.47,
+        "ecmwf:aifs": 284.33,
         "noaa": 244.51,
         "sg": 244.51
       },
       "windSpeed": {
-        "ecmwf:aifs": 7.69,
+        "ecmwf:aifs": 7.86,
         "noaa": 8.02,
         "sg": 8.02
       },
@@ -21977,7 +21977,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.82,
+        "ecmwf:aifs": 13.2,
         "noaa": 13.66,
         "sg": 13.66
       },
@@ -21986,7 +21986,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.13,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.02,
         "sg": 0.02
       },
@@ -22032,12 +22032,12 @@
         "sg": 12.41
       },
       "windDirection": {
-        "ecmwf:aifs": 286.09,
+        "ecmwf:aifs": 282.53,
         "noaa": 235.85,
         "sg": 235.85
       },
       "windSpeed": {
-        "ecmwf:aifs": 7.41,
+        "ecmwf:aifs": 7.53,
         "noaa": 8.41,
         "sg": 8.41
       },
@@ -22056,7 +22056,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.83,
+        "ecmwf:aifs": 13.19,
         "noaa": 13.71,
         "sg": 13.71
       },
@@ -22065,7 +22065,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.13,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.04,
         "sg": 0.04
       },
@@ -22111,12 +22111,12 @@
         "sg": 12.41
       },
       "windDirection": {
-        "ecmwf:aifs": 287.15,
+        "ecmwf:aifs": 283.28,
         "noaa": 234.4,
         "sg": 234.4
       },
       "windSpeed": {
-        "ecmwf:aifs": 7.28,
+        "ecmwf:aifs": 7.19,
         "noaa": 9.07,
         "sg": 9.07
       },
@@ -22135,7 +22135,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.83,
+        "ecmwf:aifs": 13.19,
         "noaa": 13.77,
         "sg": 13.77
       },
@@ -22144,7 +22144,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.12,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.07,
         "sg": 0.07
       },
@@ -22190,12 +22190,12 @@
         "sg": 12.4
       },
       "windDirection": {
-        "ecmwf:aifs": 288.22,
+        "ecmwf:aifs": 284.03,
         "noaa": 232.96,
         "sg": 232.96
       },
       "windSpeed": {
-        "ecmwf:aifs": 7.14,
+        "ecmwf:aifs": 6.85,
         "noaa": 9.73,
         "sg": 9.73
       },
@@ -22214,7 +22214,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.83,
+        "ecmwf:aifs": 13.18,
         "noaa": 13.83,
         "sg": 13.83
       },
@@ -22223,7 +22223,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.12,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.09,
         "sg": 0.09
       },
@@ -22269,12 +22269,12 @@
         "sg": 12.4
       },
       "windDirection": {
-        "ecmwf:aifs": 289.29,
+        "ecmwf:aifs": 284.79,
         "noaa": 231.51,
         "sg": 231.51
       },
       "windSpeed": {
-        "ecmwf:aifs": 7.01,
+        "ecmwf:aifs": 6.52,
         "noaa": 10.39,
         "sg": 10.39
       },
@@ -22293,7 +22293,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.84,
+        "ecmwf:aifs": 13.17,
         "noaa": 13.85,
         "sg": 13.85
       },
@@ -22302,7 +22302,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.12,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.27,
         "sg": 0.27
       },
@@ -22348,12 +22348,12 @@
         "sg": 12.37
       },
       "windDirection": {
-        "ecmwf:aifs": 290.35,
+        "ecmwf:aifs": 285.54,
         "noaa": 234.51,
         "sg": 234.51
       },
       "windSpeed": {
-        "ecmwf:aifs": 6.88,
+        "ecmwf:aifs": 6.18,
         "noaa": 10.61,
         "sg": 10.61
       },
@@ -22372,7 +22372,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.84,
+        "ecmwf:aifs": 13.16,
         "noaa": 13.86,
         "sg": 13.86
       },
@@ -22381,7 +22381,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.11,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.46,
         "sg": 0.46
       },
@@ -22427,12 +22427,12 @@
         "sg": 12.35
       },
       "windDirection": {
-        "ecmwf:aifs": 291.42,
+        "ecmwf:aifs": 286.29,
         "noaa": 237.5,
         "sg": 237.5
       },
       "windSpeed": {
-        "ecmwf:aifs": 6.74,
+        "ecmwf:aifs": 5.84,
         "noaa": 10.82,
         "sg": 10.82
       },
@@ -22451,7 +22451,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.85,
+        "ecmwf:aifs": 13.16,
         "noaa": 13.88,
         "sg": 13.88
       },
@@ -22460,7 +22460,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.11,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.64,
         "sg": 0.64
       },
@@ -22506,12 +22506,12 @@
         "sg": 12.32
       },
       "windDirection": {
-        "ecmwf:aifs": 292.48,
+        "ecmwf:aifs": 287.04,
         "noaa": 240.5,
         "sg": 240.5
       },
       "windSpeed": {
-        "ecmwf:aifs": 6.61,
+        "ecmwf:aifs": 5.5,
         "noaa": 11.04,
         "sg": 11.04
       },
@@ -22530,7 +22530,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.81,
+        "ecmwf:aifs": 13.12,
         "noaa": 14.12,
         "sg": 14.12
       },
@@ -22539,7 +22539,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.11,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.54,
         "sg": 0.54
       },
@@ -22585,12 +22585,12 @@
         "sg": 12.26
       },
       "windDirection": {
-        "ecmwf:aifs": 294.65,
+        "ecmwf:aifs": 289.74,
         "noaa": 262.24,
         "sg": 262.24
       },
       "windSpeed": {
-        "ecmwf:aifs": 6.41,
+        "ecmwf:aifs": 5.06,
         "noaa": 10.37,
         "sg": 10.37
       },
@@ -22609,7 +22609,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.78,
+        "ecmwf:aifs": 13.08,
         "noaa": 14.37,
         "sg": 14.37
       },
@@ -22618,7 +22618,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.12,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.44,
         "sg": 0.44
       },
@@ -22664,12 +22664,12 @@
         "sg": 12.21
       },
       "windDirection": {
-        "ecmwf:aifs": 296.83,
+        "ecmwf:aifs": 292.44,
         "noaa": 283.99,
         "sg": 283.99
       },
       "windSpeed": {
-        "ecmwf:aifs": 6.2,
+        "ecmwf:aifs": 4.63,
         "noaa": 9.7,
         "sg": 9.7
       },
@@ -22688,7 +22688,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.75,
+        "ecmwf:aifs": 13.04,
         "noaa": 14.61,
         "sg": 14.61
       },
@@ -22697,7 +22697,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.12,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.35,
         "sg": 0.35
       },
@@ -22743,12 +22743,12 @@
         "sg": 12.15
       },
       "windDirection": {
-        "ecmwf:aifs": 299.0,
+        "ecmwf:aifs": 295.15,
         "noaa": 305.73,
         "sg": 305.73
       },
       "windSpeed": {
-        "ecmwf:aifs": 6.0,
+        "ecmwf:aifs": 4.19,
         "noaa": 9.03,
         "sg": 9.03
       },
@@ -22767,7 +22767,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.71,
+        "ecmwf:aifs": 13.0,
         "noaa": 14.44,
         "sg": 14.44
       },
@@ -22776,7 +22776,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.13,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.29,
         "sg": 0.29
       },
@@ -22822,12 +22822,12 @@
         "sg": 12.05
       },
       "windDirection": {
-        "ecmwf:aifs": 301.17,
+        "ecmwf:aifs": 297.85,
         "noaa": 311.21,
         "sg": 311.21
       },
       "windSpeed": {
-        "ecmwf:aifs": 5.79,
+        "ecmwf:aifs": 3.75,
         "noaa": 9.28,
         "sg": 9.28
       },
@@ -22846,7 +22846,7 @@
     },
     {
       "airTemperature": {
-        "ecmwf:aifs": 12.68,
+        "ecmwf:aifs": 12.96,
         "noaa": 14.27,
         "sg": 14.27
       },
@@ -22855,7 +22855,7 @@
         "sg": 100.0
       },
       "precipitation": {
-        "ecmwf:aifs": 0.13,
+        "ecmwf:aifs": 0.07,
         "noaa": 0.24,
         "sg": 0.24
       },
@@ -22901,12 +22901,12 @@
         "sg": 11.96
       },
       "windDirection": {
-        "ecmwf:aifs": 303.35,
+        "ecmwf:aifs": 300.55,
         "noaa": 316.7,
         "sg": 316.7
       },
       "windSpeed": {
-        "ecmwf:aifs": 5.59,
+        "ecmwf:aifs": 3.32,
         "noaa": 9.54,
         "sg": 9.54
       },
