@@ -6,37 +6,38 @@ on:
   workflow_dispatch: # permite execução manual
 
 jobs:
-  update-json:
+  update:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repositório
       uses: actions/checkout@v4
 
-    - name: Configurar Node.js
-      uses: actions/setup-node@v3
+    - name: Configurar Python
+      uses: actions/setup-python@v5
       with:
-        node-version: 20
+        python-version: '3.12'
 
-    - name: Gerar forecast.json
+    - name: Instalar dependências
       run: |
-        mkdir -p docs
-        cat <<EOF > docs/forecast.json
-        {
-          "generated_at": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
-          "location": {
-            "lat": 38.969,
-            "lng": -9.42
-          },
-          "data": []
-        }
-        EOF
-        echo "forecast.json gerado com sucesso."
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Gerar forecast.json (StormGlass)
+      env:
+        STORMGLASS_API_KEY: ${{ secrets.STORMGLASS_API_KEY }}
+      run: |
+        python scripts/stormglass_fetch.py
+
+    - name: Verificar se o ficheiro mudou
+      run: |
+        git status
+        ls -lh docs/forecast.json
 
     - name: Commit e push
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add docs/forecast.json
-        git commit -m "Atualizar forecast.json em $(date -u +%Y-%m-%dT%H:%M:%SZ)" || echo "Nada para commitar"
-        git push origin HEAD:main
+        git commit -m "Atualizar forecast.json (auto)" || echo "Sem alterações"
+        git push
