@@ -43,7 +43,7 @@ PARAMS = [
 url = f"https://api.stormglass.io/v2/weather/point?lat={LAT}&lng={LNG}&params={','.join(PARAMS)}"
 
 headers = {
-    "Authorization": API_KEY
+    "Authorization": api_key
 }
 
 # --- Fazer fetch ---
