@@ -3,36 +3,39 @@ name: Update Marine Forecast
 on:
   schedule:
     - cron: "0 */3 * * *"   # de 3 em 3 horas
-  workflow_dispatch:
+  workflow_dispatch: # Permite disparar manualmente
+
+permissions:
+  contents: write  # permite push para o repo
 
 jobs:
-  build:
+  update-forecast:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Setup Node.js (opcional, se fores gerar JSON via script)
+        uses: actions/setup-node@v3
         with:
-          python-version: "3.12"
+          node-version: '20'
 
-      - name: Install deps
+      - name: Update forecast.json
         run: |
-          pip install requests
+          # Aqui podes colocar um script para gerar forecast.json
+          # Exemplo simples: copiar de outro local ou executar Node.js script
+          echo "Gerando forecast.json..."
+          node scripts/generate_forecast.js # se tiveres script
+          # Ou, se já tens JSON pronto em outro lugar:
+          # cp path/to/new_forecast.json docs/forecast.json
 
-      - name: Run forecast fetch
-        env:
-          STORMGLASS_API_KEY: ${{ secrets.STORMGLASS_API_KEY }}
-        run: |
-          python scripts/stormglass_fetch.py
-
-      - name: Commit forecast.json
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add docs/forecast.json
-          git commit -m "Update forecast" || echo "No changes"
+          git diff --staged --quiet || git commit -m "Update forecast.json [skip ci]"
           git push
-
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
