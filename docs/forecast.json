@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T13:54:54.521595Z",
+  "generated_at": "2026-02-01T15:49:51.895014Z",
   "location": {
     "lat": 38.969,
     "lng": -9.42
@@ -57,9 +57,9 @@
       },
       "time": "2026-02-01T00:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.09,
+        "meto": 14.11,
         "noaa": 13.97,
-        "sg": 14.09
+        "sg": 14.11
       },
       "waveDirection": {
         "ecmwf": 299.18,
@@ -165,9 +165,9 @@
       },
       "time": "2026-02-01T01:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.1,
+        "meto": 14.12,
         "noaa": 14.0,
-        "sg": 14.1
+        "sg": 14.12
       },
       "waveDirection": {
         "ecmwf": 298.31,
@@ -273,9 +273,9 @@
       },
       "time": "2026-02-01T02:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.11,
+        "meto": 14.13,
         "noaa": 14.02,
-        "sg": 14.11
+        "sg": 14.13
       },
       "waveDirection": {
         "ecmwf": 297.45,
@@ -381,9 +381,9 @@
       },
       "time": "2026-02-01T03:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.12,
+        "meto": 14.14,
         "noaa": 14.05,
-        "sg": 14.12
+        "sg": 14.14
       },
       "waveDirection": {
         "ecmwf": 296.58,
@@ -489,9 +489,9 @@
       },
       "time": "2026-02-01T04:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.13,
+        "meto": 14.14,
         "noaa": 14.05,
-        "sg": 14.13
+        "sg": 14.14
       },
       "waveDirection": {
         "ecmwf": 296.07,
@@ -597,9 +597,9 @@
       },
       "time": "2026-02-01T05:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.13,
+        "meto": 14.14,
         "noaa": 14.04,
-        "sg": 14.13
+        "sg": 14.14
       },
       "waveDirection": {
         "ecmwf": 295.57,
@@ -705,9 +705,9 @@
       },
       "time": "2026-02-01T06:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.14,
+        "meto": 14.15,
         "noaa": 14.04,
-        "sg": 14.14
+        "sg": 14.15
       },
       "waveDirection": {
         "ecmwf": 295.06,
@@ -813,9 +813,9 @@
       },
       "time": "2026-02-01T07:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.14,
+        "meto": 14.15,
         "noaa": 14.02,
-        "sg": 14.14
+        "sg": 14.15
       },
       "waveDirection": {
         "ecmwf": 294.63,
@@ -921,9 +921,9 @@
       },
       "time": "2026-02-01T08:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.14,
+        "meto": 14.15,
         "noaa": 14.0,
-        "sg": 14.14
+        "sg": 14.15
       },
       "waveDirection": {
         "ecmwf": 294.2,
@@ -1029,9 +1029,9 @@
       },
       "time": "2026-02-01T09:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.15,
+        "meto": 14.16,
         "noaa": 13.98,
-        "sg": 14.15
+        "sg": 14.16
       },
       "waveDirection": {
         "ecmwf": 293.77,
@@ -1137,9 +1137,9 @@
       },
       "time": "2026-02-01T10:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.15,
+        "meto": 14.16,
         "noaa": 14.01,
-        "sg": 14.15
+        "sg": 14.16
       },
       "waveDirection": {
         "ecmwf": 293.01,
@@ -1245,9 +1245,9 @@
       },
       "time": "2026-02-01T11:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.16,
+        "meto": 14.17,
         "noaa": 14.03,
-        "sg": 14.16
+        "sg": 14.17
       },
       "waveDirection": {
         "ecmwf": 292.25,
@@ -1353,9 +1353,9 @@
       },
       "time": "2026-02-01T12:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.16,
+        "meto": 14.18,
         "noaa": 14.05,
-        "sg": 14.16
+        "sg": 14.18
       },
       "waveDirection": {
         "ecmwf": 291.49,
@@ -1461,9 +1461,9 @@
       },
       "time": "2026-02-01T13:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.17,
+        "meto": 14.18,
         "noaa": 14.03,
-        "sg": 14.17
+        "sg": 14.18
       },
       "waveDirection": {
         "ecmwf": 290.71,
@@ -2757,9 +2757,9 @@
       },
       "time": "2026-02-02T01:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.19,
+        "meto": 14.2,
         "noaa": 13.93,
-        "sg": 14.19
+        "sg": 14.2
       },
       "waveDirection": {
         "ecmwf": 274.52,
@@ -5673,9 +5673,9 @@
       },
       "time": "2026-02-03T04:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.08,
+        "meto": 14.09,
         "noaa": 13.85,
-        "sg": 14.08
+        "sg": 14.09
       },
       "waveDirection": {
         "ecmwf": 285.41,
@@ -5781,9 +5781,9 @@
       },
       "time": "2026-02-03T05:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.07,
+        "meto": 14.08,
         "noaa": 13.85,
-        "sg": 14.07
+        "sg": 14.08
       },
       "waveDirection": {
         "ecmwf": 285.56,
@@ -5889,9 +5889,9 @@
       },
       "time": "2026-02-03T06:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.07,
+        "meto": 14.08,
         "noaa": 13.85,
-        "sg": 14.07
+        "sg": 14.08
       },
       "waveDirection": {
         "ecmwf": 285.71,
@@ -5997,9 +5997,9 @@
       },
       "time": "2026-02-03T07:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.06,
+        "meto": 14.07,
         "noaa": 13.82,
-        "sg": 14.06
+        "sg": 14.07
       },
       "waveDirection": {
         "ecmwf": 285.9,
@@ -6105,9 +6105,9 @@
       },
       "time": "2026-02-03T08:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.05,
+        "meto": 14.07,
         "noaa": 13.78,
-        "sg": 14.05
+        "sg": 14.07
       },
       "waveDirection": {
         "ecmwf": 286.09,
@@ -6213,9 +6213,9 @@
       },
       "time": "2026-02-03T09:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.05,
+        "meto": 14.07,
         "noaa": 13.75,
-        "sg": 14.05
+        "sg": 14.07
       },
       "waveDirection": {
         "ecmwf": 286.28,
@@ -6321,9 +6321,9 @@
       },
       "time": "2026-02-03T10:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.05,
+        "meto": 14.07,
         "noaa": 13.78,
-        "sg": 14.05
+        "sg": 14.07
       },
       "waveDirection": {
         "ecmwf": 286.67,
@@ -6429,9 +6429,9 @@
       },
       "time": "2026-02-03T11:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.05,
+        "meto": 14.07,
         "noaa": 13.82,
-        "sg": 14.05
+        "sg": 14.07
       },
       "waveDirection": {
         "ecmwf": 287.05,
@@ -6537,9 +6537,9 @@
       },
       "time": "2026-02-03T12:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.04,
+        "meto": 14.08,
         "noaa": 13.85,
-        "sg": 14.04
+        "sg": 14.08
       },
       "waveDirection": {
         "ecmwf": 287.44,
@@ -6645,9 +6645,9 @@
       },
       "time": "2026-02-03T13:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.04,
+        "meto": 14.07,
         "noaa": 13.83,
-        "sg": 14.04
+        "sg": 14.07
       },
       "waveDirection": {
         "ecmwf": 287.9,
@@ -6753,9 +6753,9 @@
       },
       "time": "2026-02-03T14:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.04,
+        "meto": 14.07,
         "noaa": 13.81,
-        "sg": 14.04
+        "sg": 14.07
       },
       "waveDirection": {
         "ecmwf": 288.36,
@@ -6861,9 +6861,9 @@
       },
       "time": "2026-02-03T15:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.04,
+        "meto": 14.06,
         "noaa": 13.78,
-        "sg": 14.04
+        "sg": 14.06
       },
       "waveDirection": {
         "ecmwf": 288.81,
@@ -7077,9 +7077,9 @@
       },
       "time": "2026-02-03T17:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.05,
+        "meto": 14.04,
         "noaa": 13.79,
-        "sg": 14.05
+        "sg": 14.04
       },
       "waveDirection": {
         "ecmwf": 288.78,
@@ -7185,9 +7185,9 @@
       },
       "time": "2026-02-03T18:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.06,
+        "meto": 14.04,
         "noaa": 13.79,
-        "sg": 14.06
+        "sg": 14.04
       },
       "waveDirection": {
         "ecmwf": 288.76,
@@ -7293,9 +7293,9 @@
       },
       "time": "2026-02-03T19:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.07,
+        "meto": 14.03,
         "noaa": 13.81,
-        "sg": 14.07
+        "sg": 14.03
       },
       "waveDirection": {
         "ecmwf": 287.97,
@@ -7401,9 +7401,9 @@
       },
       "time": "2026-02-03T20:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.08,
+        "meto": 14.04,
         "noaa": 13.82,
-        "sg": 14.08
+        "sg": 14.04
       },
       "waveDirection": {
         "ecmwf": 287.17,
@@ -7509,9 +7509,9 @@
       },
       "time": "2026-02-03T21:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.09,
+        "meto": 14.04,
         "noaa": 13.83,
-        "sg": 14.09
+        "sg": 14.04
       },
       "waveDirection": {
         "ecmwf": 286.38,
@@ -7617,9 +7617,9 @@
       },
       "time": "2026-02-03T22:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.1,
+        "meto": 14.05,
         "noaa": 13.84,
-        "sg": 14.1
+        "sg": 14.05
       },
       "waveDirection": {
         "ecmwf": 286.52,
@@ -7725,9 +7725,9 @@
       },
       "time": "2026-02-03T23:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.11,
+        "meto": 14.05,
         "noaa": 13.84,
-        "sg": 14.11
+        "sg": 14.05
       },
       "waveDirection": {
         "ecmwf": 286.65,
@@ -15033,9 +15033,9 @@
       },
       "time": "2026-02-07T00:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.13,
+        "meto": 14.1,
         "noaa": 13.73,
-        "sg": 14.13
+        "sg": 14.1
       },
       "waveDirection": {
         "ecmwf": 280.52,
@@ -15127,9 +15127,9 @@
       },
       "time": "2026-02-07T01:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.12,
+        "meto": 14.09,
         "noaa": 13.75,
-        "sg": 14.12
+        "sg": 14.09
       },
       "waveDirection": {
         "meteo": 276.26,
@@ -15216,9 +15216,9 @@
       },
       "time": "2026-02-07T02:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.12,
+        "meto": 14.08,
         "noaa": 13.76,
-        "sg": 14.12
+        "sg": 14.08
       },
       "waveDirection": {
         "meteo": 275.95,
@@ -15305,9 +15305,9 @@
       },
       "time": "2026-02-07T03:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.11,
+        "meto": 14.08,
         "noaa": 13.77,
-        "sg": 14.11
+        "sg": 14.08
       },
       "waveDirection": {
         "meteo": 275.65,
@@ -15394,9 +15394,9 @@
       },
       "time": "2026-02-07T04:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.11,
+        "meto": 14.07,
         "noaa": 13.8,
-        "sg": 14.11
+        "sg": 14.07
       },
       "waveDirection": {
         "meteo": 274.32,
@@ -15483,9 +15483,9 @@
       },
       "time": "2026-02-07T05:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.11,
+        "meto": 14.06,
         "noaa": 13.82,
-        "sg": 14.11
+        "sg": 14.06
       },
       "waveDirection": {
         "meteo": 273.0,
@@ -15572,9 +15572,9 @@
       },
       "time": "2026-02-07T06:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.12,
+        "meto": 14.06,
         "noaa": 13.85,
-        "sg": 14.12
+        "sg": 14.06
       },
       "waveDirection": {
         "meteo": 271.67,
@@ -15661,9 +15661,9 @@
       },
       "time": "2026-02-07T07:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.13,
+        "meto": 14.06,
         "noaa": 13.82,
-        "sg": 14.13
+        "sg": 14.06
       },
       "waveDirection": {
         "meteo": 270.78,
@@ -15750,9 +15750,9 @@
       },
       "time": "2026-02-07T08:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.14,
+        "meto": 14.06,
         "noaa": 13.78,
-        "sg": 14.14
+        "sg": 14.06
       },
       "waveDirection": {
         "meteo": 269.88,
@@ -15839,9 +15839,9 @@
       },
       "time": "2026-02-07T09:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.15,
+        "meto": 14.06,
         "noaa": 13.75,
-        "sg": 14.15
+        "sg": 14.06
       },
       "waveDirection": {
         "meteo": 268.99,
@@ -15928,9 +15928,9 @@
       },
       "time": "2026-02-07T10:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.16,
+        "meto": 14.07,
         "noaa": 13.75,
-        "sg": 14.16
+        "sg": 14.07
       },
       "waveDirection": {
         "meteo": 269.44,
@@ -16017,9 +16017,9 @@
       },
       "time": "2026-02-07T11:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.17,
+        "meto": 14.08,
         "noaa": 13.75,
-        "sg": 14.17
+        "sg": 14.08
       },
       "waveDirection": {
         "meteo": 269.89,
@@ -16106,9 +16106,9 @@
       },
       "time": "2026-02-07T12:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.18,
+        "meto": 14.09,
         "noaa": 13.75,
-        "sg": 14.18
+        "sg": 14.09
       },
       "waveDirection": {
         "meteo": 270.34,
@@ -16195,9 +16195,9 @@
       },
       "time": "2026-02-07T13:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.18,
+        "meto": 14.1,
         "noaa": 13.77,
-        "sg": 14.18
+        "sg": 14.1
       },
       "waveDirection": {
         "meteo": 271.07,
@@ -16284,9 +16284,9 @@
       },
       "time": "2026-02-07T14:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.19,
+        "meto": 14.11,
         "noaa": 13.79,
-        "sg": 14.19
+        "sg": 14.11
       },
       "waveDirection": {
         "meteo": 271.79,
@@ -16373,9 +16373,9 @@
       },
       "time": "2026-02-07T15:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.2,
+        "meto": 14.12,
         "noaa": 13.8,
-        "sg": 14.2
+        "sg": 14.12
       },
       "waveDirection": {
         "meteo": 272.52,
@@ -16462,9 +16462,9 @@
       },
       "time": "2026-02-07T16:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.2,
+        "meto": 14.13,
         "noaa": 13.79,
-        "sg": 14.2
+        "sg": 14.13
       },
       "waveDirection": {
         "meteo": 273.27,
@@ -16551,9 +16551,9 @@
       },
       "time": "2026-02-07T17:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.2,
+        "meto": 14.13,
         "noaa": 13.78,
-        "sg": 14.2
+        "sg": 14.13
       },
       "waveDirection": {
         "meteo": 274.01,
@@ -16640,9 +16640,9 @@
       },
       "time": "2026-02-07T18:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.2,
+        "meto": 14.14,
         "noaa": 13.77,
-        "sg": 14.2
+        "sg": 14.14
       },
       "waveDirection": {
         "meteo": 274.76,
@@ -16729,9 +16729,9 @@
       },
       "time": "2026-02-07T19:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.19,
+        "meto": 14.14,
         "noaa": 13.82,
-        "sg": 14.19
+        "sg": 14.14
       },
       "waveDirection": {
         "meteo": 275.5,
@@ -16818,9 +16818,9 @@
       },
       "time": "2026-02-07T20:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.18,
+        "meto": 14.14,
         "noaa": 13.87,
-        "sg": 14.18
+        "sg": 14.14
       },
       "waveDirection": {
         "meteo": 276.25,
@@ -16907,9 +16907,9 @@
       },
       "time": "2026-02-07T21:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.17,
+        "meto": 14.14,
         "noaa": 13.92,
-        "sg": 14.17
+        "sg": 14.14
       },
       "waveDirection": {
         "meteo": 276.99,
@@ -16996,9 +16996,9 @@
       },
       "time": "2026-02-07T22:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.16,
+        "meto": 14.14,
         "noaa": 13.93,
-        "sg": 14.16
+        "sg": 14.14
       },
       "waveDirection": {
         "meteo": 277.3,
@@ -17085,9 +17085,9 @@
       },
       "time": "2026-02-07T23:00:00+00:00",
       "waterTemperature": {
-        "meto": 14.15,
+        "meto": 14.14,
         "noaa": 13.93,
-        "sg": 14.15
+        "sg": 14.14
       },
       "waveDirection": {
         "meteo": 277.61,
