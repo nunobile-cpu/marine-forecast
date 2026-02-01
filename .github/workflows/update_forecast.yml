@@ -3,10 +3,10 @@ name: Update Marine Forecast
 on:
   schedule:
     - cron: "0 */3 * * *"   # de 3 em 3 horas
-  workflow_dispatch: # Permite disparar manualmente
+  workflow_dispatch:
 
 permissions:
-  contents: write  # permite push para o repo
+  contents: write
 
 jobs:
   update-forecast:
@@ -16,19 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js (opcional, se fores gerar JSON via script)
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-
-      - name: Update forecast.json
+      - name: Download latest forecast.json
         run: |
-          # Aqui podes colocar um script para gerar forecast.json
-          # Exemplo simples: copiar de outro local ou executar Node.js script
-          echo "Gerando forecast.json..."
-          node scripts/generate_forecast.js # se tiveres script
-          # Ou, se já tens JSON pronto em outro lugar:
-          # cp path/to/new_forecast.json docs/forecast.json
+          curl -sSL "https://nunobile-cpu.github.io/marine-forecast/forecast.json" -o docs/forecast.json
 
       - name: Commit changes
         run: |
