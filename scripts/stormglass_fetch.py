@@ -12,10 +12,17 @@ if not api_key:
 
 
 # --- Local do JSON final ---
-OUTPUT_FILE = "docs/forecast.json"
+OUTPUT_DIR = "docs/"
 
-# --- Coordenadas da Ericeira ---
-LAT, LNG = 38.969, -9.420
+# --- Coordenadas ---
+SPOTS = {
+  "peniche":   { "lat": 39.363007, "lng": -9.414682 },
+  "ericeira":  { "lat": 38.966127, "lng": -9.424674 },
+  "lisboa":    { "lat": 38.646397, "lng": -9.330245 },
+  "sines":     { "lat": 37.850821, "lng": -8.805547 },
+  "sagres":    { "lat": 37.038705, "lng": -8.875115 },
+}
+
 
 # --- Parâmetros a buscar ---
 PARAMS = [
@@ -60,8 +67,8 @@ output = {
 }
 
 # --- Escrever no ficheiro docs/forecast.json ---
-os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    json.dump(output, f, indent=2)
+for name, spot in SPOTS.items():
+    data = fetch_stormglass(spot["lat"], spot["lng"])
+    save_json(f"docs/{name}.json", data)
 
-print(f"✅ forecast.json atualizado em {OUTPUT_FILE}")
+print(f"✅ {name}.json atualizado em {OUTPUT_DIR}")
