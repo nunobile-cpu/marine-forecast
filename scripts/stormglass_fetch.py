@@ -4,87 +4,90 @@ import json
 import requests
 from datetime import datetime, timedelta
 
-# --- API Key (vai ser passada como GitHub Secret) ---
-
+# ================================
+# API Key (GitHub Secret)
+# ================================
 api_key = os.environ.get("STORMGLASS_API_KEY")
-
 if not api_key:
     raise ValueError("API key StormGlass não encontrada! Configure o secret STORMGLASS_API_KEY no GitHub.")
 
-HEADERS = {
-    "Authorization": api_key
-}
+HEADERS = {"Authorization": api_key}
 
-# --- Coordenadas ---
+# ================================
+# Coordenadas dos spots
+# ================================
 SPOTS = {
-    # ----------- "peniche":   { "lat": 39.363007, "lng": -9.414682 },
-    "ericeira":  { "lat": 38.966127, "lng": -9.424674 },
-    # ----------- "lisboa":    { "lat": 38.646397, "lng": -9.330245 },
-    # ----------- "sines":     { "lat": 37.850821, "lng": -8.805547 },
-    # ----------- "sagres":    { "lat": 37.038705, "lng": -8.875115 },
+    #-------"peniche":   {"lat": 39.363007, "lng": -9.414682},
+    "ericeira":  {"lat": 38.966127, "lng": -9.424674},
+    #--------"lisboa":    {"lat": 38.646397, "lng": -9.330245},
+    #--------"sines":     {"lat": 37.850821, "lng": -8.805547},
+    #--------"sagres":    {"lat": 37.038705, "lng": -8.875115},
 }
 
-
-# --- Parâmetros a buscar ---
-PARAMS = [
-    "windSpeed",
-    "windDirection",
-    "swellHeight",
-    "swellPeriod",
-    "swellDirection",
-    "secondarySwellHeight",
-    "secondarySwellPeriod",
-    "secondarySwellDirection",
-    "waveHeight",
-    "wavePeriod",
-    "waveDirection",
-    "windWaveHeight",
-    "windWavePeriod",
-    "windWaveDirection",
-    # ----weather
-    "airTemperature",
-    "waterTemperature",
-    "cloudCover",
-    "precipitation",
-    # ----Tides
-    "height",
-    "time",
-    "type",
-    "name",
-    "source",
-    "distance"
+# ================================
+# Parâmetros StormGlass
+# ================================
+PARAMS_FORECAST = [
+    "windSpeed", "windDirection",
+    "swellHeight", "swellPeriod", "swellDirection",
+    "secondarySwellHeight", "secondarySwellPeriod", "secondarySwellDirection",
+    "waveHeight", "wavePeriod", "waveDirection",
+    "windWaveHeight", "windWavePeriod", "windWaveDirection",
+    "airTemperature", "waterTemperature",
+    "cloudCover", "precipitation"
 ]
 
-# --- Fetch ---
+# ================================
+# Intervalo temporal (UTC)
+# ================================
 start = datetime.utcnow().isoformat() + "Z"
 end   = (datetime.utcnow() + timedelta(days=5)).isoformat() + "Z"
 
+# ================================
+# Criar pasta docs/ se não existir
+# ================================
 os.makedirs("docs", exist_ok=True)
 
+# ================================
+# Loop por cada spot
+# ================================
 for name, spot in SPOTS.items():
     lat = spot["lat"]
     lng = spot["lng"]
 
-    url = (
+    print(f"🌊 Obtendo forecast para {name}…")
+
+    # --- Forecast (weather/point)
+    forecast_url = (
         "https://api.stormglass.io/v2/weather/point"
         f"?lat={lat}&lng={lng}"
-        f"&params={','.join(PARAMS)}"
+        f"&params={','.join(PARAMS_FORECAST)}"
         f"&start={start}&end={end}"
     )
 
-    print(f"🌊 A obter forecast para {name}…")
+    resp_forecast = requests.get(forecast_url, headers=HEADERS)
+    resp_forecast.raise_for_status()
+    forecast_data = resp_forecast.json().get("hours", [])
 
-    response = requests.get(url, headers=HEADERS)
-    response.raise_for_status()
+    # --- Tide extremes (tide/extremes/point)
+    tide_url = "https://api.stormglass.io/v2/tide/extremes/point"
+    tide_params = {"lat": lat, "lng": lng, "start": start, "end": end}
 
-    data = response.json()
+    resp_tide = requests.get(tide_url, headers=HEADERS, params=tide_params)
+    resp_tide.raise_for_status()
+    tide_data = resp_tide.json().get("data", [])
 
-    # --- Criar estrutura final com timestamp ---
-output = {
-    "generated_at": datetime.utcnow().isoformat() + "Z"
-}
+    # --- Estrutura final do JSON
+    output = {
+        "spot": name,
+        "generated_at": datetime.utcnow().isoformat() + "Z",
+        "forecast": forecast_data,
+        "tide": tide_data
+    }
 
-with open(f"docs/{name}.json", "w", encoding="utf-8") as f:
-    json.dump(data, f, ensure_ascii=False, indent=2)
+    # --- Salvar arquivo
+    file_path = f"docs/{name}.json"
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
 
-print(f"docs/{name}.json atualizado")
+    print(f"✅ {file_path} atualizado")
