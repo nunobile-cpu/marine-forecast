@@ -17,11 +17,11 @@ HEADERS = {
 
 # --- Coordenadas ---
 SPOTS = {
-  "peniche":   { "lat": 39.363007, "lng": -9.414682 },
-  "ericeira":  { "lat": 38.966127, "lng": -9.424674 },
-  "lisboa":    { "lat": 38.646397, "lng": -9.330245 },
-  "sines":     { "lat": 37.850821, "lng": -8.805547 },
-  "sagres":    { "lat": 37.038705, "lng": -8.875115 },
+    # ----------- "peniche":   { "lat": 39.363007, "lng": -9.414682 },
+    "ericeira":  { "lat": 38.966127, "lng": -9.424674 },
+    # ----------- "lisboa":    { "lat": 38.646397, "lng": -9.330245 },
+    # ----------- "sines":     { "lat": 37.850821, "lng": -8.805547 },
+    # ----------- "sagres":    { "lat": 37.038705, "lng": -8.875115 },
 }
 
 
@@ -41,10 +41,18 @@ PARAMS = [
     "windWaveHeight",
     "windWavePeriod",
     "windWaveDirection",
+    # ----weather
     "airTemperature",
     "waterTemperature",
     "cloudCover",
-    "precipitation"
+    "precipitation",
+    # ----Tides
+    "height",
+    "time",
+    "type",
+    "name",
+    "source",
+    "distance"
 ]
 
 # --- Fetch ---
@@ -79,4 +87,4 @@ output = {
 with open(f"docs/{name}.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
-print(f"✔️ docs/{name}.json atualizado")
+print(f"docs/{name}.json atualizado")
