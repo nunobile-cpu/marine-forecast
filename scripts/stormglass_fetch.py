@@ -2,13 +2,18 @@
 import os
 import json
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # --- API Key (vai ser passada como GitHub Secret) ---
 
 api_key = os.environ.get("STORMGLASS_API_KEY")
+
 if not api_key:
     raise ValueError("API key StormGlass não encontrada! Configure o secret STORMGLASS_API_KEY no GitHub.")
+
+HEADERS = {
+    "Authorization": API_KEY
+}
 
 # --- Coordenadas ---
 SPOTS = {
@@ -43,20 +48,30 @@ PARAMS = [
 ]
 
 # --- Fetch ---
+start = datetime.utcnow().isoformat() + "Z"
+end   = (datetime.utcnow() + timedelta(days=5)).isoformat() + "Z"
+
+os.makedirs("docs", exist_ok=True)
+
 for name, spot in SPOTS.items():
     lat = spot["lat"]
     lng = spot["lng"]
 
     url = (
         "https://api.stormglass.io/v2/weather/point"
-        f"?lat={lat}&lng={lng}&params={','.join(PARAMS)}"
+        f"?lat={lat}&lng={lng}"
+        f"&params={','.join(PARAMS)}"
+        f"&start={start}&end={end}"
     )
 
-    response = requests.get(url, headers=headers)
+    print(f"🌊 A obter forecast para {name}…")
+
+    response = requests.get(url, headers=HEADERS)
     response.raise_for_status()
+
     data = response.json()
 
     with open(f"docs/{name}.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"✔️ {name}.json atualizado")
+    print(f"✔️ docs/{name}.json atualizado")
