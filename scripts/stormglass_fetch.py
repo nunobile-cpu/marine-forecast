@@ -76,7 +76,7 @@ output = {
     "generated_at": datetime.utcnow().isoformat() + "Z"
 }
 
-    with open(f"docs/{name}.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+with open(f"docs/{name}.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"✔️ docs/{name}.json atualizado")
+print(f"✔️ docs/{name}.json atualizado")
