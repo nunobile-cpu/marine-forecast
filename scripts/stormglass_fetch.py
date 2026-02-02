@@ -62,7 +62,7 @@ data = response.json()
 # --- Criar estrutura final com timestamp ---
 output = {
     "generated_at": datetime.utcnow().isoformat() + "Z",
-    "location": {"lat": LAT, "lng": LNG},
+    "location": {"lat": lat, "lng": lng},
     "data": data.get("hours", [])
 }
 
