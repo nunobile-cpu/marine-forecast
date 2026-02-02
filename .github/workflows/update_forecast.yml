@@ -2,7 +2,7 @@ name: Update Marine Forecast
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # de 3 em 3 horas
+    - cron: "0 */6 * * *"   # de 6 em 6 horas
   workflow_dispatch: # permite execução manual
 
 jobs:
