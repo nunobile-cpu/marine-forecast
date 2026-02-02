@@ -12,7 +12,7 @@ if not api_key:
     raise ValueError("API key StormGlass não encontrada! Configure o secret STORMGLASS_API_KEY no GitHub.")
 
 HEADERS = {
-    "Authorization": API_KEY
+    "Authorization": api_key
 }
 
 # --- Coordenadas ---
