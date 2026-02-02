@@ -30,15 +30,15 @@ jobs:
         python scripts/stormglass_fetch.py
 
     - name: Verificar ficheiros
-    run: |
-      git status
-      ls -lh docs/*.json
+      run: |
+        git status
+        ls -lh docs/*.json
       
     - name: Commit e push
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "github-actions[bot]@users.noreply.github.com"
-      git add docs/*.json
-      git commit -m "Atualizar forecasts (auto)" || echo "Sem alterações"
-      git push
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add docs/*.json
+        git commit -m "Atualizar forecasts (auto)" || echo "Sem alterações"
+        git push
 
