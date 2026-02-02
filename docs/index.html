@@ -2,7 +2,7 @@
 <html lang="pt">
 <head>
   <meta charset="UTF-8" />
-  <title>Marine Forecast – SurfTheBlue</title>
+  <title>Marine Forecast</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- Performance -->
@@ -61,15 +61,10 @@
 
 <body>
 
-  <h1>🌊 Marine Forecast</h1>
+  <h1>🌊 Marine Forecast 🌊</h1>
   <div class="updated" id="updated">A carregar dados…</div>
 
   <div id="content"></div>
-
-  <div class="loading" id="loading">A carregar previsão…</div>
-  <div class="error" id="error" style="display:none;">
-    Não foi possível carregar a previsão.
-  </div>
 
   <script>
     async function loadForecast() {
@@ -92,70 +87,7 @@
           card.className = "card";
 
           card.innerHTML = `
-            <div class="row">
-              <span class="label">Hora</span>
-              <span class="value">${item.time}</span>
-            </div>
-            <div class="row">
-              <span class="label">swellD</span>
-              <span class="value">${item.swellDirection?.noaa ?? item.swellDirection?.sg ?? item.swellDirection?.meteo ?? item.swellDirection?.dwd ?? 0} °</span>
-            </div>
-            <div class="row">
-              <span class="label">swellH</span>
-              <span class="value">${item.swellHeight?.noaa ?? item.swellHeight?.sg ?? item.swellHeight?.meteo ?? item.swellHeight?.dwd ?? 0} m</span>
-            </div>
-            <div class="row">
-              <span class="label">swellP</span>
-              <span class="value">${item.swellPeriod?.noaa ?? item.swellPeriod?.sg ?? item.swellPeriod?.meteo ?? item.swellPeriod?.dwd ?? 0} s</span>
-            </div>
-            <div class="row">
-              <span class="label">secondSwellD</span>
-              <span class="value">${item.secondarySwellDirection?.noaa ?? item.secondarySwellDirection?.sg ?? 0} °</span>
-            </div>
-            <div class="row">
-              <span class="label">secondSwellH</span>
-              <span class="value">${item.secondarySwellHeight?.noaa ?? item.secondarySwellHeight?.sg ?? 0} m</span>
-            </div>
-            <div class="row">
-              <span class="label">secondSwellP</span>
-              <span class="value">${item.secondarySwellPeriod?.noaa ?? item.secondarySwellPeriod?.sg ?? 0} s</span>
-            </div>
-            <div class="row">
-              <span class="label">waveD</span>
-              <span class="value">${item.waveDirection?.noaa ?? item.waveDirection?.sg ?? item.waveDirection?.ecmwf ?? item.waveDirection?.meteo ?? 0} °</span>
-            </div>
-            <div class="row">
-              <span class="label">waveH</span>
-              <span class="value">${item.waveHeight?.noaa ?? item.waveHeight?.sg ?? item.waveHeight?.ecmwf ?? item.waveHeight?.meteo ?? 0} m</span>
-            </div>
-            <div class="row">
-              <span class="label">waveP</span>
-              <span class="value">${item.wavePeriod?.noaa ?? item.wavePeriod?.sg ?? item.wavePeriod?.ecmwf ?? item.wavePeriod?.meteo ?? 0} s</span>
-            </div>
-            <div class="row">
-              <span class="label">windS</span>
-              <span class="value">${item.windSpeed?.noaa ?? item.windSpeed?.sg ?? item.windSpeed?.ecmwf ?? 0} m/s</span>
-            </div>
-            <div class="row">
-              <span class="label">windD</span>
-              <span class="value">${item.windDirection?.noaa ?? item.windDirection?.sg ?? item.windDirection?.ecmwf ?? 0}°</span>
-            </div>
-            <div class="row">
-              <span class="label">airT</span>
-              <span class="value">${item.airTemperature?.sg ?? 0} °</span>
-            </div>
-            <div class="row">
-              <span class="label">couldC</span>
-              <span class="value">${item.cloudCover?.sg ?? 0} %</span>
-            </div>
-            <div class="row">
-              <span class="label">precipitation</span>
-              <span class="value">${item.precipitation?.sg ?? 0} m3</span>
-            </div>
-            <div class="row">
-              <span class="label">waterT</span>
-              <span class="value">${item.waterTemperature?.sg ?? 0} °</span>
-            </div>
+            
           `;
 
           content.appendChild(card);
