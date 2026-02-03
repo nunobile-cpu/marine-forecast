@@ -67,30 +67,14 @@
   
 
   <script>
-    async function loadForecast() {
-      try {
-        const res = await fetch("./ericeira.json", { cache: "no-store" });
+    fetch(./ericeira.json)
+  .then(r => {
+    if (!r.ok) throw new Error("Erro a carregar JSON");
+    return r.json();
+  })
+  .then(json => {
 
-        if (!res.ok) throw new Error("HTTP error");
-
-        const data = await res.json();
-
-        document.getElementById("loading").style.display = "none";
-
-        document.getElementById("updated").textContent =
-          "Atualizado: " + new Date(generated_at).toLocaleString("pt-PT");
-
-        const content = document.getElementById("content");
-
-        data.forecast.forEach(item => {
-          const card = document.createElement("div");
-          card.className = "card";
-
-          card.innerHTML = `
-            
-          `;
-
-          content.appendChild(card);
+    const updated = Array.isArray(json.generated_at) ? json.generated_at : [];
         });
 
       } catch (err) {
@@ -99,8 +83,6 @@
         console.error(err);
       }
     }
-
-    loadForecast();
   </script>
 
 </body>
