@@ -69,9 +69,7 @@
   <script>
     fetch(./ericeira.json)
   .then(r => {
-    if (!r.ok) throw new Error("Erro a carregar JSON");
-    return r.json();
-  })
+    
   .then(json => {
 
     const updated = json.generated_at : [];
