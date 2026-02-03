@@ -74,15 +74,14 @@
   })
   .then(json => {
 
-    const updated = Array.isArray(json.generated_at) ? json.generated_at : [];
-        });
-
-      } catch (err) {
+    const updated = json.generated_at : [];
+        })
+    
+    catch (err) {
         document.getElementById("loading").style.display = "none";
         document.getElementById("error").style.display = "block";
         console.error(err);
       }
-    }
   </script>
 
 </body>
