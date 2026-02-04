@@ -34,7 +34,7 @@ PARAMS_FORECAST = [
     "waveHeight", "wavePeriod", "waveDirection",
     "windWaveHeight", "windWavePeriod", "windWaveDirection",
     "airTemperature", "waterTemperature",
-    "cloudCover", "precipitation"
+    "cloudCover", "precipitation", "visibility"
 ]
 
 # ================================
