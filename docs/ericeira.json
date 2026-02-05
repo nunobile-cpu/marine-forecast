@@ -1,340 +1,7 @@
 {
   "spot": "ericeira",
-  "generated_at": "2026-02-05T02:09:24.301821Z",
+  "generated_at": "2026-02-05T05:22:18.926652Z",
   "forecast": [
-    {
-      "airTemperature": {
-        "dwd": 15.09,
-        "ecmwf": 15.33,
-        "ecmwf:aifs": 15.43,
-        "noaa": 15.04,
-        "sg": 15.33
-      },
-      "cloudCover": {
-        "dwd": 100.0,
-        "noaa": 100.0,
-        "sg": 100.0
-      },
-      "precipitation": {
-        "dwd": 1.56,
-        "ecmwf": 2.04,
-        "ecmwf:aifs": 1.54,
-        "noaa": 1.73,
-        "sg": 2.04
-      },
-      "secondarySwellDirection": {
-        "noaa": 290.03,
-        "sg": 290.03
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.79,
-        "sg": 0.79
-      },
-      "secondarySwellPeriod": {
-        "noaa": 14.58,
-        "sg": 14.58
-      },
-      "swellDirection": {
-        "dwd": 287.44,
-        "meteo": 289.36,
-        "noaa": 277.98,
-        "sg": 289.36
-      },
-      "swellHeight": {
-        "dwd": 3.03,
-        "meteo": 3.37,
-        "noaa": 4.3,
-        "sg": 3.37
-      },
-      "swellPeriod": {
-        "dwd": 11.52,
-        "meteo": 9.55,
-        "noaa": 12.58,
-        "sg": 9.55
-      },
-      "time": "2026-02-05T02:00:00+00:00",
-      "visibility": {
-        "noaa": 4.77,
-        "sg": 4.77
-      },
-      "waterTemperature": {
-        "meto": 14.12,
-        "sg": 14.12
-      },
-      "waveDirection": {
-        "ecmwf": 265.0,
-        "meteo": 262.12,
-        "noaa": 279.72,
-        "sg": 265.0
-      },
-      "waveHeight": {
-        "dwd": 4.1,
-        "ecmwf": 4.58,
-        "meteo": 4.77,
-        "noaa": 5.75,
-        "sg": 4.58
-      },
-      "wavePeriod": {
-        "ecmwf": 7.61,
-        "meteo": 7.87,
-        "noaa": 12.39,
-        "sg": 7.61
-      },
-      "windDirection": {
-        "dwd": 221.19,
-        "ecmwf": 224.59,
-        "ecmwf:aifs": 230.71,
-        "noaa": 231.14,
-        "sg": 224.59
-      },
-      "windSpeed": {
-        "dwd": 8.48,
-        "ecmwf": 13.5,
-        "ecmwf:aifs": 13.46,
-        "noaa": 13.42,
-        "sg": 13.5
-      },
-      "windWaveDirection": {
-        "dwd": 227.85,
-        "meteo": 230.14,
-        "noaa": 256.29,
-        "sg": 230.14
-      },
-      "windWaveHeight": {
-        "dwd": 2.76,
-        "meteo": 2.95,
-        "noaa": 5.69,
-        "sg": 2.95
-      },
-      "windWavePeriod": {
-        "dwd": 7.09,
-        "meteo": 6.42,
-        "noaa": 12.36,
-        "sg": 6.42
-      }
-    },
-    {
-      "airTemperature": {
-        "dwd": 14.93,
-        "ecmwf": 15.28,
-        "ecmwf:aifs": 15.41,
-        "noaa": 15.25,
-        "sg": 15.28
-      },
-      "cloudCover": {
-        "dwd": 100.0,
-        "noaa": 100.0,
-        "sg": 100.0
-      },
-      "precipitation": {
-        "dwd": 2.81,
-        "ecmwf": 2.15,
-        "ecmwf:aifs": 1.61,
-        "noaa": 1.93,
-        "sg": 2.15
-      },
-      "secondarySwellDirection": {
-        "noaa": 292.56,
-        "sg": 292.56
-      },
-      "secondarySwellHeight": {
-        "noaa": 1.04,
-        "sg": 1.04
-      },
-      "secondarySwellPeriod": {
-        "noaa": 10.94,
-        "sg": 10.94
-      },
-      "swellDirection": {
-        "dwd": 288.77,
-        "meteo": 293.58,
-        "noaa": 285.93,
-        "sg": 293.58
-      },
-      "swellHeight": {
-        "dwd": 2.9,
-        "meteo": 3.06,
-        "noaa": 3.76,
-        "sg": 3.06
-      },
-      "swellPeriod": {
-        "dwd": 11.71,
-        "meteo": 9.77,
-        "noaa": 12.65,
-        "sg": 9.77
-      },
-      "time": "2026-02-05T03:00:00+00:00",
-      "visibility": {
-        "noaa": 6.08,
-        "sg": 6.08
-      },
-      "waterTemperature": {
-        "meto": 14.13,
-        "sg": 14.13
-      },
-      "waveDirection": {
-        "ecmwf": 261.67,
-        "meteo": 259.03,
-        "noaa": 278.52,
-        "sg": 261.67
-      },
-      "waveHeight": {
-        "dwd": 4.34,
-        "ecmwf": 4.7,
-        "meteo": 4.89,
-        "noaa": 5.93,
-        "sg": 4.7
-      },
-      "wavePeriod": {
-        "ecmwf": 7.52,
-        "meteo": 7.7,
-        "noaa": 12.37,
-        "sg": 7.52
-      },
-      "windDirection": {
-        "dwd": 221.44,
-        "ecmwf": 229.38,
-        "ecmwf:aifs": 234.31,
-        "noaa": 229.04,
-        "sg": 229.38
-      },
-      "windSpeed": {
-        "dwd": 8.85,
-        "ecmwf": 15.42,
-        "ecmwf:aifs": 13.75,
-        "noaa": 15.82,
-        "sg": 15.42
-      },
-      "windWaveDirection": {
-        "dwd": 228.31,
-        "meteo": 235.58,
-        "noaa": 254.6,
-        "sg": 235.58
-      },
-      "windWaveHeight": {
-        "dwd": 3.23,
-        "meteo": 3.72,
-        "noaa": 5.93,
-        "sg": 3.72
-      },
-      "windWavePeriod": {
-        "dwd": 7.4,
-        "meteo": 7.28,
-        "noaa": 12.37,
-        "sg": 7.28
-      }
-    },
-    {
-      "airTemperature": {
-        "dwd": 15.09,
-        "ecmwf": 15.24,
-        "ecmwf:aifs": 15.4,
-        "noaa": 14.96,
-        "sg": 15.24
-      },
-      "cloudCover": {
-        "dwd": 100.0,
-        "noaa": 100.0,
-        "sg": 100.0
-      },
-      "precipitation": {
-        "dwd": 2.64,
-        "ecmwf": 1.81,
-        "ecmwf:aifs": 1.67,
-        "noaa": 1.97,
-        "sg": 1.81
-      },
-      "secondarySwellDirection": {
-        "noaa": 291.25,
-        "sg": 291.25
-      },
-      "secondarySwellHeight": {
-        "noaa": 1.8,
-        "sg": 1.8
-      },
-      "secondarySwellPeriod": {
-        "noaa": 11.51,
-        "sg": 11.51
-      },
-      "swellDirection": {
-        "dwd": 293.04,
-        "meteo": 289.76,
-        "noaa": 284.52,
-        "sg": 289.76
-      },
-      "swellHeight": {
-        "dwd": 2.58,
-        "meteo": 3.22,
-        "noaa": 3.94,
-        "sg": 3.22
-      },
-      "swellPeriod": {
-        "dwd": 12.27,
-        "meteo": 9.82,
-        "noaa": 12.67,
-        "sg": 9.82
-      },
-      "time": "2026-02-05T04:00:00+00:00",
-      "visibility": {
-        "noaa": 8.16,
-        "sg": 8.16
-      },
-      "waterTemperature": {
-        "meto": 14.14,
-        "sg": 14.14
-      },
-      "waveDirection": {
-        "ecmwf": 261.58,
-        "meteo": 258.87,
-        "noaa": 277.17,
-        "sg": 261.58
-      },
-      "waveHeight": {
-        "dwd": 4.65,
-        "ecmwf": 4.77,
-        "meteo": 4.98,
-        "noaa": 5.91,
-        "sg": 4.77
-      },
-      "wavePeriod": {
-        "ecmwf": 7.61,
-        "meteo": 7.89,
-        "noaa": 12.37,
-        "sg": 7.61
-      },
-      "windDirection": {
-        "dwd": 226.76,
-        "ecmwf": 232.99,
-        "ecmwf:aifs": 237.91,
-        "noaa": 233.45,
-        "sg": 232.99
-      },
-      "windSpeed": {
-        "dwd": 9.14,
-        "ecmwf": 14.67,
-        "ecmwf:aifs": 14.04,
-        "noaa": 13.97,
-        "sg": 14.67
-      },
-      "windWaveDirection": {
-        "dwd": 232.53,
-        "meteo": 236.55,
-        "noaa": 245.24,
-        "sg": 236.55
-      },
-      "windWaveHeight": {
-        "dwd": 3.86,
-        "meteo": 3.61,
-        "noaa": 5.29,
-        "sg": 3.61
-      },
-      "windWavePeriod": {
-        "dwd": 7.86,
-        "meteo": 7.24,
-        "noaa": 11.66,
-        "sg": 7.24
-      }
-    },
     {
       "airTemperature": {
         "dwd": 15.16,
@@ -12956,106 +12623,377 @@
         "noaa": 12.79,
         "sg": 3.58
       }
+    },
+    {
+      "airTemperature": {
+        "ecmwf:aifs": 15.26,
+        "noaa": 14.54,
+        "sg": 14.54
+      },
+      "cloudCover": {
+        "noaa": 40.4,
+        "sg": 40.4
+      },
+      "precipitation": {
+        "ecmwf:aifs": 0.47,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 296.79,
+        "sg": 296.79
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.78,
+        "sg": 0.78
+      },
+      "secondarySwellPeriod": {
+        "noaa": 17.76,
+        "sg": 17.76
+      },
+      "swellDirection": {
+        "meteo": 293.23,
+        "noaa": 288.15,
+        "sg": 293.23
+      },
+      "swellHeight": {
+        "meteo": 4.25,
+        "noaa": 5.65,
+        "sg": 4.25
+      },
+      "swellPeriod": {
+        "meteo": 11.75,
+        "noaa": 17.88,
+        "sg": 11.75
+      },
+      "time": "2026-02-10T03:00:00+00:00",
+      "visibility": {
+        "noaa": 24.13,
+        "sg": 24.13
+      },
+      "waterTemperature": {
+        "meto": 14.05,
+        "sg": 14.05
+      },
+      "waveDirection": {
+        "meteo": 291.54,
+        "noaa": 289.91,
+        "sg": 291.54
+      },
+      "waveHeight": {
+        "meteo": 4.36,
+        "noaa": 5.65,
+        "sg": 4.36
+      },
+      "wavePeriod": {
+        "meteo": 9.57,
+        "noaa": 17.88,
+        "sg": 9.57
+      },
+      "windDirection": {
+        "ecmwf:aifs": 253.2,
+        "noaa": 236.44,
+        "sg": 236.44
+      },
+      "windSpeed": {
+        "ecmwf:aifs": 8.37,
+        "noaa": 4.8,
+        "sg": 4.8
+      },
+      "windWaveDirection": {
+        "meteo": 253.55,
+        "noaa": 279.39,
+        "sg": 253.55
+      },
+      "windWaveHeight": {
+        "meteo": 0.94,
+        "noaa": 3.28,
+        "sg": 0.94
+      },
+      "windWavePeriod": {
+        "meteo": 3.78,
+        "noaa": 12.93,
+        "sg": 3.78
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf:aifs": 15.27,
+        "noaa": 14.58,
+        "sg": 14.58
+      },
+      "cloudCover": {
+        "noaa": 60.27,
+        "sg": 60.27
+      },
+      "precipitation": {
+        "ecmwf:aifs": 0.54,
+        "noaa": 0.01,
+        "sg": 0.01
+      },
+      "secondarySwellDirection": {
+        "noaa": 281.58,
+        "sg": 281.58
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.65,
+        "sg": 0.65
+      },
+      "secondarySwellPeriod": {
+        "noaa": 17.78,
+        "sg": 17.78
+      },
+      "swellDirection": {
+        "meteo": 293.68,
+        "noaa": 287.7,
+        "sg": 293.68
+      },
+      "swellHeight": {
+        "meteo": 4.22,
+        "noaa": 5.56,
+        "sg": 4.22
+      },
+      "swellPeriod": {
+        "meteo": 11.73,
+        "noaa": 17.7,
+        "sg": 11.73
+      },
+      "time": "2026-02-10T04:00:00+00:00",
+      "visibility": {
+        "noaa": 18.26,
+        "sg": 18.26
+      },
+      "waterTemperature": {
+        "meto": 14.05,
+        "sg": 14.05
+      },
+      "waveDirection": {
+        "meteo": 291.23,
+        "noaa": 288.47,
+        "sg": 291.23
+      },
+      "waveHeight": {
+        "meteo": 4.37,
+        "noaa": 5.56,
+        "sg": 4.37
+      },
+      "wavePeriod": {
+        "meteo": 9.44,
+        "noaa": 17.7,
+        "sg": 9.44
+      },
+      "windDirection": {
+        "ecmwf:aifs": 252.59,
+        "noaa": 236.03,
+        "sg": 236.03
+      },
+      "windSpeed": {
+        "ecmwf:aifs": 8.56,
+        "noaa": 5.61,
+        "sg": 5.61
+      },
+      "windWaveDirection": {
+        "meteo": 252.39,
+        "noaa": 278.4,
+        "sg": 252.39
+      },
+      "windWaveHeight": {
+        "meteo": 1.05,
+        "noaa": 3.28,
+        "sg": 1.05
+      },
+      "windWavePeriod": {
+        "meteo": 3.97,
+        "noaa": 12.88,
+        "sg": 3.97
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf:aifs": 15.28,
+        "noaa": 14.62,
+        "sg": 14.62
+      },
+      "cloudCover": {
+        "noaa": 80.13,
+        "sg": 80.13
+      },
+      "precipitation": {
+        "ecmwf:aifs": 0.61,
+        "noaa": 0.02,
+        "sg": 0.02
+      },
+      "secondarySwellDirection": {
+        "noaa": 266.36,
+        "sg": 266.36
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.51,
+        "sg": 0.51
+      },
+      "secondarySwellPeriod": {
+        "noaa": 17.79,
+        "sg": 17.79
+      },
+      "swellDirection": {
+        "meteo": 294.13,
+        "noaa": 287.25,
+        "sg": 294.13
+      },
+      "swellHeight": {
+        "meteo": 4.2,
+        "noaa": 5.46,
+        "sg": 4.2
+      },
+      "swellPeriod": {
+        "meteo": 11.71,
+        "noaa": 17.52,
+        "sg": 11.71
+      },
+      "time": "2026-02-10T05:00:00+00:00",
+      "visibility": {
+        "noaa": 12.39,
+        "sg": 12.39
+      },
+      "waterTemperature": {
+        "meto": 14.05,
+        "sg": 14.05
+      },
+      "waveDirection": {
+        "meteo": 290.91,
+        "noaa": 287.04,
+        "sg": 290.91
+      },
+      "waveHeight": {
+        "meteo": 4.37,
+        "noaa": 5.46,
+        "sg": 4.37
+      },
+      "wavePeriod": {
+        "meteo": 9.32,
+        "noaa": 17.52,
+        "sg": 9.32
+      },
+      "windDirection": {
+        "ecmwf:aifs": 251.97,
+        "noaa": 235.63,
+        "sg": 235.63
+      },
+      "windSpeed": {
+        "ecmwf:aifs": 8.76,
+        "noaa": 6.43,
+        "sg": 6.43
+      },
+      "windWaveDirection": {
+        "meteo": 251.22,
+        "noaa": 277.42,
+        "sg": 251.22
+      },
+      "windWaveHeight": {
+        "meteo": 1.15,
+        "noaa": 3.29,
+        "sg": 1.15
+      },
+      "windWavePeriod": {
+        "meteo": 4.15,
+        "noaa": 12.84,
+        "sg": 4.15
+      }
     }
   ],
   "tide": [
     {
-      "height": 1.447289427380714,
-      "time": "2026-02-05T04:37:00+00:00",
-      "type": "high"
-    },
-    {
-      "height": -1.3871495004817755,
+      "height": -1.387149487558975,
       "time": "2026-02-05T10:46:00+00:00",
       "type": "low"
     },
     {
-      "height": 1.138227423404751,
+      "height": 1.1382274089284934,
       "time": "2026-02-05T16:58:00+00:00",
       "type": "high"
     },
     {
-      "height": -1.2660839855132313,
+      "height": -1.2660839779374062,
       "time": "2026-02-05T22:52:00+00:00",
       "type": "low"
     },
     {
-      "height": 1.2646675628412063,
+      "height": 1.2646675557366036,
       "time": "2026-02-06T05:14:00+00:00",
       "type": "high"
     },
     {
-      "height": -1.2099951431545661,
+      "height": -1.2099951287224995,
       "time": "2026-02-06T11:21:00+00:00",
       "type": "low"
     },
     {
-      "height": 0.9932543273954151,
+      "height": 0.9932543125908695,
       "time": "2026-02-06T17:34:00+00:00",
       "type": "high"
     },
     {
-      "height": -1.0952038308550507,
+      "height": -1.095203823351254,
       "time": "2026-02-06T23:28:00+00:00",
       "type": "low"
     },
     {
-      "height": 1.0432572014732693,
+      "height": 1.0432571943930817,
       "time": "2026-02-07T05:50:00+00:00",
       "type": "high"
     },
     {
-      "height": -1.0107671665963387,
+      "height": -1.0107671521745072,
       "time": "2026-02-07T11:56:00+00:00",
       "type": "low"
     },
     {
-      "height": 0.8286636613252099,
+      "height": 0.8286636471000408,
       "time": "2026-02-07T18:11:00+00:00",
       "type": "high"
     },
     {
-      "height": -0.8982357534632501,
+      "height": -0.8982357466141853,
       "time": "2026-02-08T00:07:00+00:00",
       "type": "low"
     },
     {
-      "height": 0.8077661900837949,
+      "height": 0.8077661837864349,
       "time": "2026-02-08T06:28:00+00:00",
       "type": "high"
     },
     {
-      "height": -0.8076621822987295,
+      "height": -0.8076621691728842,
       "time": "2026-02-08T12:34:00+00:00",
       "type": "low"
     },
     {
-      "height": 0.661316451085157,
+      "height": 0.6613164377045249,
       "time": "2026-02-08T18:52:00+00:00",
       "type": "high"
     },
     {
-      "height": -0.6960743728662782,
+      "height": -0.6960743669702942,
       "time": "2026-02-09T00:51:00+00:00",
       "type": "low"
     },
     {
-      "height": 0.5803597280788924,
+      "height": 0.580359722896441,
       "time": "2026-02-09T07:13:00+00:00",
       "type": "high"
     },
     {
-      "height": -0.6167234064759708,
+      "height": -0.616723395576406,
       "time": "2026-02-09T13:19:00+00:00",
       "type": "low"
     },
     {
-      "height": 0.5114963267478099,
+      "height": 0.5114963136262194,
       "time": "2026-02-09T19:44:00+00:00",
       "type": "high"
     },
     {
-      "height": -0.5169284367260132,
+      "height": -0.5169284315476077,
       "time": "2026-02-10T01:52:00+00:00",
       "type": "low"
     }
