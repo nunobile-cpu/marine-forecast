@@ -2,7 +2,7 @@
 import os
 import json
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 # ================================
 # API Key (GitHub Secret)
@@ -12,15 +12,16 @@ if not api_key:
     raise ValueError("API key StormGlass não encontrada! Configure o secret STORMGLASS_API_KEY no GitHub.")
 
 HEADERS = {"Authorization": api_key}
+TIMEOUT = 15  # segundos, evita que o job fique pendurado indefinidamente
 
 # ================================
 # Coordenadas dos spots
 # ================================
 SPOTS = {
     "peniche":   {"lat": 39.365857, "lng": -9.419722},
-    "santacruz":   {"lat": 39.132802, "lng": -9.406022},
+    "santacruz": {"lat": 39.132802, "lng": -9.406022},
     "ericeira":  {"lat": 38.963604, "lng": -9.427196},
-    "sintra":  {"lat": 38.814572, "lng": -9.482933},
+    "sintra":    {"lat": 38.814572, "lng": -9.482933},
     "lisboa":    {"lat": 38.659385, "lng": -9.304082},
     # "sines":     {"lat": 37.850821, "lng": -8.805547},
     # "sagres":    {"lat": 37.038705, "lng": -8.875115},
@@ -42,8 +43,8 @@ PARAMS_FORECAST = [
 # ================================
 # Intervalo temporal (UTC)
 # ================================
-start = datetime.utcnow().isoformat() + "Z"
-end   = (datetime.utcnow() + timedelta(days=5)).isoformat() + "Z"
+start = datetime.now(timezone.utc).isoformat()
+end = (datetime.now(timezone.utc) + timedelta(days=5)).isoformat()
 
 # ================================
 # Criar pasta docs/ se não existir
@@ -53,43 +54,66 @@ os.makedirs("docs", exist_ok=True)
 # ================================
 # Loop por cada spot
 # ================================
+falhas = []
+
 for name, spot in SPOTS.items():
     lat = spot["lat"]
     lng = spot["lng"]
-
     print(f"🌊 Obtendo forecast para {name}…")
 
-    # --- Forecast (weather/point)
-    forecast_url = (
-        "https://api.stormglass.io/v2/weather/point"
-        f"?lat={lat}&lng={lng}"
-        f"&params={','.join(PARAMS_FORECAST)}"
-        f"&start={start}&end={end}"
-    )
+    try:
+        # --- Forecast (weather/point)
+        forecast_url = (
+            "https://api.stormglass.io/v2/weather/point"
+            f"?lat={lat}&lng={lng}"
+            f"&params={','.join(PARAMS_FORECAST)}"
+            f"&start={start}&end={end}"
+        )
+        resp_forecast = requests.get(forecast_url, headers=HEADERS, timeout=TIMEOUT)
+        resp_forecast.raise_for_status()
+        forecast_data = resp_forecast.json().get("hours", [])
 
-    resp_forecast = requests.get(forecast_url, headers=HEADERS)
-    resp_forecast.raise_for_status()
-    forecast_data = resp_forecast.json().get("hours", [])
+        # Mostra quantos requests restam hoje (útil para monitorizar o plano free)
+        remaining = resp_forecast.headers.get("X-RateLimit-Remaining")
+        if remaining is not None:
+            print(f"   ↳ Requests restantes hoje: {remaining}")
 
-    # --- Tide extremes (tide/extremes/point)
-    tide_url = "https://api.stormglass.io/v2/tide/extremes/point"
-    tide_params = {"lat": lat, "lng": lng, "start": start, "end": end}
+        # --- Tide extremes (tide/extremes/point)
+        tide_url = "https://api.stormglass.io/v2/tide/extremes/point"
+        tide_params = {"lat": lat, "lng": lng, "start": start, "end": end}
+        resp_tide = requests.get(tide_url, headers=HEADERS, params=tide_params, timeout=TIMEOUT)
+        resp_tide.raise_for_status()
+        tide_data = resp_tide.json().get("data", [])
 
-    resp_tide = requests.get(tide_url, headers=HEADERS, params=tide_params)
-    resp_tide.raise_for_status()
-    tide_data = resp_tide.json().get("data", [])
+        # --- Estrutura final do JSON
+        output = {
+            "spot": name,
+            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "forecast": forecast_data,
+            "tide": tide_data
+        }
 
-    # --- Estrutura final do JSON
-    output = {
-        "spot": name,
-        "generated_at": datetime.utcnow().isoformat() + "Z",
-        "forecast": forecast_data,
-        "tide": tide_data
-    }
+        # --- Salvar arquivo
+        file_path = f"docs/{name}.json"
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
+        print(f"✅ {file_path} atualizado")
 
-    # --- Salvar arquivo
-    file_path = f"docs/{name}.json"
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+    except requests.exceptions.Timeout:
+        print(f"⏱️ Timeout ao obter dados de {name} — a saltar para a próxima spot.")
+        falhas.append(name)
+        continue
 
-    print(f"✅ {file_path} atualizado")
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Erro ao obter dados de {name}: {e}")
+        falhas.append(name)
+        continue
+
+# ================================
+# Resumo final
+# ================================
+if falhas:
+    print(f"\n⚠️ Spots com falha nesta execução: {', '.join(falhas)}")
+    print("   (os ficheiros JSON dessas spots ficaram com os dados da execução anterior)")
+else:
+    print("\n🎉 Todas as spots foram atualizadas com sucesso.")
