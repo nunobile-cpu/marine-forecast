@@ -43,8 +43,12 @@ PARAMS_FORECAST = [
 # ================================
 # Intervalo temporal (UTC)
 # ================================
-start = datetime.now(timezone.utc).isoformat()
-end = (datetime.now(timezone.utc) + timedelta(days=5)).isoformat()
+def to_stormglass_format(dt):
+    """Formata a data no formato que a StormGlass espera: 2026-08-29T15:25:58Z"""
+    return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+start = to_stormglass_format(datetime.now(timezone.utc))
+end = to_stormglass_format(datetime.now(timezone.utc) + timedelta(days=5))
 
 # ================================
 # Criar pasta docs/ se não existir
@@ -88,7 +92,7 @@ for name, spot in SPOTS.items():
         # --- Estrutura final do JSON
         output = {
             "spot": name,
-            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "generated_at": to_stormglass_format(datetime.now(timezone.utc)),
             "forecast": forecast_data,
             "tide": tide_data
         }
