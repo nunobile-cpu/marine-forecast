@@ -1,1657 +1,22 @@
 {
   "spot": "sintra",
-  "generated_at": "2026-08-29T15:37:26Z",
+  "generated_at": "2026-08-30T06:23:17Z",
   "forecast": [
-    {
-      "airTemperature": {
-        "ecmwf": 21.08,
-        "ecmwf:aifs": 21.12,
-        "noaa": 19.61,
-        "sg": 21.08
-      },
-      "cloudCover": {
-        "noaa": 8.7,
-        "sg": 8.7
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 334.74,
-        "sg": 334.74
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.12,
-        "sg": 0.12
-      },
-      "secondarySwellPeriod": {
-        "noaa": 11.73,
-        "sg": 11.73
-      },
-      "swellDirection": {
-        "dwd": 315.67,
-        "meteo": 315.89,
-        "noaa": 318.7,
-        "sg": 315.89
-      },
-      "swellHeight": {
-        "dwd": 0.98,
-        "meteo": 1.35,
-        "noaa": 1.27,
-        "sg": 1.35
-      },
-      "swellPeriod": {
-        "dwd": 7.89,
-        "meteo": 6.44,
-        "noaa": 8.5,
-        "sg": 6.44
-      },
-      "time": "2026-08-29T15:00:00+00:00",
-      "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
-      },
-      "waterTemperature": {
-        "meto": 20.33,
-        "noaa": 19.85,
-        "sg": 20.33
-      },
-      "waveDirection": {
-        "ecmwf": 316.58,
-        "meteo": 315.81,
-        "noaa": 325.68,
-        "sg": 316.58
-      },
-      "waveHeight": {
-        "dwd": 1.01,
-        "ecmwf": 1.25,
-        "meteo": 1.36,
-        "noaa": 1.31,
-        "sg": 1.25
-      },
-      "wavePeriod": {
-        "ecmwf": 5.83,
-        "meteo": 6.41,
-        "noaa": 8.53,
-        "sg": 5.83
-      },
-      "windDirection": {
-        "dwd": 331.12,
-        "ecmwf": 325.77,
-        "ecmwf:aifs": 334.76,
-        "noaa": 334.49,
-        "sg": 325.77
-      },
-      "windSpeed": {
-        "dwd": 4.53,
-        "ecmwf": 4.93,
-        "ecmwf:aifs": 5.24,
-        "noaa": 5.74,
-        "sg": 4.93
-      },
-      "windWaveDirection": {
-        "dwd": 331.65,
-        "meteo": 324.52,
-        "noaa": 320.36,
-        "sg": 324.52
-      },
-      "windWaveHeight": {
-        "dwd": 0.21,
-        "meteo": 0.09,
-        "noaa": 1.35,
-        "sg": 0.09
-      },
-      "windWavePeriod": {
-        "dwd": 1.97,
-        "meteo": 1.69,
-        "noaa": 8.55,
-        "sg": 1.69
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.94,
-        "ecmwf:aifs": 21.15,
-        "noaa": 19.77,
-        "sg": 20.94
-      },
-      "cloudCover": {
-        "noaa": 5.93,
-        "sg": 5.93
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 334.43,
-        "sg": 334.43
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.13,
-        "sg": 0.13
-      },
-      "secondarySwellPeriod": {
-        "noaa": 11.56,
-        "sg": 11.56
-      },
-      "swellDirection": {
-        "dwd": 315.26,
-        "meteo": 314.96,
-        "noaa": 319.04,
-        "sg": 314.96
-      },
-      "swellHeight": {
-        "dwd": 0.95,
-        "meteo": 1.32,
-        "noaa": 1.25,
-        "sg": 1.32
-      },
-      "swellPeriod": {
-        "dwd": 7.78,
-        "meteo": 6.33,
-        "noaa": 8.44,
-        "sg": 6.33
-      },
-      "time": "2026-08-29T16:00:00+00:00",
-      "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
-      },
-      "waterTemperature": {
-        "meto": 20.29,
-        "noaa": 19.86,
-        "sg": 20.29
-      },
-      "waveDirection": {
-        "ecmwf": 316.13,
-        "meteo": 315.01,
-        "noaa": 326.04,
-        "sg": 316.13
-      },
-      "waveHeight": {
-        "dwd": 0.99,
-        "ecmwf": 1.23,
-        "meteo": 1.34,
-        "noaa": 1.29,
-        "sg": 1.23
-      },
-      "wavePeriod": {
-        "ecmwf": 5.6,
-        "meteo": 6.16,
-        "noaa": 8.47,
-        "sg": 5.6
-      },
-      "windDirection": {
-        "dwd": 331.68,
-        "ecmwf": 331.81,
-        "ecmwf:aifs": 335.13,
-        "noaa": 337.4,
-        "sg": 331.81
-      },
-      "windSpeed": {
-        "dwd": 4.7,
-        "ecmwf": 5.26,
-        "ecmwf:aifs": 5.75,
-        "noaa": 5.87,
-        "sg": 5.26
-      },
-      "windWaveDirection": {
-        "dwd": 331.43,
-        "meteo": 329.31,
-        "noaa": 320.72,
-        "sg": 329.31
-      },
-      "windWaveHeight": {
-        "dwd": 0.24,
-        "meteo": 0.13,
-        "noaa": 1.33,
-        "sg": 0.13
-      },
-      "windWavePeriod": {
-        "dwd": 2.06,
-        "meteo": 1.77,
-        "noaa": 8.49,
-        "sg": 1.77
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.79,
-        "ecmwf:aifs": 21.18,
-        "noaa": 19.92,
-        "sg": 20.79
-      },
-      "cloudCover": {
-        "noaa": 3.17,
-        "sg": 3.17
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 334.12,
-        "sg": 334.12
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.13,
-        "sg": 0.13
-      },
-      "secondarySwellPeriod": {
-        "noaa": 11.4,
-        "sg": 11.4
-      },
-      "swellDirection": {
-        "dwd": 314.85,
-        "meteo": 314.02,
-        "noaa": 319.37,
-        "sg": 314.02
-      },
-      "swellHeight": {
-        "dwd": 0.93,
-        "meteo": 1.3,
-        "noaa": 1.24,
-        "sg": 1.3
-      },
-      "swellPeriod": {
-        "dwd": 7.68,
-        "meteo": 6.22,
-        "noaa": 8.39,
-        "sg": 6.22
-      },
-      "time": "2026-08-29T17:00:00+00:00",
-      "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
-      },
-      "waterTemperature": {
-        "meto": 20.25,
-        "noaa": 19.87,
-        "sg": 20.25
-      },
-      "waveDirection": {
-        "ecmwf": 315.68,
-        "meteo": 314.22,
-        "noaa": 326.41,
-        "sg": 315.68
-      },
-      "waveHeight": {
-        "dwd": 0.97,
-        "ecmwf": 1.2,
-        "meteo": 1.31,
-        "noaa": 1.27,
-        "sg": 1.2
-      },
-      "wavePeriod": {
-        "ecmwf": 5.38,
-        "meteo": 5.9,
-        "noaa": 8.41,
-        "sg": 5.38
-      },
-      "windDirection": {
-        "dwd": 332.25,
-        "ecmwf": 337.85,
-        "ecmwf:aifs": 335.49,
-        "noaa": 340.32,
-        "sg": 337.85
-      },
-      "windSpeed": {
-        "dwd": 4.87,
-        "ecmwf": 5.6,
-        "ecmwf:aifs": 6.27,
-        "noaa": 6.0,
-        "sg": 5.6
-      },
-      "windWaveDirection": {
-        "dwd": 331.21,
-        "meteo": 334.1,
-        "noaa": 321.08,
-        "sg": 334.1
-      },
-      "windWaveHeight": {
-        "dwd": 0.26,
-        "meteo": 0.16,
-        "noaa": 1.3,
-        "sg": 0.16
-      },
-      "windWavePeriod": {
-        "dwd": 2.16,
-        "meteo": 1.85,
-        "noaa": 8.43,
-        "sg": 1.85
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.65,
-        "ecmwf:aifs": 21.21,
-        "noaa": 20.07,
-        "sg": 20.65
-      },
-      "cloudCover": {
-        "noaa": 0.4,
-        "sg": 0.4
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 333.81,
-        "sg": 333.81
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.14,
-        "sg": 0.14
-      },
-      "secondarySwellPeriod": {
-        "noaa": 11.23,
-        "sg": 11.23
-      },
-      "swellDirection": {
-        "dwd": 314.44,
-        "meteo": 313.09,
-        "noaa": 319.71,
-        "sg": 313.09
-      },
-      "swellHeight": {
-        "dwd": 0.9,
-        "meteo": 1.27,
-        "noaa": 1.22,
-        "sg": 1.27
-      },
-      "swellPeriod": {
-        "dwd": 7.57,
-        "meteo": 6.11,
-        "noaa": 8.33,
-        "sg": 6.11
-      },
-      "time": "2026-08-29T18:00:00+00:00",
-      "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
-      },
-      "waterTemperature": {
-        "meto": 20.2,
-        "noaa": 19.87,
-        "sg": 20.2
-      },
-      "waveDirection": {
-        "ecmwf": 315.23,
-        "meteo": 313.42,
-        "noaa": 326.77,
-        "sg": 315.23
-      },
-      "waveHeight": {
-        "dwd": 0.95,
-        "ecmwf": 1.18,
-        "meteo": 1.29,
-        "noaa": 1.25,
-        "sg": 1.18
-      },
-      "wavePeriod": {
-        "ecmwf": 5.16,
-        "meteo": 5.65,
-        "noaa": 8.35,
-        "sg": 5.16
-      },
-      "windDirection": {
-        "dwd": 332.81,
-        "ecmwf": 343.89,
-        "ecmwf:aifs": 335.86,
-        "noaa": 343.23,
-        "sg": 343.89
-      },
-      "windSpeed": {
-        "dwd": 5.04,
-        "ecmwf": 5.93,
-        "ecmwf:aifs": 6.78,
-        "noaa": 6.13,
-        "sg": 5.93
-      },
-      "windWaveDirection": {
-        "dwd": 330.99,
-        "meteo": 338.89,
-        "noaa": 321.44,
-        "sg": 338.89
-      },
-      "windWaveHeight": {
-        "dwd": 0.29,
-        "meteo": 0.2,
-        "noaa": 1.28,
-        "sg": 0.2
-      },
-      "windWavePeriod": {
-        "dwd": 2.25,
-        "meteo": 1.93,
-        "noaa": 8.37,
-        "sg": 1.93
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.51,
-        "ecmwf:aifs": 21.14,
-        "noaa": 20.12,
-        "sg": 20.51
-      },
-      "cloudCover": {
-        "noaa": 0.73,
-        "sg": 0.73
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 333.76,
-        "sg": 333.76
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.13,
-        "sg": 0.13
-      },
-      "secondarySwellPeriod": {
-        "noaa": 11.21,
-        "sg": 11.21
-      },
-      "swellDirection": {
-        "dwd": 314.46,
-        "meteo": 312.93,
-        "noaa": 318.69,
-        "sg": 312.93
-      },
-      "swellHeight": {
-        "dwd": 0.89,
-        "meteo": 1.25,
-        "noaa": 1.18,
-        "sg": 1.25
-      },
-      "swellPeriod": {
-        "dwd": 7.39,
-        "meteo": 6.08,
-        "noaa": 8.25,
-        "sg": 6.08
-      },
-      "time": "2026-08-29T19:00:00+00:00",
-      "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
-      },
-      "waterTemperature": {
-        "meto": 20.15,
-        "noaa": 19.9,
-        "sg": 20.15
-      },
-      "waveDirection": {
-        "ecmwf": 314.74,
-        "meteo": 313.36,
-        "noaa": 326.43,
-        "sg": 314.74
-      },
-      "waveHeight": {
-        "dwd": 0.93,
-        "ecmwf": 1.17,
-        "meteo": 1.27,
-        "noaa": 1.24,
-        "sg": 1.17
-      },
-      "wavePeriod": {
-        "ecmwf": 5.11,
-        "meteo": 5.55,
-        "noaa": 8.28,
-        "sg": 5.11
-      },
-      "windDirection": {
-        "dwd": 335.87,
-        "ecmwf": 346.39,
-        "ecmwf:aifs": 336.86,
-        "noaa": 345.02,
-        "sg": 346.39
-      },
-      "windSpeed": {
-        "dwd": 4.64,
-        "ecmwf": 5.76,
-        "ecmwf:aifs": 6.52,
-        "noaa": 6.01,
-        "sg": 5.76
-      },
-      "windWaveDirection": {
-        "dwd": 334.48,
-        "meteo": 342.24,
-        "noaa": 325.72,
-        "sg": 342.24
-      },
-      "windWaveHeight": {
-        "dwd": 0.25,
-        "meteo": 0.2,
-        "noaa": 1.13,
-        "sg": 0.2
-      },
-      "windWavePeriod": {
-        "dwd": 2.12,
-        "meteo": 1.93,
-        "noaa": 7.48,
-        "sg": 1.93
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.36,
-        "ecmwf:aifs": 21.07,
-        "noaa": 20.17,
-        "sg": 20.36
-      },
-      "cloudCover": {
-        "noaa": 1.07,
-        "sg": 1.07
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 333.7,
-        "sg": 333.7
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.13,
-        "sg": 0.13
-      },
-      "secondarySwellPeriod": {
-        "noaa": 11.18,
-        "sg": 11.18
-      },
-      "swellDirection": {
-        "dwd": 314.47,
-        "meteo": 312.76,
-        "noaa": 317.67,
-        "sg": 312.76
-      },
-      "swellHeight": {
-        "dwd": 0.87,
-        "meteo": 1.24,
-        "noaa": 1.15,
-        "sg": 1.24
-      },
-      "swellPeriod": {
-        "dwd": 7.2,
-        "meteo": 6.05,
-        "noaa": 8.17,
-        "sg": 6.05
-      },
-      "time": "2026-08-29T20:00:00+00:00",
-      "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
-      },
-      "waterTemperature": {
-        "meto": 20.11,
-        "noaa": 19.93,
-        "sg": 20.11
-      },
-      "waveDirection": {
-        "ecmwf": 314.25,
-        "meteo": 313.29,
-        "noaa": 326.08,
-        "sg": 314.25
-      },
-      "waveHeight": {
-        "dwd": 0.9,
-        "ecmwf": 1.16,
-        "meteo": 1.26,
-        "noaa": 1.22,
-        "sg": 1.16
-      },
-      "wavePeriod": {
-        "ecmwf": 5.07,
-        "meteo": 5.46,
-        "noaa": 8.2,
-        "sg": 5.07
-      },
-      "windDirection": {
-        "dwd": 338.93,
-        "ecmwf": 348.9,
-        "ecmwf:aifs": 337.87,
-        "noaa": 346.8,
-        "sg": 348.9
-      },
-      "windSpeed": {
-        "dwd": 4.24,
-        "ecmwf": 5.59,
-        "ecmwf:aifs": 6.26,
-        "noaa": 5.9,
-        "sg": 5.59
-      },
-      "windWaveDirection": {
-        "dwd": 337.97,
-        "meteo": 345.58,
-        "noaa": 330.0,
-        "sg": 345.58
-      },
-      "windWaveHeight": {
-        "dwd": 0.22,
-        "meteo": 0.2,
-        "noaa": 0.97,
-        "sg": 0.2
-      },
-      "windWavePeriod": {
-        "dwd": 1.98,
-        "meteo": 1.93,
-        "noaa": 6.58,
-        "sg": 1.93
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.22,
-        "ecmwf:aifs": 20.99,
-        "noaa": 20.22,
-        "sg": 20.22
-      },
-      "cloudCover": {
-        "noaa": 1.4,
-        "sg": 1.4
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 333.65,
-        "sg": 333.65
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.12,
-        "sg": 0.12
-      },
-      "secondarySwellPeriod": {
-        "noaa": 11.16,
-        "sg": 11.16
-      },
-      "swellDirection": {
-        "dwd": 314.49,
-        "meteo": 312.6,
-        "noaa": 316.65,
-        "sg": 312.6
-      },
-      "swellHeight": {
-        "dwd": 0.86,
-        "meteo": 1.22,
-        "noaa": 1.11,
-        "sg": 1.22
-      },
-      "swellPeriod": {
-        "dwd": 7.02,
-        "meteo": 6.02,
-        "noaa": 8.09,
-        "sg": 6.02
-      },
-      "time": "2026-08-29T21:00:00+00:00",
-      "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
-      },
-      "waterTemperature": {
-        "meto": 20.07,
-        "noaa": 19.96,
-        "sg": 20.07
-      },
-      "waveDirection": {
-        "ecmwf": 313.75,
-        "meteo": 313.23,
-        "noaa": 325.74,
-        "sg": 313.75
-      },
-      "waveHeight": {
-        "dwd": 0.88,
-        "ecmwf": 1.15,
-        "meteo": 1.24,
-        "noaa": 1.21,
-        "sg": 1.15
-      },
-      "wavePeriod": {
-        "ecmwf": 5.02,
-        "meteo": 5.36,
-        "noaa": 8.13,
-        "sg": 5.02
-      },
-      "windDirection": {
-        "dwd": 341.99,
-        "ecmwf": 351.4,
-        "ecmwf:aifs": 338.88,
-        "noaa": 348.59,
-        "sg": 351.4
-      },
-      "windSpeed": {
-        "dwd": 3.84,
-        "ecmwf": 5.42,
-        "ecmwf:aifs": 6.0,
-        "noaa": 5.78,
-        "sg": 5.42
-      },
-      "windWaveDirection": {
-        "dwd": 341.46,
-        "meteo": 348.93,
-        "noaa": 334.28,
-        "sg": 348.93
-      },
-      "windWaveHeight": {
-        "dwd": 0.18,
-        "meteo": 0.2,
-        "noaa": 0.82,
-        "sg": 0.2
-      },
-      "windWavePeriod": {
-        "dwd": 1.85,
-        "meteo": 1.93,
-        "noaa": 5.69,
-        "sg": 1.93
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.23,
-        "ecmwf:aifs": 20.92,
-        "noaa": 20.43,
-        "sg": 20.23
-      },
-      "cloudCover": {
-        "noaa": 14.6,
-        "sg": 14.6
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 334.04,
-        "sg": 334.04
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.13,
-        "sg": 0.13
-      },
-      "secondarySwellPeriod": {
-        "noaa": 10.98,
-        "sg": 10.98
-      },
-      "swellDirection": {
-        "dwd": 313.94,
-        "meteo": 313.23,
-        "noaa": 317.35,
-        "sg": 313.23
-      },
-      "swellHeight": {
-        "dwd": 0.84,
-        "meteo": 1.21,
-        "noaa": 1.13,
-        "sg": 1.21
-      },
-      "swellPeriod": {
-        "dwd": 7.02,
-        "meteo": 6.06,
-        "noaa": 8.06,
-        "sg": 6.06
-      },
-      "time": "2026-08-29T22:00:00+00:00",
-      "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
-      },
-      "waterTemperature": {
-        "meto": 20.05,
-        "noaa": 20.0,
-        "sg": 20.05
-      },
-      "waveDirection": {
-        "ecmwf": 313.46,
-        "meteo": 313.78,
-        "noaa": 325.15,
-        "sg": 313.46
-      },
-      "waveHeight": {
-        "dwd": 0.86,
-        "ecmwf": 1.14,
-        "meteo": 1.23,
-        "noaa": 1.2,
-        "sg": 1.14
-      },
-      "wavePeriod": {
-        "ecmwf": 5.04,
-        "meteo": 5.41,
-        "noaa": 8.09,
-        "sg": 5.04
-      },
-      "windDirection": {
-        "dwd": 340.64,
-        "ecmwf": 350.9,
-        "ecmwf:aifs": 339.88,
-        "noaa": 348.42,
-        "sg": 350.9
-      },
-      "windSpeed": {
-        "dwd": 3.69,
-        "ecmwf": 5.31,
-        "ecmwf:aifs": 5.73,
-        "noaa": 5.83,
-        "sg": 5.31
-      },
-      "windWaveDirection": {
-        "dwd": 340.21,
-        "meteo": 347.89,
-        "noaa": 329.72,
-        "sg": 347.89
-      },
-      "windWaveHeight": {
-        "dwd": 0.16,
-        "meteo": 0.19,
-        "noaa": 0.95,
-        "sg": 0.19
-      },
-      "windWavePeriod": {
-        "dwd": 1.78,
-        "meteo": 1.91,
-        "noaa": 6.47,
-        "sg": 1.91
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.23,
-        "ecmwf:aifs": 20.85,
-        "noaa": 20.64,
-        "sg": 20.23
-      },
-      "cloudCover": {
-        "noaa": 27.8,
-        "sg": 27.8
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 334.44,
-        "sg": 334.44
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.13,
-        "sg": 0.13
-      },
-      "secondarySwellPeriod": {
-        "noaa": 10.8,
-        "sg": 10.8
-      },
-      "swellDirection": {
-        "dwd": 313.39,
-        "meteo": 313.87,
-        "noaa": 318.05,
-        "sg": 313.87
-      },
-      "swellHeight": {
-        "dwd": 0.83,
-        "meteo": 1.19,
-        "noaa": 1.15,
-        "sg": 1.19
-      },
-      "swellPeriod": {
-        "dwd": 7.02,
-        "meteo": 6.11,
-        "noaa": 8.02,
-        "sg": 6.11
-      },
-      "time": "2026-08-29T23:00:00+00:00",
-      "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
-      },
-      "waterTemperature": {
-        "meto": 20.02,
-        "noaa": 20.04,
-        "sg": 20.02
-      },
-      "waveDirection": {
-        "ecmwf": 313.18,
-        "meteo": 314.34,
-        "noaa": 324.56,
-        "sg": 313.18
-      },
-      "waveHeight": {
-        "dwd": 0.84,
-        "ecmwf": 1.13,
-        "meteo": 1.21,
-        "noaa": 1.2,
-        "sg": 1.13
-      },
-      "wavePeriod": {
-        "ecmwf": 5.07,
-        "meteo": 5.45,
-        "noaa": 8.05,
-        "sg": 5.07
-      },
-      "windDirection": {
-        "dwd": 339.29,
-        "ecmwf": 350.4,
-        "ecmwf:aifs": 340.89,
-        "noaa": 348.25,
-        "sg": 350.4
-      },
-      "windSpeed": {
-        "dwd": 3.54,
-        "ecmwf": 5.2,
-        "ecmwf:aifs": 5.47,
-        "noaa": 5.88,
-        "sg": 5.2
-      },
-      "windWaveDirection": {
-        "dwd": 338.97,
-        "meteo": 346.86,
-        "noaa": 325.16,
-        "sg": 346.86
-      },
-      "windWaveHeight": {
-        "dwd": 0.15,
-        "meteo": 0.18,
-        "noaa": 1.08,
-        "sg": 0.18
-      },
-      "windWavePeriod": {
-        "dwd": 1.72,
-        "meteo": 1.9,
-        "noaa": 7.24,
-        "sg": 1.9
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.24,
-        "ecmwf:aifs": 20.78,
-        "noaa": 20.85,
-        "sg": 20.24
-      },
-      "cloudCover": {
-        "noaa": 41.0,
-        "sg": 41.0
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 334.83,
-        "sg": 334.83
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.14,
-        "sg": 0.14
-      },
-      "secondarySwellPeriod": {
-        "noaa": 10.62,
-        "sg": 10.62
-      },
-      "swellDirection": {
-        "dwd": 312.84,
-        "meteo": 314.5,
-        "noaa": 318.75,
-        "sg": 314.5
-      },
-      "swellHeight": {
-        "dwd": 0.81,
-        "meteo": 1.18,
-        "noaa": 1.17,
-        "sg": 1.18
-      },
-      "swellPeriod": {
-        "dwd": 7.02,
-        "meteo": 6.15,
-        "noaa": 7.99,
-        "sg": 6.15
-      },
-      "time": "2026-08-30T00:00:00+00:00",
-      "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
-      },
-      "waterTemperature": {
-        "meto": 19.99,
-        "noaa": 20.08,
-        "sg": 19.99
-      },
-      "waveDirection": {
-        "ecmwf": 312.89,
-        "meteo": 314.89,
-        "noaa": 323.97,
-        "sg": 312.89
-      },
-      "waveHeight": {
-        "dwd": 0.82,
-        "ecmwf": 1.12,
-        "meteo": 1.2,
-        "noaa": 1.19,
-        "sg": 1.12
-      },
-      "wavePeriod": {
-        "ecmwf": 5.1,
-        "meteo": 5.5,
-        "noaa": 8.01,
-        "sg": 5.1
-      },
-      "windDirection": {
-        "dwd": 337.94,
-        "ecmwf": 349.9,
-        "ecmwf:aifs": 341.89,
-        "noaa": 348.08,
-        "sg": 349.9
-      },
-      "windSpeed": {
-        "dwd": 3.39,
-        "ecmwf": 5.09,
-        "ecmwf:aifs": 5.21,
-        "noaa": 5.93,
-        "sg": 5.09
-      },
-      "windWaveDirection": {
-        "dwd": 337.72,
-        "meteo": 345.82,
-        "noaa": 320.6,
-        "sg": 345.82
-      },
-      "windWaveHeight": {
-        "dwd": 0.13,
-        "meteo": 0.17,
-        "noaa": 1.21,
-        "sg": 0.17
-      },
-      "windWavePeriod": {
-        "dwd": 1.65,
-        "meteo": 1.88,
-        "noaa": 8.02,
-        "sg": 1.88
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.19,
-        "ecmwf:aifs": 20.74,
-        "noaa": 20.59,
-        "sg": 20.19
-      },
-      "cloudCover": {
-        "noaa": 36.73,
-        "sg": 36.73
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 334.98,
-        "sg": 334.98
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.15,
-        "sg": 0.15
-      },
-      "secondarySwellPeriod": {
-        "noaa": 10.55,
-        "sg": 10.55
-      },
-      "swellDirection": {
-        "dwd": 312.33,
-        "meteo": 314.54,
-        "noaa": 318.39,
-        "sg": 314.54
-      },
-      "swellHeight": {
-        "dwd": 0.8,
-        "meteo": 1.17,
-        "noaa": 1.17,
-        "sg": 1.17
-      },
-      "swellPeriod": {
-        "dwd": 7.03,
-        "meteo": 6.16,
-        "noaa": 8.03,
-        "sg": 6.16
-      },
-      "time": "2026-08-30T01:00:00+00:00",
-      "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
-      },
-      "waterTemperature": {
-        "meto": 19.97,
-        "noaa": 20.09,
-        "sg": 19.97
-      },
-      "waveDirection": {
-        "ecmwf": 312.76,
-        "meteo": 314.77,
-        "noaa": 322.89,
-        "sg": 312.76
-      },
-      "waveHeight": {
-        "dwd": 0.81,
-        "ecmwf": 1.11,
-        "meteo": 1.19,
-        "noaa": 1.18,
-        "sg": 1.11
-      },
-      "wavePeriod": {
-        "ecmwf": 5.16,
-        "meteo": 5.59,
-        "noaa": 8.04,
-        "sg": 5.16
-      },
-      "windDirection": {
-        "dwd": 337.53,
-        "ecmwf": 347.65,
-        "ecmwf:aifs": 341.39,
-        "noaa": 348.82,
-        "sg": 347.65
-      },
-      "windSpeed": {
-        "dwd": 3.28,
-        "ecmwf": 4.82,
-        "ecmwf:aifs": 5.04,
-        "noaa": 5.51,
-        "sg": 4.82
-      },
-      "windWaveDirection": {
-        "dwd": 331.49,
-        "meteo": 343.41,
-        "noaa": 326.23,
-        "sg": 343.41
-      },
-      "windWaveHeight": {
-        "dwd": 0.12,
-        "meteo": 0.14,
-        "noaa": 0.95,
-        "sg": 0.14
-      },
-      "windWavePeriod": {
-        "dwd": 1.58,
-        "meteo": 1.68,
-        "noaa": 6.4,
-        "sg": 1.68
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.14,
-        "ecmwf:aifs": 20.71,
-        "noaa": 20.32,
-        "sg": 20.14
-      },
-      "cloudCover": {
-        "noaa": 32.47,
-        "sg": 32.47
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 335.14,
-        "sg": 335.14
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.15,
-        "sg": 0.15
-      },
-      "secondarySwellPeriod": {
-        "noaa": 10.47,
-        "sg": 10.47
-      },
-      "swellDirection": {
-        "dwd": 311.81,
-        "meteo": 314.59,
-        "noaa": 318.02,
-        "sg": 314.59
-      },
-      "swellHeight": {
-        "dwd": 0.8,
-        "meteo": 1.17,
-        "noaa": 1.17,
-        "sg": 1.17
-      },
-      "swellPeriod": {
-        "dwd": 7.05,
-        "meteo": 6.16,
-        "noaa": 8.07,
-        "sg": 6.16
-      },
-      "time": "2026-08-30T02:00:00+00:00",
-      "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
-      },
-      "waterTemperature": {
-        "meto": 19.94,
-        "noaa": 20.1,
-        "sg": 19.94
-      },
-      "waveDirection": {
-        "ecmwf": 312.63,
-        "meteo": 314.64,
-        "noaa": 321.81,
-        "sg": 312.63
-      },
-      "waveHeight": {
-        "dwd": 0.8,
-        "ecmwf": 1.09,
-        "meteo": 1.17,
-        "noaa": 1.18,
-        "sg": 1.09
-      },
-      "wavePeriod": {
-        "ecmwf": 5.23,
-        "meteo": 5.68,
-        "noaa": 8.08,
-        "sg": 5.23
-      },
-      "windDirection": {
-        "dwd": 337.12,
-        "ecmwf": 345.4,
-        "ecmwf:aifs": 340.89,
-        "noaa": 349.57,
-        "sg": 345.4
-      },
-      "windSpeed": {
-        "dwd": 3.16,
-        "ecmwf": 4.56,
-        "ecmwf:aifs": 4.88,
-        "noaa": 5.1,
-        "sg": 4.56
-      },
-      "windWaveDirection": {
-        "dwd": 325.27,
-        "meteo": 341.0,
-        "noaa": 331.86,
-        "sg": 341.0
-      },
-      "windWaveHeight": {
-        "dwd": 0.12,
-        "meteo": 0.11,
-        "noaa": 0.68,
-        "sg": 0.11
-      },
-      "windWavePeriod": {
-        "dwd": 1.52,
-        "meteo": 1.49,
-        "noaa": 4.77,
-        "sg": 1.49
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.09,
-        "ecmwf:aifs": 20.68,
-        "noaa": 20.05,
-        "sg": 20.09
-      },
-      "cloudCover": {
-        "noaa": 28.2,
-        "sg": 28.2
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 335.29,
-        "sg": 335.29
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.16,
-        "sg": 0.16
-      },
-      "secondarySwellPeriod": {
-        "noaa": 10.4,
-        "sg": 10.4
-      },
-      "swellDirection": {
-        "dwd": 311.3,
-        "meteo": 314.63,
-        "noaa": 317.66,
-        "sg": 314.63
-      },
-      "swellHeight": {
-        "dwd": 0.79,
-        "meteo": 1.16,
-        "noaa": 1.17,
-        "sg": 1.16
-      },
-      "swellPeriod": {
-        "dwd": 7.06,
-        "meteo": 6.17,
-        "noaa": 8.11,
-        "sg": 6.17
-      },
-      "time": "2026-08-30T03:00:00+00:00",
-      "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
-      },
-      "waterTemperature": {
-        "meto": 19.92,
-        "noaa": 20.12,
-        "sg": 19.92
-      },
-      "waveDirection": {
-        "ecmwf": 312.5,
-        "meteo": 314.52,
-        "noaa": 320.73,
-        "sg": 312.5
-      },
-      "waveHeight": {
-        "dwd": 0.79,
-        "ecmwf": 1.08,
-        "meteo": 1.16,
-        "noaa": 1.17,
-        "sg": 1.08
-      },
-      "wavePeriod": {
-        "ecmwf": 5.3,
-        "meteo": 5.77,
-        "noaa": 8.11,
-        "sg": 5.3
-      },
-      "windDirection": {
-        "dwd": 336.71,
-        "ecmwf": 343.15,
-        "ecmwf:aifs": 340.39,
-        "noaa": 350.31,
-        "sg": 343.15
-      },
-      "windSpeed": {
-        "dwd": 3.05,
-        "ecmwf": 4.29,
-        "ecmwf:aifs": 4.71,
-        "noaa": 4.68,
-        "sg": 4.29
-      },
-      "windWaveDirection": {
-        "dwd": 319.04,
-        "meteo": 338.59,
-        "noaa": 337.49,
-        "sg": 338.59
-      },
-      "windWaveHeight": {
-        "dwd": 0.11,
-        "meteo": 0.08,
-        "noaa": 0.42,
-        "sg": 0.08
-      },
-      "windWavePeriod": {
-        "dwd": 1.45,
-        "meteo": 1.29,
-        "noaa": 3.15,
-        "sg": 1.29
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.07,
-        "ecmwf:aifs": 20.65,
-        "noaa": 20.02,
-        "sg": 20.07
-      },
-      "cloudCover": {
-        "noaa": 27.53,
-        "sg": 27.53
-      },
-      "precipitation": {
-        "ecmwf": 0.0,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.0
-      },
-      "secondarySwellDirection": {
-        "noaa": 315.14,
-        "sg": 315.14
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.12,
-        "sg": 0.12
-      },
-      "secondarySwellPeriod": {
-        "noaa": 11.52,
-        "sg": 11.52
-      },
-      "swellDirection": {
-        "dwd": 310.91,
-        "meteo": 314.64,
-        "noaa": 316.87,
-        "sg": 314.64
-      },
-      "swellHeight": {
-        "dwd": 0.79,
-        "meteo": 1.15,
-        "noaa": 1.16,
-        "sg": 1.15
-      },
-      "swellPeriod": {
-        "dwd": 7.11,
-        "meteo": 6.21,
-        "noaa": 8.14,
-        "sg": 6.21
-      },
-      "time": "2026-08-30T04:00:00+00:00",
-      "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
-      },
-      "waterTemperature": {
-        "meto": 19.9,
-        "noaa": 20.1,
-        "sg": 19.9
-      },
-      "waveDirection": {
-        "ecmwf": 312.59,
-        "meteo": 314.62,
-        "noaa": 319.75,
-        "sg": 312.59
-      },
-      "waveHeight": {
-        "dwd": 0.79,
-        "ecmwf": 1.07,
-        "meteo": 1.15,
-        "noaa": 1.16,
-        "sg": 1.07
-      },
-      "wavePeriod": {
-        "ecmwf": 5.22,
-        "meteo": 5.72,
-        "noaa": 8.14,
-        "sg": 5.22
-      },
-      "windDirection": {
-        "dwd": 337.87,
-        "ecmwf": 341.5,
-        "ecmwf:aifs": 339.89,
-        "noaa": 351.77,
-        "sg": 341.5
-      },
-      "windSpeed": {
-        "dwd": 3.06,
-        "ecmwf": 4.32,
-        "ecmwf:aifs": 4.55,
-        "noaa": 4.52,
-        "sg": 4.32
-      },
-      "windWaveDirection": {
-        "dwd": 321.18,
-        "meteo": 338.65,
-        "noaa": 336.04,
-        "sg": 338.65
-      },
-      "windWaveHeight": {
-        "dwd": 0.11,
-        "meteo": 0.11,
-        "noaa": 0.51,
-        "sg": 0.11
-      },
-      "windWavePeriod": {
-        "dwd": 1.46,
-        "meteo": 1.48,
-        "noaa": 3.6,
-        "sg": 1.48
-      }
-    },
-    {
-      "airTemperature": {
-        "ecmwf": 20.05,
-        "ecmwf:aifs": 20.62,
-        "noaa": 19.99,
-        "sg": 20.05
-      },
-      "cloudCover": {
-        "noaa": 26.87,
-        "sg": 26.87
-      },
-      "precipitation": {
-        "ecmwf": 0.01,
-        "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
-        "sg": 0.01
-      },
-      "secondarySwellDirection": {
-        "noaa": 294.99,
-        "sg": 294.99
-      },
-      "secondarySwellHeight": {
-        "noaa": 0.09,
-        "sg": 0.09
-      },
-      "secondarySwellPeriod": {
-        "noaa": 12.65,
-        "sg": 12.65
-      },
-      "swellDirection": {
-        "dwd": 310.53,
-        "meteo": 314.65,
-        "noaa": 316.07,
-        "sg": 314.65
-      },
-      "swellHeight": {
-        "dwd": 0.78,
-        "meteo": 1.13,
-        "noaa": 1.15,
-        "sg": 1.13
-      },
-      "swellPeriod": {
-        "dwd": 7.15,
-        "meteo": 6.24,
-        "noaa": 8.18,
-        "sg": 6.24
-      },
-      "time": "2026-08-30T05:00:00+00:00",
-      "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
-      },
-      "waterTemperature": {
-        "meto": 19.88,
-        "noaa": 20.09,
-        "sg": 19.88
-      },
-      "waveDirection": {
-        "ecmwf": 312.69,
-        "meteo": 314.71,
-        "noaa": 318.77,
-        "sg": 312.69
-      },
-      "waveHeight": {
-        "dwd": 0.78,
-        "ecmwf": 1.05,
-        "meteo": 1.14,
-        "noaa": 1.15,
-        "sg": 1.05
-      },
-      "wavePeriod": {
-        "ecmwf": 5.15,
-        "meteo": 5.67,
-        "noaa": 8.18,
-        "sg": 5.15
-      },
-      "windDirection": {
-        "dwd": 339.03,
-        "ecmwf": 339.85,
-        "ecmwf:aifs": 339.39,
-        "noaa": 353.22,
-        "sg": 339.85
-      },
-      "windSpeed": {
-        "dwd": 3.07,
-        "ecmwf": 4.36,
-        "ecmwf:aifs": 4.38,
-        "noaa": 4.35,
-        "sg": 4.36
-      },
-      "windWaveDirection": {
-        "dwd": 323.33,
-        "meteo": 338.72,
-        "noaa": 334.58,
-        "sg": 338.72
-      },
-      "windWaveHeight": {
-        "dwd": 0.11,
-        "meteo": 0.13,
-        "noaa": 0.59,
-        "sg": 0.13
-      },
-      "windWavePeriod": {
-        "dwd": 1.47,
-        "meteo": 1.66,
-        "noaa": 4.05,
-        "sg": 1.66
-      }
-    },
     {
       "airTemperature": {
         "ecmwf": 20.03,
         "ecmwf:aifs": 20.59,
-        "noaa": 19.96,
+        "noaa": 20.57,
         "sg": 20.03
       },
       "cloudCover": {
-        "noaa": 26.2,
-        "sg": 26.2
+        "noaa": 81.4,
+        "sg": 81.4
       },
       "precipitation": {
         "ecmwf": 0.01,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.01
       },
       "secondarySwellDirection": {
@@ -1717,14 +82,14 @@
         "dwd": 340.19,
         "ecmwf": 338.2,
         "ecmwf:aifs": 338.89,
-        "noaa": 354.68,
+        "noaa": 340.25,
         "sg": 338.2
       },
       "windSpeed": {
         "dwd": 3.08,
         "ecmwf": 4.39,
         "ecmwf:aifs": 4.22,
-        "noaa": 4.19,
+        "noaa": 3.22,
         "sg": 4.39
       },
       "windWaveDirection": {
@@ -1750,17 +115,17 @@
       "airTemperature": {
         "ecmwf": 20.03,
         "ecmwf:aifs": 20.68,
-        "noaa": 19.91,
+        "noaa": 20.45,
         "sg": 20.03
       },
       "cloudCover": {
-        "noaa": 19.2,
-        "sg": 19.2
+        "noaa": 54.47,
+        "sg": 54.47
       },
       "precipitation": {
         "ecmwf": 0.01,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.01
       },
       "secondarySwellDirection": {
@@ -1826,14 +191,14 @@
         "dwd": 342.73,
         "ecmwf": 341.06,
         "ecmwf:aifs": 338.97,
-        "noaa": 354.97,
+        "noaa": 339.55,
         "sg": 341.06
       },
       "windSpeed": {
         "dwd": 3.36,
         "ecmwf": 4.65,
         "ecmwf:aifs": 4.4,
-        "noaa": 4.69,
+        "noaa": 4.29,
         "sg": 4.65
       },
       "windWaveDirection": {
@@ -1859,17 +224,17 @@
       "airTemperature": {
         "ecmwf": 20.04,
         "ecmwf:aifs": 20.78,
-        "noaa": 19.86,
+        "noaa": 20.33,
         "sg": 20.04
       },
       "cloudCover": {
-        "noaa": 12.2,
-        "sg": 12.2
+        "noaa": 27.53,
+        "sg": 27.53
       },
       "precipitation": {
         "ecmwf": 0.0,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.0
       },
       "secondarySwellDirection": {
@@ -1904,8 +269,8 @@
       },
       "time": "2026-08-30T08:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 19.92,
@@ -1935,14 +300,14 @@
         "dwd": 345.27,
         "ecmwf": 343.91,
         "ecmwf:aifs": 339.05,
-        "noaa": 355.26,
+        "noaa": 338.86,
         "sg": 343.91
       },
       "windSpeed": {
         "dwd": 3.63,
         "ecmwf": 4.92,
         "ecmwf:aifs": 4.59,
-        "noaa": 5.2,
+        "noaa": 5.37,
         "sg": 4.92
       },
       "windWaveDirection": {
@@ -1968,17 +333,17 @@
       "airTemperature": {
         "ecmwf": 20.05,
         "ecmwf:aifs": 20.87,
-        "noaa": 19.8,
+        "noaa": 20.21,
         "sg": 20.05
       },
       "cloudCover": {
-        "noaa": 5.2,
-        "sg": 5.2
+        "noaa": 0.6,
+        "sg": 0.6
       },
       "precipitation": {
         "ecmwf": 0.0,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.0
       },
       "secondarySwellDirection": {
@@ -2044,14 +409,14 @@
         "dwd": 347.81,
         "ecmwf": 346.77,
         "ecmwf:aifs": 339.13,
-        "noaa": 355.55,
+        "noaa": 338.16,
         "sg": 346.77
       },
       "windSpeed": {
         "dwd": 3.91,
         "ecmwf": 5.18,
         "ecmwf:aifs": 4.77,
-        "noaa": 5.7,
+        "noaa": 6.44,
         "sg": 5.18
       },
       "windWaveDirection": {
@@ -2077,17 +442,17 @@
       "airTemperature": {
         "ecmwf": 20.43,
         "ecmwf:aifs": 20.97,
-        "noaa": 19.8,
+        "noaa": 20.11,
         "sg": 20.43
       },
       "cloudCover": {
-        "noaa": 8.1,
-        "sg": 8.1
+        "noaa": 6.27,
+        "sg": 6.27
       },
       "precipitation": {
         "ecmwf": 0.0,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.0
       },
       "secondarySwellDirection": {
@@ -2122,8 +487,8 @@
       },
       "time": "2026-08-30T10:00:00+00:00",
       "visibility": {
-        "noaa": 19.95,
-        "sg": 19.95
+        "noaa": 19.75,
+        "sg": 19.75
       },
       "waterTemperature": {
         "meto": 20.15,
@@ -2153,14 +518,14 @@
         "dwd": 347.7,
         "ecmwf": 347.06,
         "ecmwf:aifs": 339.21,
-        "noaa": 353.8,
+        "noaa": 339.33,
         "sg": 347.06
       },
       "windSpeed": {
         "dwd": 4.18,
         "ecmwf": 5.45,
         "ecmwf:aifs": 4.96,
-        "noaa": 6.12,
+        "noaa": 6.53,
         "sg": 5.45
       },
       "windWaveDirection": {
@@ -2186,17 +551,17 @@
       "airTemperature": {
         "ecmwf": 20.81,
         "ecmwf:aifs": 21.06,
-        "noaa": 19.8,
+        "noaa": 20.01,
         "sg": 20.81
       },
       "cloudCover": {
-        "noaa": 11.0,
-        "sg": 11.0
+        "noaa": 11.93,
+        "sg": 11.93
       },
       "precipitation": {
         "ecmwf": 0.0,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.0
       },
       "secondarySwellDirection": {
@@ -2231,8 +596,8 @@
       },
       "time": "2026-08-30T11:00:00+00:00",
       "visibility": {
-        "noaa": 15.77,
-        "sg": 15.77
+        "noaa": 15.37,
+        "sg": 15.37
       },
       "waterTemperature": {
         "meto": 20.27,
@@ -2262,14 +627,14 @@
         "dwd": 347.59,
         "ecmwf": 347.34,
         "ecmwf:aifs": 339.29,
-        "noaa": 352.06,
+        "noaa": 340.49,
         "sg": 347.34
       },
       "windSpeed": {
         "dwd": 4.45,
         "ecmwf": 5.72,
         "ecmwf:aifs": 5.14,
-        "noaa": 6.54,
+        "noaa": 6.62,
         "sg": 5.72
       },
       "windWaveDirection": {
@@ -2295,17 +660,17 @@
       "airTemperature": {
         "ecmwf": 21.19,
         "ecmwf:aifs": 21.16,
-        "noaa": 19.79,
+        "noaa": 19.91,
         "sg": 21.19
       },
       "cloudCover": {
-        "noaa": 13.9,
-        "sg": 13.9
+        "noaa": 17.6,
+        "sg": 17.6
       },
       "precipitation": {
         "ecmwf": 0.0,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.0
       },
       "secondarySwellDirection": {
@@ -2340,8 +705,8 @@
       },
       "time": "2026-08-30T12:00:00+00:00",
       "visibility": {
-        "noaa": 11.59,
-        "sg": 11.59
+        "noaa": 10.99,
+        "sg": 10.99
       },
       "waterTemperature": {
         "meto": 20.35,
@@ -2371,14 +736,14 @@
         "dwd": 347.48,
         "ecmwf": 347.63,
         "ecmwf:aifs": 339.37,
-        "noaa": 350.31,
+        "noaa": 341.66,
         "sg": 347.63
       },
       "windSpeed": {
         "dwd": 4.72,
         "ecmwf": 5.99,
         "ecmwf:aifs": 5.33,
-        "noaa": 6.96,
+        "noaa": 6.71,
         "sg": 5.99
       },
       "windWaveDirection": {
@@ -2404,12 +769,12 @@
       "airTemperature": {
         "ecmwf": 21.34,
         "ecmwf:aifs": 21.11,
-        "noaa": 19.83,
+        "noaa": 19.92,
         "sg": 21.34
       },
       "cloudCover": {
-        "noaa": 13.53,
-        "sg": 13.53
+        "noaa": 15.7,
+        "sg": 15.7
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -2449,8 +814,8 @@
       },
       "time": "2026-08-30T13:00:00+00:00",
       "visibility": {
-        "noaa": 11.72,
-        "sg": 11.72
+        "noaa": 11.04,
+        "sg": 11.04
       },
       "waterTemperature": {
         "meto": 20.43,
@@ -2480,14 +845,14 @@
         "dwd": 346.59,
         "ecmwf": 347.7,
         "ecmwf:aifs": 341.19,
-        "noaa": 350.2,
+        "noaa": 342.79,
         "sg": 347.7
       },
       "windSpeed": {
         "dwd": 5.28,
         "ecmwf": 6.28,
         "ecmwf:aifs": 5.8,
-        "noaa": 7.31,
+        "noaa": 7.06,
         "sg": 6.28
       },
       "windWaveDirection": {
@@ -2513,12 +878,12 @@
       "airTemperature": {
         "ecmwf": 21.49,
         "ecmwf:aifs": 21.05,
-        "noaa": 19.87,
+        "noaa": 19.92,
         "sg": 21.49
       },
       "cloudCover": {
-        "noaa": 13.17,
-        "sg": 13.17
+        "noaa": 13.8,
+        "sg": 13.8
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -2558,8 +923,8 @@
       },
       "time": "2026-08-30T14:00:00+00:00",
       "visibility": {
-        "noaa": 11.85,
-        "sg": 11.85
+        "noaa": 11.09,
+        "sg": 11.09
       },
       "waterTemperature": {
         "meto": 20.47,
@@ -2589,14 +954,14 @@
         "dwd": 345.71,
         "ecmwf": 347.76,
         "ecmwf:aifs": 343.01,
-        "noaa": 350.08,
+        "noaa": 343.92,
         "sg": 347.76
       },
       "windSpeed": {
         "dwd": 5.83,
         "ecmwf": 6.58,
         "ecmwf:aifs": 6.27,
-        "noaa": 7.66,
+        "noaa": 7.4,
         "sg": 6.58
       },
       "windWaveDirection": {
@@ -2622,12 +987,12 @@
       "airTemperature": {
         "ecmwf": 21.64,
         "ecmwf:aifs": 21.0,
-        "noaa": 19.91,
+        "noaa": 19.93,
         "sg": 21.64
       },
       "cloudCover": {
-        "noaa": 12.8,
-        "sg": 12.8
+        "noaa": 11.9,
+        "sg": 11.9
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -2667,8 +1032,8 @@
       },
       "time": "2026-08-30T15:00:00+00:00",
       "visibility": {
-        "noaa": 11.97,
-        "sg": 11.97
+        "noaa": 11.14,
+        "sg": 11.14
       },
       "waterTemperature": {
         "meto": 20.49,
@@ -2698,14 +1063,14 @@
         "dwd": 344.82,
         "ecmwf": 347.83,
         "ecmwf:aifs": 344.83,
-        "noaa": 349.97,
+        "noaa": 345.05,
         "sg": 347.83
       },
       "windSpeed": {
         "dwd": 6.39,
         "ecmwf": 6.87,
         "ecmwf:aifs": 6.74,
-        "noaa": 8.01,
+        "noaa": 7.75,
         "sg": 6.87
       },
       "windWaveDirection": {
@@ -2731,12 +1096,12 @@
       "airTemperature": {
         "ecmwf": 21.27,
         "ecmwf:aifs": 20.94,
-        "noaa": 19.88,
+        "noaa": 19.9,
         "sg": 21.27
       },
       "cloudCover": {
-        "noaa": 8.53,
-        "sg": 8.53
+        "noaa": 7.93,
+        "sg": 7.93
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -2776,8 +1141,8 @@
       },
       "time": "2026-08-30T16:00:00+00:00",
       "visibility": {
-        "noaa": 16.03,
-        "sg": 16.03
+        "noaa": 15.47,
+        "sg": 15.47
       },
       "waterTemperature": {
         "meto": 20.47,
@@ -2807,14 +1172,14 @@
         "dwd": 346.65,
         "ecmwf": 348.73,
         "ecmwf:aifs": 346.65,
-        "noaa": 352.19,
+        "noaa": 348.86,
         "sg": 348.73
       },
       "windSpeed": {
         "dwd": 6.47,
         "ecmwf": 6.9,
         "ecmwf:aifs": 7.22,
-        "noaa": 8.03,
+        "noaa": 7.81,
         "sg": 6.9
       },
       "windWaveDirection": {
@@ -2840,12 +1205,12 @@
       "airTemperature": {
         "ecmwf": 20.9,
         "ecmwf:aifs": 20.89,
-        "noaa": 19.84,
+        "noaa": 19.88,
         "sg": 20.9
       },
       "cloudCover": {
-        "noaa": 4.27,
-        "sg": 4.27
+        "noaa": 3.97,
+        "sg": 3.97
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -2885,8 +1250,8 @@
       },
       "time": "2026-08-30T17:00:00+00:00",
       "visibility": {
-        "noaa": 20.08,
-        "sg": 20.08
+        "noaa": 19.8,
+        "sg": 19.8
       },
       "waterTemperature": {
         "meto": 20.42,
@@ -2916,14 +1281,14 @@
         "dwd": 348.47,
         "ecmwf": 349.64,
         "ecmwf:aifs": 348.47,
-        "noaa": 354.4,
+        "noaa": 352.66,
         "sg": 349.64
       },
       "windSpeed": {
         "dwd": 6.54,
         "ecmwf": 6.93,
         "ecmwf:aifs": 7.69,
-        "noaa": 8.05,
+        "noaa": 7.88,
         "sg": 6.93
       },
       "windWaveDirection": {
@@ -2949,7 +1314,7 @@
       "airTemperature": {
         "ecmwf": 20.53,
         "ecmwf:aifs": 20.83,
-        "noaa": 19.81,
+        "noaa": 19.86,
         "sg": 20.53
       },
       "cloudCover": {
@@ -3025,14 +1390,14 @@
         "dwd": 350.3,
         "ecmwf": 350.54,
         "ecmwf:aifs": 350.29,
-        "noaa": 356.62,
+        "noaa": 356.47,
         "sg": 350.54
       },
       "windSpeed": {
         "dwd": 6.62,
         "ecmwf": 6.96,
         "ecmwf:aifs": 8.16,
-        "noaa": 8.07,
+        "noaa": 7.94,
         "sg": 6.96
       },
       "windWaveDirection": {
@@ -3058,7 +1423,7 @@
       "airTemperature": {
         "ecmwf": 20.18,
         "ecmwf:aifs": 20.66,
-        "noaa": 19.74,
+        "noaa": 19.79,
         "sg": 20.18
       },
       "cloudCover": {
@@ -3134,14 +1499,14 @@
         "dwd": 352.2,
         "ecmwf": 354.29,
         "ecmwf:aifs": 352.12,
-        "noaa": 358.87,
+        "noaa": 358.7,
         "sg": 354.29
       },
       "windSpeed": {
         "dwd": 6.66,
         "ecmwf": 7.33,
         "ecmwf:aifs": 8.16,
-        "noaa": 8.13,
+        "noaa": 8.19,
         "sg": 7.33
       },
       "windWaveDirection": {
@@ -3167,7 +1532,7 @@
       "airTemperature": {
         "ecmwf": 19.83,
         "ecmwf:aifs": 20.49,
-        "noaa": 19.68,
+        "noaa": 19.72,
         "sg": 19.83
       },
       "cloudCover": {
@@ -3212,8 +1577,8 @@
       },
       "time": "2026-08-30T20:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 20.09,
@@ -3243,14 +1608,14 @@
         "dwd": 354.1,
         "ecmwf": 358.04,
         "ecmwf:aifs": 353.95,
-        "noaa": 1.12,
+        "noaa": 0.93,
         "sg": 358.04
       },
       "windSpeed": {
         "dwd": 6.71,
         "ecmwf": 7.7,
         "ecmwf:aifs": 8.15,
-        "noaa": 8.2,
+        "noaa": 8.44,
         "sg": 7.7
       },
       "windWaveDirection": {
@@ -3276,7 +1641,7 @@
       "airTemperature": {
         "ecmwf": 19.49,
         "ecmwf:aifs": 20.31,
-        "noaa": 19.61,
+        "noaa": 19.65,
         "sg": 19.49
       },
       "cloudCover": {
@@ -3321,8 +1686,8 @@
       },
       "time": "2026-08-30T21:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 19.96,
@@ -3352,14 +1717,14 @@
         "dwd": 356.0,
         "ecmwf": 1.79,
         "ecmwf:aifs": 355.78,
-        "noaa": 3.37,
+        "noaa": 3.16,
         "sg": 1.79
       },
       "windSpeed": {
         "dwd": 6.75,
         "ecmwf": 8.07,
         "ecmwf:aifs": 8.15,
-        "noaa": 8.26,
+        "noaa": 8.69,
         "sg": 8.07
       },
       "windWaveDirection": {
@@ -3385,7 +1750,7 @@
       "airTemperature": {
         "ecmwf": 19.35,
         "ecmwf:aifs": 20.14,
-        "noaa": 19.56,
+        "noaa": 19.57,
         "sg": 19.35
       },
       "cloudCover": {
@@ -3430,8 +1795,8 @@
       },
       "time": "2026-08-30T22:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 19.82,
@@ -3461,14 +1826,14 @@
         "dwd": 356.8,
         "ecmwf": 2.53,
         "ecmwf:aifs": 357.61,
-        "noaa": 3.27,
+        "noaa": 3.38,
         "sg": 2.53
       },
       "windSpeed": {
         "dwd": 6.56,
         "ecmwf": 7.93,
         "ecmwf:aifs": 8.15,
-        "noaa": 8.29,
+        "noaa": 8.67,
         "sg": 7.93
       },
       "windWaveDirection": {
@@ -3494,7 +1859,7 @@
       "airTemperature": {
         "ecmwf": 19.22,
         "ecmwf:aifs": 19.96,
-        "noaa": 19.5,
+        "noaa": 19.48,
         "sg": 19.22
       },
       "cloudCover": {
@@ -3539,8 +1904,8 @@
       },
       "time": "2026-08-30T23:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 19.68,
@@ -3570,14 +1935,14 @@
         "dwd": 357.61,
         "ecmwf": 3.26,
         "ecmwf:aifs": 359.44,
-        "noaa": 3.18,
+        "noaa": 3.61,
         "sg": 3.26
       },
       "windSpeed": {
         "dwd": 6.38,
         "ecmwf": 7.78,
         "ecmwf:aifs": 8.14,
-        "noaa": 8.31,
+        "noaa": 8.65,
         "sg": 7.78
       },
       "windWaveDirection": {
@@ -3603,7 +1968,7 @@
       "airTemperature": {
         "ecmwf": 19.08,
         "ecmwf:aifs": 19.79,
-        "noaa": 19.45,
+        "noaa": 19.39,
         "sg": 19.08
       },
       "cloudCover": {
@@ -3648,8 +2013,8 @@
       },
       "time": "2026-08-31T00:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 19.54,
@@ -3679,14 +2044,14 @@
         "dwd": 358.41,
         "ecmwf": 4.0,
         "ecmwf:aifs": 1.27,
-        "noaa": 3.08,
+        "noaa": 3.83,
         "sg": 4.0
       },
       "windSpeed": {
         "dwd": 6.19,
         "ecmwf": 7.64,
         "ecmwf:aifs": 8.14,
-        "noaa": 8.34,
+        "noaa": 8.63,
         "sg": 7.64
       },
       "windWaveDirection": {
@@ -3712,12 +2077,12 @@
       "airTemperature": {
         "ecmwf": 19.04,
         "ecmwf:aifs": 19.73,
-        "noaa": 19.36,
+        "noaa": 19.35,
         "sg": 19.04
       },
       "cloudCover": {
-        "noaa": 0.27,
-        "sg": 0.27
+        "noaa": 0.03,
+        "sg": 0.03
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -3757,8 +2122,8 @@
       },
       "time": "2026-08-31T01:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 19.41,
@@ -3788,14 +2153,14 @@
         "dwd": 359.34,
         "ecmwf": 3.6,
         "ecmwf:aifs": 1.8,
-        "noaa": 3.61,
+        "noaa": 4.35,
         "sg": 3.6
       },
       "windSpeed": {
         "dwd": 6.33,
         "ecmwf": 7.86,
         "ecmwf:aifs": 8.23,
-        "noaa": 8.5,
+        "noaa": 8.73,
         "sg": 7.86
       },
       "windWaveDirection": {
@@ -3821,12 +2186,12 @@
       "airTemperature": {
         "ecmwf": 19.0,
         "ecmwf:aifs": 19.67,
-        "noaa": 19.26,
+        "noaa": 19.3,
         "sg": 19.0
       },
       "cloudCover": {
-        "noaa": 0.53,
-        "sg": 0.53
+        "noaa": 0.07,
+        "sg": 0.07
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -3866,8 +2231,8 @@
       },
       "time": "2026-08-31T02:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 19.29,
@@ -3897,14 +2262,14 @@
         "dwd": 0.28,
         "ecmwf": 3.19,
         "ecmwf:aifs": 2.34,
-        "noaa": 4.14,
+        "noaa": 4.88,
         "sg": 3.19
       },
       "windSpeed": {
         "dwd": 6.48,
         "ecmwf": 8.09,
         "ecmwf:aifs": 8.32,
-        "noaa": 8.66,
+        "noaa": 8.83,
         "sg": 8.09
       },
       "windWaveDirection": {
@@ -3930,12 +2295,12 @@
       "airTemperature": {
         "ecmwf": 18.96,
         "ecmwf:aifs": 19.61,
-        "noaa": 19.17,
+        "noaa": 19.25,
         "sg": 18.96
       },
       "cloudCover": {
-        "noaa": 0.8,
-        "sg": 0.8
+        "noaa": 0.1,
+        "sg": 0.1
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -3975,8 +2340,8 @@
       },
       "time": "2026-08-31T03:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 19.17,
@@ -4006,14 +2371,14 @@
         "dwd": 1.21,
         "ecmwf": 2.79,
         "ecmwf:aifs": 2.87,
-        "noaa": 4.67,
+        "noaa": 5.4,
         "sg": 2.79
       },
       "windSpeed": {
         "dwd": 6.62,
         "ecmwf": 8.31,
         "ecmwf:aifs": 8.41,
-        "noaa": 8.82,
+        "noaa": 8.93,
         "sg": 8.31
       },
       "windWaveDirection": {
@@ -4039,12 +2404,12 @@
       "airTemperature": {
         "ecmwf": 18.9,
         "ecmwf:aifs": 19.55,
-        "noaa": 19.16,
+        "noaa": 19.22,
         "sg": 18.9
       },
       "cloudCover": {
-        "noaa": 1.03,
-        "sg": 1.03
+        "noaa": 2.83,
+        "sg": 2.83
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -4084,8 +2449,8 @@
       },
       "time": "2026-08-31T04:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 19.08,
@@ -4115,14 +2480,14 @@
         "dwd": 0.84,
         "ecmwf": 2.43,
         "ecmwf:aifs": 3.4,
-        "noaa": 5.47,
+        "noaa": 6.44,
         "sg": 2.43
       },
       "windSpeed": {
         "dwd": 6.66,
         "ecmwf": 8.51,
         "ecmwf:aifs": 8.51,
-        "noaa": 8.71,
+        "noaa": 9.02,
         "sg": 8.51
       },
       "windWaveDirection": {
@@ -4148,12 +2513,12 @@
       "airTemperature": {
         "ecmwf": 18.85,
         "ecmwf:aifs": 19.49,
-        "noaa": 19.15,
+        "noaa": 19.18,
         "sg": 18.85
       },
       "cloudCover": {
-        "noaa": 1.27,
-        "sg": 1.27
+        "noaa": 5.57,
+        "sg": 5.57
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -4193,8 +2558,8 @@
       },
       "time": "2026-08-31T05:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 18.99,
@@ -4224,14 +2589,14 @@
         "dwd": 0.47,
         "ecmwf": 2.06,
         "ecmwf:aifs": 3.94,
-        "noaa": 6.27,
+        "noaa": 7.48,
         "sg": 2.06
       },
       "windSpeed": {
         "dwd": 6.69,
         "ecmwf": 8.7,
         "ecmwf:aifs": 8.6,
-        "noaa": 8.6,
+        "noaa": 9.12,
         "sg": 8.7
       },
       "windWaveDirection": {
@@ -4257,12 +2622,12 @@
       "airTemperature": {
         "ecmwf": 18.79,
         "ecmwf:aifs": 19.43,
-        "noaa": 19.14,
+        "noaa": 19.15,
         "sg": 18.79
       },
       "cloudCover": {
-        "noaa": 1.5,
-        "sg": 1.5
+        "noaa": 8.3,
+        "sg": 8.3
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -4302,8 +2667,8 @@
       },
       "time": "2026-08-31T06:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 18.92,
@@ -4333,14 +2698,14 @@
         "dwd": 0.1,
         "ecmwf": 1.7,
         "ecmwf:aifs": 4.47,
-        "noaa": 7.07,
+        "noaa": 8.52,
         "sg": 1.7
       },
       "windSpeed": {
         "dwd": 6.73,
         "ecmwf": 8.9,
         "ecmwf:aifs": 8.69,
-        "noaa": 8.49,
+        "noaa": 9.21,
         "sg": 8.9
       },
       "windWaveDirection": {
@@ -4366,12 +2731,12 @@
       "airTemperature": {
         "ecmwf": 18.78,
         "ecmwf:aifs": 19.67,
-        "noaa": 19.21,
+        "noaa": 19.17,
         "sg": 18.78
       },
       "cloudCover": {
-        "noaa": 14.0,
-        "sg": 14.0
+        "noaa": 38.87,
+        "sg": 38.87
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -4442,14 +2807,14 @@
         "dwd": 0.26,
         "ecmwf": 0.82,
         "ecmwf:aifs": 2.47,
-        "noaa": 6.08,
+        "noaa": 7.96,
         "sg": 0.82
       },
       "windSpeed": {
         "dwd": 7.01,
         "ecmwf": 8.77,
         "ecmwf:aifs": 8.76,
-        "noaa": 8.55,
+        "noaa": 9.39,
         "sg": 8.77
       },
       "windWaveDirection": {
@@ -4475,12 +2840,12 @@
       "airTemperature": {
         "ecmwf": 18.77,
         "ecmwf:aifs": 19.9,
-        "noaa": 19.28,
+        "noaa": 19.18,
         "sg": 18.77
       },
       "cloudCover": {
-        "noaa": 26.5,
-        "sg": 26.5
+        "noaa": 69.43,
+        "sg": 69.43
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -4551,14 +2916,14 @@
         "dwd": 0.43,
         "ecmwf": 359.94,
         "ecmwf:aifs": 0.46,
-        "noaa": 5.09,
+        "noaa": 7.4,
         "sg": 359.94
       },
       "windSpeed": {
         "dwd": 7.29,
         "ecmwf": 8.64,
         "ecmwf:aifs": 8.83,
-        "noaa": 8.62,
+        "noaa": 9.57,
         "sg": 8.64
       },
       "windWaveDirection": {
@@ -4584,12 +2949,12 @@
       "airTemperature": {
         "ecmwf": 18.76,
         "ecmwf:aifs": 20.14,
-        "noaa": 19.34,
+        "noaa": 19.2,
         "sg": 18.76
       },
       "cloudCover": {
-        "noaa": 39.0,
-        "sg": 39.0
+        "noaa": 100.0,
+        "sg": 100.0
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -4660,14 +3025,14 @@
         "dwd": 0.59,
         "ecmwf": 359.06,
         "ecmwf:aifs": 358.46,
-        "noaa": 4.1,
+        "noaa": 6.84,
         "sg": 359.06
       },
       "windSpeed": {
         "dwd": 7.57,
         "ecmwf": 8.51,
         "ecmwf:aifs": 8.89,
-        "noaa": 8.68,
+        "noaa": 9.75,
         "sg": 8.51
       },
       "windWaveDirection": {
@@ -4693,12 +3058,12 @@
       "airTemperature": {
         "ecmwf": 19.21,
         "ecmwf:aifs": 20.37,
-        "noaa": 19.35,
+        "noaa": 19.31,
         "sg": 19.21
       },
       "cloudCover": {
-        "noaa": 31.77,
-        "sg": 31.77
+        "noaa": 96.43,
+        "sg": 96.43
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -4738,8 +3103,8 @@
       },
       "time": "2026-08-31T10:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 18.79,
@@ -4769,14 +3134,14 @@
         "dwd": 0.1,
         "ecmwf": 357.59,
         "ecmwf:aifs": 356.45,
-        "noaa": 2.32,
+        "noaa": 4.09,
         "sg": 357.59
       },
       "windSpeed": {
         "dwd": 7.81,
         "ecmwf": 8.84,
         "ecmwf:aifs": 8.96,
-        "noaa": 8.83,
+        "noaa": 9.58,
         "sg": 8.84
       },
       "windWaveDirection": {
@@ -4802,12 +3167,12 @@
       "airTemperature": {
         "ecmwf": 19.66,
         "ecmwf:aifs": 20.6,
-        "noaa": 19.37,
+        "noaa": 19.42,
         "sg": 19.66
       },
       "cloudCover": {
-        "noaa": 24.53,
-        "sg": 24.53
+        "noaa": 92.87,
+        "sg": 92.87
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -4847,8 +3212,8 @@
       },
       "time": "2026-08-31T11:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 18.78,
@@ -4878,14 +3243,14 @@
         "dwd": 359.6,
         "ecmwf": 356.11,
         "ecmwf:aifs": 354.45,
-        "noaa": 0.54,
+        "noaa": 1.34,
         "sg": 356.11
       },
       "windSpeed": {
         "dwd": 8.05,
         "ecmwf": 9.17,
         "ecmwf:aifs": 9.03,
-        "noaa": 8.98,
+        "noaa": 9.42,
         "sg": 9.17
       },
       "windWaveDirection": {
@@ -4911,12 +3276,12 @@
       "airTemperature": {
         "ecmwf": 20.1,
         "ecmwf:aifs": 20.84,
-        "noaa": 19.38,
+        "noaa": 19.53,
         "sg": 20.1
       },
       "cloudCover": {
-        "noaa": 17.3,
-        "sg": 17.3
+        "noaa": 89.3,
+        "sg": 89.3
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -4956,8 +3321,8 @@
       },
       "time": "2026-08-31T12:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 18.77,
@@ -4987,14 +3352,14 @@
         "dwd": 359.11,
         "ecmwf": 354.64,
         "ecmwf:aifs": 352.44,
-        "noaa": 358.76,
+        "noaa": 358.59,
         "sg": 354.64
       },
       "windSpeed": {
         "dwd": 8.29,
         "ecmwf": 9.5,
         "ecmwf:aifs": 9.1,
-        "noaa": 9.13,
+        "noaa": 9.25,
         "sg": 9.5
       },
       "windWaveDirection": {
@@ -5020,12 +3385,12 @@
       "airTemperature": {
         "ecmwf": 20.34,
         "ecmwf:aifs": 20.79,
-        "noaa": 19.36,
+        "noaa": 19.55,
         "sg": 20.34
       },
       "cloudCover": {
-        "noaa": 13.0,
-        "sg": 13.0
+        "noaa": 92.1,
+        "sg": 92.1
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -5065,8 +3430,8 @@
       },
       "time": "2026-08-31T13:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 18.75,
@@ -5096,14 +3461,14 @@
         "dwd": 356.8,
         "ecmwf": 353.68,
         "ecmwf:aifs": 352.24,
-        "noaa": 358.7,
+        "noaa": 358.52,
         "sg": 353.68
       },
       "windSpeed": {
         "dwd": 8.22,
         "ecmwf": 9.52,
         "ecmwf:aifs": 9.23,
-        "noaa": 9.24,
+        "noaa": 9.29,
         "sg": 9.52
       },
       "windWaveDirection": {
@@ -5129,12 +3494,12 @@
       "airTemperature": {
         "ecmwf": 20.57,
         "ecmwf:aifs": 20.73,
-        "noaa": 19.34,
+        "noaa": 19.56,
         "sg": 20.57
       },
       "cloudCover": {
-        "noaa": 8.7,
-        "sg": 8.7
+        "noaa": 94.9,
+        "sg": 94.9
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -5205,14 +3570,14 @@
         "dwd": 354.49,
         "ecmwf": 352.73,
         "ecmwf:aifs": 352.04,
-        "noaa": 358.63,
+        "noaa": 358.46,
         "sg": 352.73
       },
       "windSpeed": {
         "dwd": 8.16,
         "ecmwf": 9.53,
         "ecmwf:aifs": 9.37,
-        "noaa": 9.34,
+        "noaa": 9.33,
         "sg": 9.53
       },
       "windWaveDirection": {
@@ -5238,12 +3603,12 @@
       "airTemperature": {
         "ecmwf": 20.81,
         "ecmwf:aifs": 20.68,
-        "noaa": 19.32,
+        "noaa": 19.58,
         "sg": 20.81
       },
       "cloudCover": {
-        "noaa": 4.4,
-        "sg": 4.4
+        "noaa": 97.7,
+        "sg": 97.7
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -5314,14 +3679,14 @@
         "dwd": 352.18,
         "ecmwf": 351.77,
         "ecmwf:aifs": 351.85,
-        "noaa": 358.57,
+        "noaa": 358.39,
         "sg": 351.77
       },
       "windSpeed": {
         "dwd": 8.09,
         "ecmwf": 9.55,
         "ecmwf:aifs": 9.5,
-        "noaa": 9.45,
+        "noaa": 9.37,
         "sg": 9.55
       },
       "windWaveDirection": {
@@ -5347,12 +3712,12 @@
       "airTemperature": {
         "ecmwf": 20.46,
         "ecmwf:aifs": 20.62,
-        "noaa": 19.4,
+        "noaa": 19.55,
         "sg": 20.46
       },
       "cloudCover": {
-        "noaa": 36.27,
-        "sg": 36.27
+        "noaa": 94.9,
+        "sg": 94.9
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -5392,8 +3757,8 @@
       },
       "time": "2026-08-31T16:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 18.6,
@@ -5423,14 +3788,14 @@
         "dwd": 350.49,
         "ecmwf": 351.97,
         "ecmwf:aifs": 351.65,
-        "noaa": 357.6,
+        "noaa": 356.84,
         "sg": 351.97
       },
       "windSpeed": {
         "dwd": 8.26,
         "ecmwf": 9.56,
         "ecmwf:aifs": 9.63,
-        "noaa": 9.5,
+        "noaa": 9.51,
         "sg": 9.56
       },
       "windWaveDirection": {
@@ -5456,12 +3821,12 @@
       "airTemperature": {
         "ecmwf": 20.11,
         "ecmwf:aifs": 20.57,
-        "noaa": 19.48,
+        "noaa": 19.51,
         "sg": 20.11
       },
       "cloudCover": {
-        "noaa": 68.13,
-        "sg": 68.13
+        "noaa": 92.1,
+        "sg": 92.1
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -5501,8 +3866,8 @@
       },
       "time": "2026-08-31T17:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 18.51,
@@ -5532,14 +3897,14 @@
         "dwd": 348.8,
         "ecmwf": 352.17,
         "ecmwf:aifs": 351.45,
-        "noaa": 356.64,
+        "noaa": 355.29,
         "sg": 352.17
       },
       "windSpeed": {
         "dwd": 8.43,
         "ecmwf": 9.57,
         "ecmwf:aifs": 9.77,
-        "noaa": 9.54,
+        "noaa": 9.65,
         "sg": 9.57
       },
       "windWaveDirection": {
@@ -5565,12 +3930,12 @@
       "airTemperature": {
         "ecmwf": 19.76,
         "ecmwf:aifs": 20.51,
-        "noaa": 19.56,
+        "noaa": 19.47,
         "sg": 19.76
       },
       "cloudCover": {
-        "noaa": 100.0,
-        "sg": 100.0
+        "noaa": 89.3,
+        "sg": 89.3
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -5610,8 +3975,8 @@
       },
       "time": "2026-08-31T18:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 18.42,
@@ -5641,14 +4006,14 @@
         "dwd": 347.11,
         "ecmwf": 352.37,
         "ecmwf:aifs": 351.25,
-        "noaa": 355.67,
+        "noaa": 353.74,
         "sg": 352.37
       },
       "windSpeed": {
         "dwd": 8.6,
         "ecmwf": 9.58,
         "ecmwf:aifs": 9.9,
-        "noaa": 9.59,
+        "noaa": 9.79,
         "sg": 9.58
       },
       "windWaveDirection": {
@@ -5674,12 +4039,12 @@
       "airTemperature": {
         "ecmwf": 19.55,
         "ecmwf:aifs": 20.35,
-        "noaa": 19.48,
+        "noaa": 19.45,
         "sg": 19.55
       },
       "cloudCover": {
-        "noaa": 66.87,
-        "sg": 66.87
+        "noaa": 61.2,
+        "sg": 61.2
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -5719,8 +4084,8 @@
       },
       "time": "2026-08-31T19:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 18.33,
@@ -5750,14 +4115,14 @@
         "dwd": 348.87,
         "ecmwf": 351.96,
         "ecmwf:aifs": 351.48,
-        "noaa": 357.16,
+        "noaa": 354.48,
         "sg": 351.96
       },
       "windSpeed": {
         "dwd": 8.49,
         "ecmwf": 9.58,
         "ecmwf:aifs": 9.76,
-        "noaa": 9.73,
+        "noaa": 9.89,
         "sg": 9.58
       },
       "windWaveDirection": {
@@ -5783,12 +4148,12 @@
       "airTemperature": {
         "ecmwf": 19.33,
         "ecmwf:aifs": 20.19,
-        "noaa": 19.4,
+        "noaa": 19.44,
         "sg": 19.33
       },
       "cloudCover": {
-        "noaa": 33.73,
-        "sg": 33.73
+        "noaa": 33.1,
+        "sg": 33.1
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -5828,8 +4193,8 @@
       },
       "time": "2026-08-31T20:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 18.24,
@@ -5859,14 +4224,14 @@
         "dwd": 350.64,
         "ecmwf": 351.54,
         "ecmwf:aifs": 351.71,
-        "noaa": 358.65,
+        "noaa": 355.21,
         "sg": 351.54
       },
       "windSpeed": {
         "dwd": 8.39,
         "ecmwf": 9.59,
         "ecmwf:aifs": 9.62,
-        "noaa": 9.87,
+        "noaa": 9.98,
         "sg": 9.59
       },
       "windWaveDirection": {
@@ -5892,12 +4257,12 @@
       "airTemperature": {
         "ecmwf": 19.12,
         "ecmwf:aifs": 20.03,
-        "noaa": 19.32,
+        "noaa": 19.42,
         "sg": 19.12
       },
       "cloudCover": {
-        "noaa": 0.6,
-        "sg": 0.6
+        "noaa": 5.0,
+        "sg": 5.0
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -5968,14 +4333,14 @@
         "dwd": 352.4,
         "ecmwf": 351.13,
         "ecmwf:aifs": 351.94,
-        "noaa": 0.14,
+        "noaa": 355.95,
         "sg": 351.13
       },
       "windSpeed": {
         "dwd": 8.28,
         "ecmwf": 9.59,
         "ecmwf:aifs": 9.48,
-        "noaa": 10.01,
+        "noaa": 10.08,
         "sg": 9.59
       },
       "windWaveDirection": {
@@ -6001,12 +4366,12 @@
       "airTemperature": {
         "ecmwf": 19.11,
         "ecmwf:aifs": 19.86,
-        "noaa": 19.27,
+        "noaa": 19.4,
         "sg": 19.11
       },
       "cloudCover": {
-        "noaa": 29.4,
-        "sg": 29.4
+        "noaa": 3.33,
+        "sg": 3.33
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -6077,14 +4442,14 @@
         "dwd": 352.02,
         "ecmwf": 350.54,
         "ecmwf:aifs": 352.17,
-        "noaa": 0.05,
+        "noaa": 356.28,
         "sg": 350.54
       },
       "windSpeed": {
         "dwd": 8.07,
         "ecmwf": 9.26,
         "ecmwf:aifs": 9.35,
-        "noaa": 9.98,
+        "noaa": 9.99,
         "sg": 9.26
       },
       "windWaveDirection": {
@@ -6110,12 +4475,12 @@
       "airTemperature": {
         "ecmwf": 19.1,
         "ecmwf:aifs": 19.7,
-        "noaa": 19.21,
+        "noaa": 19.38,
         "sg": 19.1
       },
       "cloudCover": {
-        "noaa": 58.2,
-        "sg": 58.2
+        "noaa": 1.67,
+        "sg": 1.67
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -6155,8 +4520,8 @@
       },
       "time": "2026-08-31T23:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 18.03,
@@ -6186,14 +4551,14 @@
         "dwd": 351.65,
         "ecmwf": 349.94,
         "ecmwf:aifs": 352.4,
-        "noaa": 359.96,
+        "noaa": 356.6,
         "sg": 349.94
       },
       "windSpeed": {
         "dwd": 7.85,
         "ecmwf": 8.94,
         "ecmwf:aifs": 9.21,
-        "noaa": 9.94,
+        "noaa": 9.9,
         "sg": 8.94
       },
       "windWaveDirection": {
@@ -6219,12 +4584,12 @@
       "airTemperature": {
         "ecmwf": 19.09,
         "ecmwf:aifs": 19.54,
-        "noaa": 19.16,
+        "noaa": 19.36,
         "sg": 19.09
       },
       "cloudCover": {
-        "noaa": 87.0,
-        "sg": 87.0
+        "noaa": 0.0,
+        "sg": 0.0
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -6295,14 +4660,14 @@
         "dwd": 351.27,
         "ecmwf": 349.35,
         "ecmwf:aifs": 352.63,
-        "noaa": 359.87,
+        "noaa": 356.93,
         "sg": 349.35
       },
       "windSpeed": {
         "dwd": 7.64,
         "ecmwf": 8.61,
         "ecmwf:aifs": 9.07,
-        "noaa": 9.91,
+        "noaa": 9.81,
         "sg": 8.61
       },
       "windWaveDirection": {
@@ -6328,12 +4693,12 @@
       "airTemperature": {
         "ecmwf": 18.9,
         "ecmwf:aifs": 19.5,
-        "noaa": 19.16,
+        "noaa": 19.39,
         "sg": 18.9
       },
       "cloudCover": {
-        "noaa": 91.33,
-        "sg": 91.33
+        "noaa": 0.03,
+        "sg": 0.03
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -6373,8 +4738,8 @@
       },
       "time": "2026-09-01T01:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 17.9,
@@ -6403,14 +4768,14 @@
         "dwd": 351.15,
         "ecmwf": 350.46,
         "ecmwf:aifs": 352.74,
-        "noaa": 359.88,
+        "noaa": 356.42,
         "sg": 350.46
       },
       "windSpeed": {
         "dwd": 7.35,
         "ecmwf": 8.39,
         "ecmwf:aifs": 9.11,
-        "noaa": 9.55,
+        "noaa": 9.68,
         "sg": 8.39
       },
       "windWaveDirection": {
@@ -6436,12 +4801,12 @@
       "airTemperature": {
         "ecmwf": 18.71,
         "ecmwf:aifs": 19.47,
-        "noaa": 19.16,
+        "noaa": 19.41,
         "sg": 18.71
       },
       "cloudCover": {
-        "noaa": 95.67,
-        "sg": 95.67
+        "noaa": 0.07,
+        "sg": 0.07
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -6481,8 +4846,8 @@
       },
       "time": "2026-09-01T02:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 17.84,
@@ -6511,14 +4876,14 @@
         "dwd": 351.02,
         "ecmwf": 351.57,
         "ecmwf:aifs": 352.84,
-        "noaa": 359.89,
+        "noaa": 355.92,
         "sg": 351.57
       },
       "windSpeed": {
         "dwd": 7.05,
         "ecmwf": 8.17,
         "ecmwf:aifs": 9.14,
-        "noaa": 9.19,
+        "noaa": 9.54,
         "sg": 8.17
       },
       "windWaveDirection": {
@@ -6544,12 +4909,12 @@
       "airTemperature": {
         "ecmwf": 18.52,
         "ecmwf:aifs": 19.43,
-        "noaa": 19.15,
+        "noaa": 19.43,
         "sg": 18.52
       },
       "cloudCover": {
-        "noaa": 100.0,
-        "sg": 100.0
+        "noaa": 0.1,
+        "sg": 0.1
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -6589,8 +4954,8 @@
       },
       "time": "2026-09-01T03:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 17.78,
@@ -6619,14 +4984,14 @@
         "dwd": 350.9,
         "ecmwf": 352.68,
         "ecmwf:aifs": 352.95,
-        "noaa": 359.9,
+        "noaa": 355.41,
         "sg": 352.68
       },
       "windSpeed": {
         "dwd": 6.76,
         "ecmwf": 7.95,
         "ecmwf:aifs": 9.18,
-        "noaa": 8.83,
+        "noaa": 9.41,
         "sg": 7.95
       },
       "windWaveDirection": {
@@ -6652,12 +5017,12 @@
       "airTemperature": {
         "ecmwf": 18.51,
         "ecmwf:aifs": 19.39,
-        "noaa": 19.19,
+        "noaa": 19.46,
         "sg": 18.51
       },
       "cloudCover": {
-        "noaa": 100.0,
-        "sg": 100.0
+        "noaa": 33.4,
+        "sg": 33.4
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -6727,14 +5092,14 @@
         "dwd": 348.75,
         "ecmwf": 352.12,
         "ecmwf:aifs": 353.06,
-        "noaa": 359.37,
+        "noaa": 355.16,
         "sg": 352.12
       },
       "windSpeed": {
         "dwd": 6.71,
         "ecmwf": 8.13,
         "ecmwf:aifs": 9.22,
-        "noaa": 8.81,
+        "noaa": 9.24,
         "sg": 8.13
       },
       "windWaveDirection": {
@@ -6760,12 +5125,12 @@
       "airTemperature": {
         "ecmwf": 18.5,
         "ecmwf:aifs": 19.36,
-        "noaa": 19.23,
+        "noaa": 19.48,
         "sg": 18.5
       },
       "cloudCover": {
-        "noaa": 100.0,
-        "sg": 100.0
+        "noaa": 66.7,
+        "sg": 66.7
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -6835,14 +5200,14 @@
         "dwd": 346.61,
         "ecmwf": 351.57,
         "ecmwf:aifs": 353.16,
-        "noaa": 358.83,
+        "noaa": 354.91,
         "sg": 351.57
       },
       "windSpeed": {
         "dwd": 6.65,
         "ecmwf": 8.3,
         "ecmwf:aifs": 9.25,
-        "noaa": 8.8,
+        "noaa": 9.08,
         "sg": 8.3
       },
       "windWaveDirection": {
@@ -6868,7 +5233,7 @@
       "airTemperature": {
         "ecmwf": 18.49,
         "ecmwf:aifs": 19.32,
-        "noaa": 19.27,
+        "noaa": 19.5,
         "sg": 18.49
       },
       "cloudCover": {
@@ -6943,14 +5308,14 @@
         "dwd": 344.46,
         "ecmwf": 351.01,
         "ecmwf:aifs": 353.27,
-        "noaa": 358.3,
+        "noaa": 354.66,
         "sg": 351.01
       },
       "windSpeed": {
         "dwd": 6.6,
         "ecmwf": 8.48,
         "ecmwf:aifs": 9.29,
-        "noaa": 8.78,
+        "noaa": 8.91,
         "sg": 8.48
       },
       "windWaveDirection": {
@@ -6976,7 +5341,7 @@
       "airTemperature": {
         "ecmwf": 18.61,
         "ecmwf:aifs": 19.53,
-        "noaa": 19.28,
+        "noaa": 19.5,
         "sg": 18.61
       },
       "cloudCover": {
@@ -7051,14 +5416,14 @@
         "dwd": 346.45,
         "ecmwf": 351.74,
         "ecmwf:aifs": 352.19,
-        "noaa": 358.61,
+        "noaa": 354.41,
         "sg": 351.74
       },
       "windSpeed": {
         "dwd": 6.97,
         "ecmwf": 8.9,
         "ecmwf:aifs": 9.24,
-        "noaa": 8.72,
+        "noaa": 8.91,
         "sg": 8.9
       },
       "windWaveDirection": {
@@ -7084,7 +5449,7 @@
       "airTemperature": {
         "ecmwf": 18.72,
         "ecmwf:aifs": 19.73,
-        "noaa": 19.3,
+        "noaa": 19.51,
         "sg": 18.72
       },
       "cloudCover": {
@@ -7129,8 +5494,8 @@
       },
       "time": "2026-09-01T08:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.61,
@@ -7159,14 +5524,14 @@
         "dwd": 348.43,
         "ecmwf": 352.48,
         "ecmwf:aifs": 351.12,
-        "noaa": 358.91,
+        "noaa": 354.17,
         "sg": 352.48
       },
       "windSpeed": {
         "dwd": 7.33,
         "ecmwf": 9.33,
         "ecmwf:aifs": 9.19,
-        "noaa": 8.67,
+        "noaa": 8.92,
         "sg": 9.33
       },
       "windWaveDirection": {
@@ -7192,7 +5557,7 @@
       "airTemperature": {
         "ecmwf": 18.83,
         "ecmwf:aifs": 19.94,
-        "noaa": 19.31,
+        "noaa": 19.51,
         "sg": 18.83
       },
       "cloudCover": {
@@ -7237,8 +5602,8 @@
       },
       "time": "2026-09-01T09:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.61,
@@ -7267,14 +5632,14 @@
         "dwd": 350.42,
         "ecmwf": 353.21,
         "ecmwf:aifs": 350.04,
-        "noaa": 359.22,
+        "noaa": 353.92,
         "sg": 353.21
       },
       "windSpeed": {
         "dwd": 7.7,
         "ecmwf": 9.75,
         "ecmwf:aifs": 9.13,
-        "noaa": 8.61,
+        "noaa": 8.92,
         "sg": 9.75
       },
       "windWaveDirection": {
@@ -7300,12 +5665,12 @@
       "airTemperature": {
         "ecmwf": 19.11,
         "ecmwf:aifs": 20.15,
-        "noaa": 19.32,
+        "noaa": 19.5,
         "sg": 19.11
       },
       "cloudCover": {
-        "noaa": 68.3,
-        "sg": 68.3
+        "noaa": 75.33,
+        "sg": 75.33
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -7345,8 +5710,8 @@
       },
       "time": "2026-09-01T10:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.63,
@@ -7375,14 +5740,14 @@
         "dwd": 351.07,
         "ecmwf": 352.53,
         "ecmwf:aifs": 348.97,
-        "noaa": 357.96,
+        "noaa": 354.17,
         "sg": 352.53
       },
       "windSpeed": {
         "dwd": 7.75,
         "ecmwf": 9.58,
         "ecmwf:aifs": 9.08,
-        "noaa": 8.82,
+        "noaa": 9.03,
         "sg": 9.58
       },
       "windWaveDirection": {
@@ -7408,12 +5773,12 @@
       "airTemperature": {
         "ecmwf": 19.38,
         "ecmwf:aifs": 20.35,
-        "noaa": 19.32,
+        "noaa": 19.5,
         "sg": 19.38
       },
       "cloudCover": {
-        "noaa": 36.6,
-        "sg": 36.6
+        "noaa": 50.67,
+        "sg": 50.67
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -7453,8 +5818,8 @@
       },
       "time": "2026-09-01T11:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.63,
@@ -7483,14 +5848,14 @@
         "dwd": 351.72,
         "ecmwf": 351.84,
         "ecmwf:aifs": 347.9,
-        "noaa": 356.69,
+        "noaa": 354.41,
         "sg": 351.84
       },
       "windSpeed": {
         "dwd": 7.79,
         "ecmwf": 9.4,
         "ecmwf:aifs": 9.03,
-        "noaa": 9.04,
+        "noaa": 9.13,
         "sg": 9.4
       },
       "windWaveDirection": {
@@ -7516,12 +5881,12 @@
       "airTemperature": {
         "ecmwf": 19.66,
         "ecmwf:aifs": 20.56,
-        "noaa": 19.33,
+        "noaa": 19.5,
         "sg": 19.66
       },
       "cloudCover": {
-        "noaa": 4.9,
-        "sg": 4.9
+        "noaa": 26.0,
+        "sg": 26.0
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -7591,14 +5956,14 @@
         "dwd": 352.37,
         "ecmwf": 351.16,
         "ecmwf:aifs": 346.82,
-        "noaa": 355.43,
+        "noaa": 354.66,
         "sg": 351.16
       },
       "windSpeed": {
         "dwd": 7.84,
         "ecmwf": 9.23,
         "ecmwf:aifs": 8.98,
-        "noaa": 9.25,
+        "noaa": 9.24,
         "sg": 9.23
       },
       "windWaveDirection": {
@@ -7624,12 +5989,12 @@
       "airTemperature": {
         "ecmwf": 19.84,
         "ecmwf:aifs": 20.51,
-        "noaa": 19.35,
+        "noaa": 19.54,
         "sg": 19.84
       },
       "cloudCover": {
-        "noaa": 4.93,
-        "sg": 4.93
+        "noaa": 19.47,
+        "sg": 19.47
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -7699,14 +6064,14 @@
         "dwd": 350.17,
         "ecmwf": 350.68,
         "ecmwf:aifs": 347.64,
-        "noaa": 355.5,
+        "noaa": 354.87,
         "sg": 350.68
       },
       "windSpeed": {
         "dwd": 7.98,
         "ecmwf": 9.16,
         "ecmwf:aifs": 9.13,
-        "noaa": 9.37,
+        "noaa": 9.32,
         "sg": 9.16
       },
       "windWaveDirection": {
@@ -7732,12 +6097,12 @@
       "airTemperature": {
         "ecmwf": 20.03,
         "ecmwf:aifs": 20.47,
-        "noaa": 19.37,
+        "noaa": 19.58,
         "sg": 20.03
       },
       "cloudCover": {
-        "noaa": 4.97,
-        "sg": 4.97
+        "noaa": 12.93,
+        "sg": 12.93
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -7807,14 +6172,14 @@
         "dwd": 347.97,
         "ecmwf": 350.21,
         "ecmwf:aifs": 348.46,
-        "noaa": 355.56,
+        "noaa": 355.07,
         "sg": 350.21
       },
       "windSpeed": {
         "dwd": 8.11,
         "ecmwf": 9.1,
         "ecmwf:aifs": 9.29,
-        "noaa": 9.48,
+        "noaa": 9.4,
         "sg": 9.1
       },
       "windWaveDirection": {
@@ -7840,12 +6205,12 @@
       "airTemperature": {
         "ecmwf": 20.21,
         "ecmwf:aifs": 20.43,
-        "noaa": 19.39,
+        "noaa": 19.63,
         "sg": 20.21
       },
       "cloudCover": {
-        "noaa": 5.0,
-        "sg": 5.0
+        "noaa": 6.4,
+        "sg": 6.4
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -7915,14 +6280,14 @@
         "dwd": 345.77,
         "ecmwf": 349.73,
         "ecmwf:aifs": 349.29,
-        "noaa": 355.63,
+        "noaa": 355.28,
         "sg": 349.73
       },
       "windSpeed": {
         "dwd": 8.25,
         "ecmwf": 9.03,
         "ecmwf:aifs": 9.44,
-        "noaa": 9.6,
+        "noaa": 9.48,
         "sg": 9.03
       },
       "windWaveDirection": {
@@ -7948,12 +6313,12 @@
       "airTemperature": {
         "ecmwf": 19.91,
         "ecmwf:aifs": 20.39,
-        "noaa": 19.42,
+        "noaa": 19.64,
         "sg": 19.91
       },
       "cloudCover": {
-        "noaa": 3.33,
-        "sg": 3.33
+        "noaa": 27.17,
+        "sg": 27.17
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -7993,8 +6358,8 @@
       },
       "time": "2026-09-01T16:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.55,
@@ -8023,14 +6388,14 @@
         "dwd": 346.96,
         "ecmwf": 350.14,
         "ecmwf:aifs": 350.11,
-        "noaa": 356.08,
+        "noaa": 354.67,
         "sg": 350.14
       },
       "windSpeed": {
         "dwd": 8.26,
         "ecmwf": 9.26,
         "ecmwf:aifs": 9.6,
-        "noaa": 9.63,
+        "noaa": 9.53,
         "sg": 9.26
       },
       "windWaveDirection": {
@@ -8056,12 +6421,12 @@
       "airTemperature": {
         "ecmwf": 19.61,
         "ecmwf:aifs": 20.35,
-        "noaa": 19.45,
+        "noaa": 19.65,
         "sg": 19.61
       },
       "cloudCover": {
-        "noaa": 1.67,
-        "sg": 1.67
+        "noaa": 47.93,
+        "sg": 47.93
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -8101,8 +6466,8 @@
       },
       "time": "2026-09-01T17:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.51,
@@ -8131,14 +6496,14 @@
         "dwd": 348.16,
         "ecmwf": 350.56,
         "ecmwf:aifs": 350.93,
-        "noaa": 356.53,
+        "noaa": 354.05,
         "sg": 350.56
       },
       "windSpeed": {
         "dwd": 8.27,
         "ecmwf": 9.48,
         "ecmwf:aifs": 9.75,
-        "noaa": 9.66,
+        "noaa": 9.58,
         "sg": 9.48
       },
       "windWaveDirection": {
@@ -8164,12 +6529,12 @@
       "airTemperature": {
         "ecmwf": 19.31,
         "ecmwf:aifs": 20.3,
-        "noaa": 19.47,
+        "noaa": 19.66,
         "sg": 19.31
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 68.7,
+        "sg": 68.7
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -8209,8 +6574,8 @@
       },
       "time": "2026-09-01T18:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.45,
@@ -8239,14 +6604,14 @@
         "dwd": 349.35,
         "ecmwf": 350.97,
         "ecmwf:aifs": 351.75,
-        "noaa": 356.98,
+        "noaa": 353.44,
         "sg": 350.97
       },
       "windSpeed": {
         "dwd": 8.28,
         "ecmwf": 9.71,
         "ecmwf:aifs": 9.91,
-        "noaa": 9.69,
+        "noaa": 9.63,
         "sg": 9.71
       },
       "windWaveDirection": {
@@ -8272,12 +6637,12 @@
       "airTemperature": {
         "ecmwf": 19.09,
         "ecmwf:aifs": 20.2,
-        "noaa": 19.49,
+        "noaa": 19.68,
         "sg": 19.09
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 48.03,
+        "sg": 48.03
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -8317,8 +6682,8 @@
       },
       "time": "2026-09-01T19:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.37,
@@ -8347,14 +6712,14 @@
         "dwd": 351.3,
         "ecmwf": 353.18,
         "ecmwf:aifs": 352.4,
-        "noaa": 357.47,
+        "noaa": 354.63,
         "sg": 353.18
       },
       "windSpeed": {
         "dwd": 8.47,
         "ecmwf": 9.55,
         "ecmwf:aifs": 9.71,
-        "noaa": 9.83,
+        "noaa": 9.59,
         "sg": 9.55
       },
       "windWaveDirection": {
@@ -8380,12 +6745,12 @@
       "airTemperature": {
         "ecmwf": 18.88,
         "ecmwf:aifs": 20.09,
-        "noaa": 19.5,
+        "noaa": 19.7,
         "sg": 18.88
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 27.37,
+        "sg": 27.37
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -8425,8 +6790,8 @@
       },
       "time": "2026-09-01T20:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.3,
@@ -8455,14 +6820,14 @@
         "dwd": 353.26,
         "ecmwf": 355.4,
         "ecmwf:aifs": 353.05,
-        "noaa": 357.96,
+        "noaa": 355.83,
         "sg": 355.4
       },
       "windSpeed": {
         "dwd": 8.66,
         "ecmwf": 9.39,
         "ecmwf:aifs": 9.51,
-        "noaa": 9.97,
+        "noaa": 9.54,
         "sg": 9.39
       },
       "windWaveDirection": {
@@ -8488,12 +6853,12 @@
       "airTemperature": {
         "ecmwf": 18.66,
         "ecmwf:aifs": 19.98,
-        "noaa": 19.51,
+        "noaa": 19.72,
         "sg": 18.66
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 6.7,
+        "sg": 6.7
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -8533,8 +6898,8 @@
       },
       "time": "2026-09-01T21:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.23,
@@ -8563,14 +6928,14 @@
         "dwd": 355.21,
         "ecmwf": 357.61,
         "ecmwf:aifs": 353.7,
-        "noaa": 358.45,
+        "noaa": 357.02,
         "sg": 357.61
       },
       "windSpeed": {
         "dwd": 8.85,
         "ecmwf": 9.23,
         "ecmwf:aifs": 9.31,
-        "noaa": 10.11,
+        "noaa": 9.5,
         "sg": 9.23
       },
       "windWaveDirection": {
@@ -8596,12 +6961,12 @@
       "airTemperature": {
         "ecmwf": 18.58,
         "ecmwf:aifs": 19.87,
-        "noaa": 19.48,
+        "noaa": 19.68,
         "sg": 18.58
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 4.47,
+        "sg": 4.47
       },
       "precipitation": {
         "ecmwf": -0.0,
@@ -8610,21 +6975,21 @@
         "sg": -0.0
       },
       "secondarySwellDirection": {
-        "noaa": 219.87,
-        "sg": 219.87
+        "noaa": 219.63,
+        "sg": 219.63
       },
       "secondarySwellHeight": {
         "noaa": 0.06,
         "sg": 0.06
       },
       "secondarySwellPeriod": {
-        "noaa": 11.7,
-        "sg": 11.7
+        "noaa": 11.67,
+        "sg": 11.67
       },
       "swellDirection": {
         "dwd": 295.89,
         "meteo": 318.26,
-        "noaa": 214.02,
+        "noaa": 213.66,
         "sg": 318.26
       },
       "swellHeight": {
@@ -8636,13 +7001,13 @@
       "swellPeriod": {
         "dwd": 9.44,
         "meteo": 6.34,
-        "noaa": 14.51,
+        "noaa": 14.49,
         "sg": 6.34
       },
       "time": "2026-09-01T22:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.16,
@@ -8651,7 +7016,7 @@
       "waveDirection": {
         "ecmwf": 330.0,
         "meteo": 331.71,
-        "noaa": 316.49,
+        "noaa": 316.45,
         "sg": 330.0
       },
       "waveHeight": {
@@ -8664,27 +7029,27 @@
       "wavePeriod": {
         "ecmwf": 4.55,
         "meteo": 4.75,
-        "noaa": 8.76,
+        "noaa": 8.77,
         "sg": 4.55
       },
       "windDirection": {
         "dwd": 355.86,
         "ecmwf": 356.48,
         "ecmwf:aifs": 354.34,
-        "noaa": 358.78,
+        "noaa": 357.4,
         "sg": 356.48
       },
       "windSpeed": {
         "dwd": 8.57,
         "ecmwf": 9.03,
         "ecmwf:aifs": 9.11,
-        "noaa": 9.96,
+        "noaa": 9.23,
         "sg": 9.03
       },
       "windWaveDirection": {
         "dwd": 349.2,
         "meteo": 353.51,
-        "noaa": 333.0,
+        "noaa": 331.96,
         "sg": 353.51
       },
       "windWaveHeight": {
@@ -8696,7 +7061,7 @@
       "windWavePeriod": {
         "dwd": 4.1,
         "meteo": 3.78,
-        "noaa": 8.76,
+        "noaa": 8.77,
         "sg": 3.78
       }
     },
@@ -8704,12 +7069,12 @@
       "airTemperature": {
         "ecmwf": 18.5,
         "ecmwf:aifs": 19.76,
-        "noaa": 19.45,
+        "noaa": 19.64,
         "sg": 18.5
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 2.23,
+        "sg": 2.23
       },
       "precipitation": {
         "ecmwf": -0.0,
@@ -8718,21 +7083,21 @@
         "sg": -0.0
       },
       "secondarySwellDirection": {
-        "noaa": 216.54,
-        "sg": 216.54
+        "noaa": 216.07,
+        "sg": 216.07
       },
       "secondarySwellHeight": {
         "noaa": 0.07,
         "sg": 0.07
       },
       "secondarySwellPeriod": {
-        "noaa": 14.25,
-        "sg": 14.25
+        "noaa": 14.19,
+        "sg": 14.19
       },
       "swellDirection": {
         "dwd": 298.51,
         "meteo": 319.12,
-        "noaa": 214.1,
+        "noaa": 213.38,
         "sg": 319.12
       },
       "swellHeight": {
@@ -8744,13 +7109,13 @@
       "swellPeriod": {
         "dwd": 9.24,
         "meteo": 6.28,
-        "noaa": 14.45,
+        "noaa": 14.41,
         "sg": 6.28
       },
       "time": "2026-09-01T23:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 17.1,
@@ -8759,7 +7124,7 @@
       "waveDirection": {
         "ecmwf": 329.59,
         "meteo": 331.39,
-        "noaa": 316.29,
+        "noaa": 316.22,
         "sg": 329.59
       },
       "waveHeight": {
@@ -8772,27 +7137,27 @@
       "wavePeriod": {
         "ecmwf": 4.56,
         "meteo": 4.77,
-        "noaa": 8.7,
+        "noaa": 8.73,
         "sg": 4.56
       },
       "windDirection": {
         "dwd": 356.5,
         "ecmwf": 355.34,
         "ecmwf:aifs": 354.99,
-        "noaa": 359.1,
+        "noaa": 357.78,
         "sg": 355.34
       },
       "windSpeed": {
         "dwd": 8.3,
         "ecmwf": 8.84,
         "ecmwf:aifs": 8.91,
-        "noaa": 9.82,
+        "noaa": 8.96,
         "sg": 8.84
       },
       "windWaveDirection": {
         "dwd": 350.77,
         "meteo": 353.01,
-        "noaa": 333.08,
+        "noaa": 330.99,
         "sg": 353.01
       },
       "windWaveHeight": {
@@ -8804,7 +7169,7 @@
       "windWavePeriod": {
         "dwd": 4.04,
         "meteo": 3.7,
-        "noaa": 8.7,
+        "noaa": 8.73,
         "sg": 3.7
       }
     },
@@ -8812,7 +7177,7 @@
       "airTemperature": {
         "ecmwf": 18.42,
         "ecmwf:aifs": 19.65,
-        "noaa": 19.42,
+        "noaa": 19.61,
         "sg": 18.42
       },
       "cloudCover": {
@@ -8826,21 +7191,21 @@
         "sg": -0.0
       },
       "secondarySwellDirection": {
-        "noaa": 213.21,
-        "sg": 213.21
+        "noaa": 212.5,
+        "sg": 212.5
       },
       "secondarySwellHeight": {
         "noaa": 0.07,
         "sg": 0.07
       },
       "secondarySwellPeriod": {
-        "noaa": 16.81,
-        "sg": 16.81
+        "noaa": 16.72,
+        "sg": 16.72
       },
       "swellDirection": {
         "dwd": 301.13,
         "meteo": 319.98,
-        "noaa": 214.18,
+        "noaa": 213.1,
         "sg": 319.98
       },
       "swellHeight": {
@@ -8852,13 +7217,13 @@
       "swellPeriod": {
         "dwd": 9.05,
         "meteo": 6.23,
-        "noaa": 14.38,
+        "noaa": 14.32,
         "sg": 6.23
       },
       "time": "2026-09-02T00:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 17.05,
@@ -8867,7 +7232,7 @@
       "waveDirection": {
         "ecmwf": 329.19,
         "meteo": 331.08,
-        "noaa": 316.1,
+        "noaa": 315.99,
         "sg": 329.19
       },
       "waveHeight": {
@@ -8880,27 +7245,27 @@
       "wavePeriod": {
         "ecmwf": 4.57,
         "meteo": 4.78,
-        "noaa": 8.65,
+        "noaa": 8.69,
         "sg": 4.57
       },
       "windDirection": {
         "dwd": 357.15,
         "ecmwf": 354.21,
         "ecmwf:aifs": 355.64,
-        "noaa": 359.43,
+        "noaa": 358.16,
         "sg": 354.21
       },
       "windSpeed": {
         "dwd": 8.02,
         "ecmwf": 8.64,
         "ecmwf:aifs": 8.71,
-        "noaa": 9.67,
+        "noaa": 8.69,
         "sg": 8.64
       },
       "windWaveDirection": {
         "dwd": 352.35,
         "meteo": 352.52,
-        "noaa": 333.15,
+        "noaa": 330.02,
         "sg": 352.52
       },
       "windWaveHeight": {
@@ -8912,7 +7277,7 @@
       "windWavePeriod": {
         "dwd": 3.98,
         "meteo": 3.62,
-        "noaa": 8.65,
+        "noaa": 8.69,
         "sg": 3.62
       }
     },
@@ -8920,12 +7285,12 @@
       "airTemperature": {
         "ecmwf": 18.38,
         "ecmwf:aifs": 19.63,
-        "noaa": 19.45,
+        "noaa": 19.58,
         "sg": 18.38
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 3.27,
+        "sg": 3.27
       },
       "precipitation": {
         "ecmwf": -0.0,
@@ -8934,21 +7299,21 @@
         "sg": -0.0
       },
       "secondarySwellDirection": {
-        "noaa": 213.42,
-        "sg": 213.42
+        "noaa": 212.95,
+        "sg": 212.95
       },
       "secondarySwellHeight": {
         "noaa": 0.07,
         "sg": 0.07
       },
       "secondarySwellPeriod": {
-        "noaa": 16.78,
-        "sg": 16.78
+        "noaa": 16.72,
+        "sg": 16.72
       },
       "swellDirection": {
         "dwd": 301.69,
         "meteo": 320.06,
-        "noaa": 214.1,
+        "noaa": 213.38,
         "sg": 320.06
       },
       "swellHeight": {
@@ -8960,13 +7325,13 @@
       "swellPeriod": {
         "dwd": 9.02,
         "meteo": 6.19,
-        "noaa": 14.3,
+        "noaa": 14.26,
         "sg": 6.19
       },
       "time": "2026-09-02T01:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 17.01,
@@ -8975,7 +7340,7 @@
       "waveDirection": {
         "ecmwf": 329.28,
         "meteo": 331.11,
-        "noaa": 316.79,
+        "noaa": 316.72,
         "sg": 329.28
       },
       "waveHeight": {
@@ -8988,27 +7353,27 @@
       "wavePeriod": {
         "ecmwf": 4.55,
         "meteo": 4.75,
-        "noaa": 8.57,
+        "noaa": 8.6,
         "sg": 4.55
       },
       "windDirection": {
         "dwd": 357.07,
         "ecmwf": 354.63,
         "ecmwf:aifs": 356.36,
-        "noaa": 358.79,
+        "noaa": 358.89,
         "sg": 354.63
       },
       "windSpeed": {
         "dwd": 7.93,
         "ecmwf": 8.56,
         "ecmwf:aifs": 8.67,
-        "noaa": 9.48,
+        "noaa": 8.35,
         "sg": 8.56
       },
       "windWaveDirection": {
         "dwd": 352.32,
         "meteo": 352.68,
-        "noaa": 332.82,
+        "noaa": 330.73,
         "sg": 352.68
       },
       "windWaveHeight": {
@@ -9020,7 +7385,7 @@
       "windWavePeriod": {
         "dwd": 3.98,
         "meteo": 3.63,
-        "noaa": 8.57,
+        "noaa": 8.6,
         "sg": 3.63
       }
     },
@@ -9028,12 +7393,12 @@
       "airTemperature": {
         "ecmwf": 18.35,
         "ecmwf:aifs": 19.61,
-        "noaa": 19.48,
+        "noaa": 19.55,
         "sg": 18.35
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 6.53,
+        "sg": 6.53
       },
       "precipitation": {
         "ecmwf": -0.0,
@@ -9042,21 +7407,21 @@
         "sg": -0.0
       },
       "secondarySwellDirection": {
-        "noaa": 213.63,
-        "sg": 213.63
+        "noaa": 213.39,
+        "sg": 213.39
       },
       "secondarySwellHeight": {
         "noaa": 0.07,
         "sg": 0.07
       },
       "secondarySwellPeriod": {
-        "noaa": 16.74,
-        "sg": 16.74
+        "noaa": 16.71,
+        "sg": 16.71
       },
       "swellDirection": {
         "dwd": 302.25,
         "meteo": 320.15,
-        "noaa": 214.02,
+        "noaa": 213.66,
         "sg": 320.15
       },
       "swellHeight": {
@@ -9068,13 +7433,13 @@
       "swellPeriod": {
         "dwd": 8.99,
         "meteo": 6.16,
-        "noaa": 14.21,
+        "noaa": 14.19,
         "sg": 6.16
       },
       "time": "2026-09-02T02:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 16.97,
@@ -9083,7 +7448,7 @@
       "waveDirection": {
         "ecmwf": 329.36,
         "meteo": 331.14,
-        "noaa": 317.48,
+        "noaa": 317.44,
         "sg": 329.36
       },
       "waveHeight": {
@@ -9096,27 +7461,27 @@
       "wavePeriod": {
         "ecmwf": 4.53,
         "meteo": 4.73,
-        "noaa": 8.5,
+        "noaa": 8.51,
         "sg": 4.53
       },
       "windDirection": {
         "dwd": 356.99,
         "ecmwf": 355.06,
         "ecmwf:aifs": 357.09,
-        "noaa": 358.15,
+        "noaa": 359.63,
         "sg": 355.06
       },
       "windSpeed": {
         "dwd": 7.84,
         "ecmwf": 8.49,
         "ecmwf:aifs": 8.63,
-        "noaa": 9.3,
+        "noaa": 8.02,
         "sg": 8.49
       },
       "windWaveDirection": {
         "dwd": 352.28,
         "meteo": 352.85,
-        "noaa": 332.48,
+        "noaa": 331.44,
         "sg": 352.85
       },
       "windWaveHeight": {
@@ -9128,7 +7493,7 @@
       "windWavePeriod": {
         "dwd": 3.97,
         "meteo": 3.63,
-        "noaa": 8.5,
+        "noaa": 8.51,
         "sg": 3.63
       }
     },
@@ -9136,12 +7501,12 @@
       "airTemperature": {
         "ecmwf": 18.31,
         "ecmwf:aifs": 19.58,
-        "noaa": 19.51,
+        "noaa": 19.52,
         "sg": 18.31
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 9.8,
+        "sg": 9.8
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -9181,8 +7546,8 @@
       },
       "time": "2026-09-02T03:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 16.94,
@@ -9211,14 +7576,14 @@
         "dwd": 356.91,
         "ecmwf": 355.48,
         "ecmwf:aifs": 357.81,
-        "noaa": 357.51,
+        "noaa": 0.36,
         "sg": 355.48
       },
       "windSpeed": {
         "dwd": 7.75,
         "ecmwf": 8.41,
         "ecmwf:aifs": 8.59,
-        "noaa": 9.11,
+        "noaa": 7.68,
         "sg": 8.41
       },
       "windWaveDirection": {
@@ -9244,12 +7609,12 @@
       "airTemperature": {
         "ecmwf": 18.24,
         "ecmwf:aifs": 19.56,
-        "noaa": 19.49,
+        "noaa": 19.5,
         "sg": 18.24
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 12.8,
+        "sg": 12.8
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -9319,14 +7684,14 @@
         "dwd": 357.4,
         "ecmwf": 357.34,
         "ecmwf:aifs": 358.53,
-        "noaa": 358.54,
+        "noaa": 1.18,
         "sg": 357.34
       },
       "windSpeed": {
         "dwd": 7.59,
         "ecmwf": 8.37,
         "ecmwf:aifs": 8.55,
-        "noaa": 9.21,
+        "noaa": 7.26,
         "sg": 8.37
       },
       "windWaveDirection": {
@@ -9356,8 +7721,8 @@
         "sg": 18.16
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 15.8,
+        "sg": 15.8
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -9427,14 +7792,14 @@
         "dwd": 357.88,
         "ecmwf": 359.19,
         "ecmwf:aifs": 359.26,
-        "noaa": 359.58,
+        "noaa": 1.99,
         "sg": 359.19
       },
       "windSpeed": {
         "dwd": 7.44,
         "ecmwf": 8.32,
         "ecmwf:aifs": 8.51,
-        "noaa": 9.31,
+        "noaa": 6.83,
         "sg": 8.32
       },
       "windWaveDirection": {
@@ -9464,8 +7829,8 @@
         "sg": 18.09
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 18.8,
+        "sg": 18.8
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -9505,8 +7870,8 @@
       },
       "time": "2026-09-02T06:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 16.89,
@@ -9535,14 +7900,14 @@
         "dwd": 358.37,
         "ecmwf": 1.05,
         "ecmwf:aifs": 359.98,
-        "noaa": 0.61,
+        "noaa": 2.81,
         "sg": 1.05
       },
       "windSpeed": {
         "dwd": 7.28,
         "ecmwf": 8.28,
         "ecmwf:aifs": 8.47,
-        "noaa": 9.41,
+        "noaa": 6.41,
         "sg": 8.28
       },
       "windWaveDirection": {
@@ -9568,12 +7933,12 @@
       "airTemperature": {
         "ecmwf": 18.06,
         "ecmwf:aifs": 19.77,
-        "noaa": 19.37,
+        "noaa": 19.52,
         "sg": 18.06
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 29.3,
+        "sg": 29.3
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -9643,14 +8008,14 @@
         "dwd": 359.18,
         "ecmwf": 1.1,
         "ecmwf:aifs": 358.63,
-        "noaa": 1.01,
+        "noaa": 3.79,
         "sg": 1.1
       },
       "windSpeed": {
         "dwd": 7.42,
         "ecmwf": 8.23,
         "ecmwf:aifs": 8.28,
-        "noaa": 9.41,
+        "noaa": 6.37,
         "sg": 8.23
       },
       "windWaveDirection": {
@@ -9676,12 +8041,12 @@
       "airTemperature": {
         "ecmwf": 18.04,
         "ecmwf:aifs": 20.03,
-        "noaa": 19.29,
+        "noaa": 19.58,
         "sg": 18.04
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 39.8,
+        "sg": 39.8
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -9751,14 +8116,14 @@
         "dwd": 359.98,
         "ecmwf": 1.14,
         "ecmwf:aifs": 357.27,
-        "noaa": 1.42,
+        "noaa": 4.78,
         "sg": 1.14
       },
       "windSpeed": {
         "dwd": 7.55,
         "ecmwf": 8.19,
         "ecmwf:aifs": 8.08,
-        "noaa": 9.41,
+        "noaa": 6.32,
         "sg": 8.19
       },
       "windWaveDirection": {
@@ -9784,12 +8149,12 @@
       "airTemperature": {
         "ecmwf": 18.01,
         "ecmwf:aifs": 20.29,
-        "noaa": 19.21,
+        "noaa": 19.65,
         "sg": 18.01
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 50.3,
+        "sg": 50.3
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -9859,14 +8224,14 @@
         "dwd": 0.79,
         "ecmwf": 1.19,
         "ecmwf:aifs": 355.92,
-        "noaa": 1.82,
+        "noaa": 5.76,
         "sg": 1.19
       },
       "windSpeed": {
         "dwd": 7.69,
         "ecmwf": 8.14,
         "ecmwf:aifs": 7.89,
-        "noaa": 9.41,
+        "noaa": 6.28,
         "sg": 8.14
       },
       "windWaveDirection": {
@@ -9892,12 +8257,12 @@
       "airTemperature": {
         "ecmwf": 18.45,
         "ecmwf:aifs": 20.55,
-        "noaa": 19.21,
+        "noaa": 19.5,
         "sg": 18.45
       },
       "cloudCover": {
-        "noaa": 1.97,
-        "sg": 1.97
+        "noaa": 44.17,
+        "sg": 44.17
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -9937,8 +8302,8 @@
       },
       "time": "2026-09-02T10:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 16.74,
+        "sg": 16.74
       },
       "waterTemperature": {
         "meto": 16.96,
@@ -9967,14 +8332,14 @@
         "dwd": 0.44,
         "ecmwf": 358.02,
         "ecmwf:aifs": 354.56,
-        "noaa": 0.44,
+        "noaa": 356.8,
         "sg": 358.02
       },
       "windSpeed": {
         "dwd": 7.66,
         "ecmwf": 8.01,
         "ecmwf:aifs": 7.7,
-        "noaa": 9.29,
+        "noaa": 5.96,
         "sg": 8.01
       },
       "windWaveDirection": {
@@ -10000,12 +8365,12 @@
       "airTemperature": {
         "ecmwf": 18.9,
         "ecmwf:aifs": 20.81,
-        "noaa": 19.21,
+        "noaa": 19.36,
         "sg": 18.9
       },
       "cloudCover": {
-        "noaa": 3.93,
-        "sg": 3.93
+        "noaa": 38.03,
+        "sg": 38.03
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -10045,8 +8410,8 @@
       },
       "time": "2026-09-02T11:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 9.34,
+        "sg": 9.34
       },
       "waterTemperature": {
         "meto": 17.0,
@@ -10075,14 +8440,14 @@
         "dwd": 0.09,
         "ecmwf": 354.85,
         "ecmwf:aifs": 353.21,
-        "noaa": 359.05,
+        "noaa": 347.84,
         "sg": 354.85
       },
       "windSpeed": {
         "dwd": 7.62,
         "ecmwf": 7.89,
         "ecmwf:aifs": 7.5,
-        "noaa": 9.17,
+        "noaa": 5.63,
         "sg": 7.89
       },
       "windWaveDirection": {
@@ -10112,8 +8477,8 @@
         "sg": 19.34
       },
       "cloudCover": {
-        "noaa": 5.9,
-        "sg": 5.9
+        "noaa": 31.9,
+        "sg": 31.9
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -10153,8 +8518,8 @@
       },
       "time": "2026-09-02T12:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 1.95,
+        "sg": 1.95
       },
       "waterTemperature": {
         "meto": 17.06,
@@ -10183,14 +8548,14 @@
         "dwd": 359.74,
         "ecmwf": 351.68,
         "ecmwf:aifs": 351.85,
-        "noaa": 357.67,
+        "noaa": 338.88,
         "sg": 351.68
       },
       "windSpeed": {
         "dwd": 7.59,
         "ecmwf": 7.76,
         "ecmwf:aifs": 7.31,
-        "noaa": 9.05,
+        "noaa": 5.31,
         "sg": 7.76
       },
       "windWaveDirection": {
@@ -10216,12 +8581,12 @@
       "airTemperature": {
         "ecmwf": 19.68,
         "ecmwf:aifs": 21.08,
-        "noaa": 19.24,
+        "noaa": 19.26,
         "sg": 19.68
       },
       "cloudCover": {
-        "noaa": 6.93,
-        "sg": 6.93
+        "noaa": 31.0,
+        "sg": 31.0
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -10261,8 +8626,8 @@
       },
       "time": "2026-09-02T13:00:00+00:00",
       "visibility": {
-        "noaa": 20.23,
-        "sg": 20.23
+        "noaa": 4.79,
+        "sg": 4.79
       },
       "waterTemperature": {
         "meto": 17.12,
@@ -10291,14 +8656,14 @@
         "dwd": 357.49,
         "ecmwf": 352.67,
         "ecmwf:aifs": 352.44,
-        "noaa": 357.06,
+        "noaa": 342.11,
         "sg": 352.67
       },
       "windSpeed": {
         "dwd": 7.66,
         "ecmwf": 7.9,
         "ecmwf:aifs": 7.55,
-        "noaa": 9.07,
+        "noaa": 5.55,
         "sg": 7.9
       },
       "windWaveDirection": {
@@ -10324,17 +8689,17 @@
       "airTemperature": {
         "ecmwf": 20.02,
         "ecmwf:aifs": 21.09,
-        "noaa": 19.28,
+        "noaa": 19.31,
         "sg": 20.02
       },
       "cloudCover": {
-        "noaa": 7.97,
-        "sg": 7.97
+        "noaa": 30.1,
+        "sg": 30.1
       },
       "precipitation": {
         "ecmwf": 0.0,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.0
       },
       "secondarySwellDirection": {
@@ -10369,8 +8734,8 @@
       },
       "time": "2026-09-02T14:00:00+00:00",
       "visibility": {
-        "noaa": 16.32,
-        "sg": 16.32
+        "noaa": 7.63,
+        "sg": 7.63
       },
       "waterTemperature": {
         "meto": 17.18,
@@ -10399,14 +8764,14 @@
         "dwd": 355.23,
         "ecmwf": 353.65,
         "ecmwf:aifs": 353.03,
-        "noaa": 356.44,
+        "noaa": 345.35,
         "sg": 353.65
       },
       "windSpeed": {
         "dwd": 7.73,
         "ecmwf": 8.03,
         "ecmwf:aifs": 7.79,
-        "noaa": 9.09,
+        "noaa": 5.8,
         "sg": 8.03
       },
       "windWaveDirection": {
@@ -10432,17 +8797,17 @@
       "airTemperature": {
         "ecmwf": 20.36,
         "ecmwf:aifs": 21.09,
-        "noaa": 19.31,
+        "noaa": 19.35,
         "sg": 20.36
       },
       "cloudCover": {
-        "noaa": 9.0,
-        "sg": 9.0
+        "noaa": 29.2,
+        "sg": 29.2
       },
       "precipitation": {
         "ecmwf": 0.0,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.0
       },
       "secondarySwellDirection": {
@@ -10477,8 +8842,8 @@
       },
       "time": "2026-09-02T15:00:00+00:00",
       "visibility": {
-        "noaa": 12.41,
-        "sg": 12.41
+        "noaa": 10.47,
+        "sg": 10.47
       },
       "waterTemperature": {
         "meto": 17.2,
@@ -10507,14 +8872,14 @@
         "dwd": 352.98,
         "ecmwf": 354.64,
         "ecmwf:aifs": 353.62,
-        "noaa": 355.83,
+        "noaa": 348.58,
         "sg": 354.64
       },
       "windSpeed": {
         "dwd": 7.8,
         "ecmwf": 8.17,
         "ecmwf:aifs": 8.02,
-        "noaa": 9.11,
+        "noaa": 6.04,
         "sg": 8.17
       },
       "windWaveDirection": {
@@ -10540,17 +8905,17 @@
       "airTemperature": {
         "ecmwf": 20.03,
         "ecmwf:aifs": 21.1,
-        "noaa": 19.49,
+        "noaa": 19.53,
         "sg": 20.03
       },
       "cloudCover": {
-        "noaa": 7.67,
-        "sg": 7.67
+        "noaa": 21.2,
+        "sg": 21.2
       },
       "precipitation": {
         "ecmwf": 0.0,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.0
       },
       "secondarySwellDirection": {
@@ -10585,8 +8950,8 @@
       },
       "time": "2026-09-02T16:00:00+00:00",
       "visibility": {
-        "noaa": 16.32,
-        "sg": 16.32
+        "noaa": 15.03,
+        "sg": 15.03
       },
       "waterTemperature": {
         "meto": 17.21,
@@ -10615,14 +8980,14 @@
         "dwd": 354.35,
         "ecmwf": 356.34,
         "ecmwf:aifs": 354.2,
-        "noaa": 357.2,
+        "noaa": 352.37,
         "sg": 356.34
       },
       "windSpeed": {
         "dwd": 7.73,
         "ecmwf": 8.21,
         "ecmwf:aifs": 8.26,
-        "noaa": 9.12,
+        "noaa": 6.05,
         "sg": 8.21
       },
       "windWaveDirection": {
@@ -10648,17 +9013,17 @@
       "airTemperature": {
         "ecmwf": 19.69,
         "ecmwf:aifs": 21.1,
-        "noaa": 19.67,
+        "noaa": 19.71,
         "sg": 19.69
       },
       "cloudCover": {
-        "noaa": 6.33,
-        "sg": 6.33
+        "noaa": 13.2,
+        "sg": 13.2
       },
       "precipitation": {
         "ecmwf": 0.0,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.0
       },
       "secondarySwellDirection": {
@@ -10693,8 +9058,8 @@
       },
       "time": "2026-09-02T17:00:00+00:00",
       "visibility": {
-        "noaa": 20.23,
-        "sg": 20.23
+        "noaa": 19.58,
+        "sg": 19.58
       },
       "waterTemperature": {
         "meto": 17.22,
@@ -10723,14 +9088,14 @@
         "dwd": 355.72,
         "ecmwf": 358.05,
         "ecmwf:aifs": 354.79,
-        "noaa": 358.56,
+        "noaa": 356.17,
         "sg": 358.05
       },
       "windSpeed": {
         "dwd": 7.67,
         "ecmwf": 8.24,
         "ecmwf:aifs": 8.5,
-        "noaa": 9.13,
+        "noaa": 6.07,
         "sg": 8.24
       },
       "windWaveDirection": {
@@ -10756,17 +9121,17 @@
       "airTemperature": {
         "ecmwf": 19.36,
         "ecmwf:aifs": 21.11,
-        "noaa": 19.85,
+        "noaa": 19.9,
         "sg": 19.36
       },
       "cloudCover": {
-        "noaa": 5.0,
-        "sg": 5.0
+        "noaa": 5.2,
+        "sg": 5.2
       },
       "precipitation": {
         "ecmwf": 0.0,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.0
       },
       "secondarySwellDirection": {
@@ -10831,14 +9196,14 @@
         "dwd": 357.09,
         "ecmwf": 359.75,
         "ecmwf:aifs": 355.38,
-        "noaa": 359.93,
+        "noaa": 359.96,
         "sg": 359.75
       },
       "windSpeed": {
         "dwd": 7.6,
         "ecmwf": 8.28,
         "ecmwf:aifs": 8.74,
-        "noaa": 9.14,
+        "noaa": 6.08,
         "sg": 8.28
       },
       "windWaveDirection": {
@@ -10864,12 +9229,12 @@
       "airTemperature": {
         "ecmwf": 18.95,
         "ecmwf:aifs": 20.99,
-        "noaa": 19.83,
+        "noaa": 19.9,
         "sg": 18.95
       },
       "cloudCover": {
-        "noaa": 4.8,
-        "sg": 4.8
+        "noaa": 3.47,
+        "sg": 3.47
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -10909,8 +9274,8 @@
       },
       "time": "2026-09-02T19:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.2,
@@ -10939,14 +9304,14 @@
         "dwd": 358.84,
         "ecmwf": 2.14,
         "ecmwf:aifs": 357.19,
-        "noaa": 1.73,
+        "noaa": 3.42,
         "sg": 2.14
       },
       "windSpeed": {
         "dwd": 7.36,
         "ecmwf": 8.23,
         "ecmwf:aifs": 8.52,
-        "noaa": 8.96,
+        "noaa": 6.04,
         "sg": 8.23
       },
       "windWaveDirection": {
@@ -10972,12 +9337,12 @@
       "airTemperature": {
         "ecmwf": 18.54,
         "ecmwf:aifs": 20.87,
-        "noaa": 19.81,
+        "noaa": 19.9,
         "sg": 18.54
       },
       "cloudCover": {
-        "noaa": 4.6,
-        "sg": 4.6
+        "noaa": 1.73,
+        "sg": 1.73
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -11017,8 +9382,8 @@
       },
       "time": "2026-09-02T20:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.18,
@@ -11047,14 +9412,14 @@
         "dwd": 0.58,
         "ecmwf": 4.54,
         "ecmwf:aifs": 359.0,
-        "noaa": 3.52,
+        "noaa": 6.88,
         "sg": 4.54
       },
       "windSpeed": {
         "dwd": 7.12,
         "ecmwf": 8.18,
         "ecmwf:aifs": 8.31,
-        "noaa": 8.78,
+        "noaa": 6.01,
         "sg": 8.18
       },
       "windWaveDirection": {
@@ -11080,12 +9445,12 @@
       "airTemperature": {
         "ecmwf": 18.13,
         "ecmwf:aifs": 20.75,
-        "noaa": 19.79,
+        "noaa": 19.9,
         "sg": 18.13
       },
       "cloudCover": {
-        "noaa": 4.4,
-        "sg": 4.4
+        "noaa": 0.0,
+        "sg": 0.0
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -11155,14 +9520,14 @@
         "dwd": 2.33,
         "ecmwf": 6.93,
         "ecmwf:aifs": 0.81,
-        "noaa": 5.32,
+        "noaa": 10.34,
         "sg": 6.93
       },
       "windSpeed": {
         "dwd": 6.88,
         "ecmwf": 8.13,
         "ecmwf:aifs": 8.09,
-        "noaa": 8.6,
+        "noaa": 5.97,
         "sg": 8.13
       },
       "windWaveDirection": {
@@ -11188,12 +9553,12 @@
       "airTemperature": {
         "ecmwf": 18.01,
         "ecmwf:aifs": 20.63,
-        "noaa": 19.78,
+        "noaa": 19.87,
         "sg": 18.01
       },
       "cloudCover": {
-        "noaa": 2.93,
-        "sg": 2.93
+        "noaa": 1.37,
+        "sg": 1.37
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -11263,14 +9628,14 @@
         "dwd": 1.66,
         "ecmwf": 7.01,
         "ecmwf:aifs": 2.62,
-        "noaa": 5.42,
+        "noaa": 11.09,
         "sg": 7.01
       },
       "windSpeed": {
         "dwd": 6.5,
         "ecmwf": 7.9,
         "ecmwf:aifs": 7.87,
-        "noaa": 8.3,
+        "noaa": 5.72,
         "sg": 7.9
       },
       "windWaveDirection": {
@@ -11296,12 +9661,12 @@
       "airTemperature": {
         "ecmwf": 17.9,
         "ecmwf:aifs": 20.52,
-        "noaa": 19.76,
+        "noaa": 19.84,
         "sg": 17.9
       },
       "cloudCover": {
-        "noaa": 1.47,
-        "sg": 1.47
+        "noaa": 2.73,
+        "sg": 2.73
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -11341,8 +9706,8 @@
       },
       "time": "2026-09-02T23:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 17.16,
@@ -11371,14 +9736,14 @@
         "dwd": 0.99,
         "ecmwf": 7.1,
         "ecmwf:aifs": 4.43,
-        "noaa": 5.53,
+        "noaa": 11.83,
         "sg": 7.1
       },
       "windSpeed": {
         "dwd": 6.13,
         "ecmwf": 7.66,
         "ecmwf:aifs": 7.66,
-        "noaa": 8.0,
+        "noaa": 5.46,
         "sg": 7.66
       },
       "windWaveDirection": {
@@ -11404,12 +9769,12 @@
       "airTemperature": {
         "ecmwf": 17.78,
         "ecmwf:aifs": 20.4,
-        "noaa": 19.75,
+        "noaa": 19.81,
         "sg": 17.78
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 4.1,
+        "sg": 4.1
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -11449,8 +9814,8 @@
       },
       "time": "2026-09-03T00:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 17.17,
@@ -11479,14 +9844,14 @@
         "dwd": 0.32,
         "ecmwf": 7.18,
         "ecmwf:aifs": 6.24,
-        "noaa": 5.63,
+        "noaa": 12.58,
         "sg": 7.18
       },
       "windSpeed": {
         "dwd": 5.75,
         "ecmwf": 7.43,
         "ecmwf:aifs": 7.44,
-        "noaa": 7.7,
+        "noaa": 5.21,
         "sg": 7.43
       },
       "windWaveDirection": {
@@ -11512,12 +9877,12 @@
       "airTemperature": {
         "ecmwf": 17.74,
         "ecmwf:aifs": 20.32,
-        "noaa": 19.75,
+        "noaa": 19.79,
         "sg": 17.74
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 2.73,
+        "sg": 2.73
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -11587,14 +9952,14 @@
         "dwd": 0.16,
         "ecmwf": 8.05,
         "ecmwf:aifs": 6.94,
-        "noaa": 5.41,
+        "noaa": 12.51,
         "sg": 8.05
       },
       "windSpeed": {
         "dwd": 5.55,
         "ecmwf": 7.09,
         "ecmwf:aifs": 7.08,
-        "noaa": 7.44,
+        "noaa": 4.76,
         "sg": 7.09
       },
       "windWaveDirection": {
@@ -11620,12 +9985,12 @@
       "airTemperature": {
         "ecmwf": 17.69,
         "ecmwf:aifs": 20.24,
-        "noaa": 19.75,
+        "noaa": 19.77,
         "sg": 17.69
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 1.37,
+        "sg": 1.37
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -11695,14 +10060,14 @@
         "dwd": 359.99,
         "ecmwf": 8.92,
         "ecmwf:aifs": 7.65,
-        "noaa": 5.19,
+        "noaa": 12.44,
         "sg": 8.92
       },
       "windSpeed": {
         "dwd": 5.34,
         "ecmwf": 6.74,
         "ecmwf:aifs": 6.73,
-        "noaa": 7.18,
+        "noaa": 4.3,
         "sg": 6.74
       },
       "windWaveDirection": {
@@ -11803,14 +10168,14 @@
         "dwd": 359.83,
         "ecmwf": 9.79,
         "ecmwf:aifs": 8.36,
-        "noaa": 4.97,
+        "noaa": 12.37,
         "sg": 9.79
       },
       "windSpeed": {
         "dwd": 5.14,
         "ecmwf": 6.4,
         "ecmwf:aifs": 6.37,
-        "noaa": 6.92,
+        "noaa": 3.85,
         "sg": 6.4
       },
       "windWaveDirection": {
@@ -11836,12 +10201,12 @@
       "airTemperature": {
         "ecmwf": 17.62,
         "ecmwf:aifs": 20.08,
-        "noaa": 19.73,
+        "noaa": 19.81,
         "sg": 17.62
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 0.2,
+        "sg": 0.2
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -11881,8 +10246,8 @@
       },
       "time": "2026-09-03T04:00:00+00:00",
       "visibility": {
-        "noaa": 24.14,
-        "sg": 24.14
+        "noaa": 24.13,
+        "sg": 24.13
       },
       "waterTemperature": {
         "meto": 17.25,
@@ -11911,14 +10276,14 @@
         "dwd": 0.99,
         "ecmwf": 10.06,
         "ecmwf:aifs": 9.06,
-        "noaa": 4.28,
+        "noaa": 13.22,
         "sg": 10.06
       },
       "windSpeed": {
         "dwd": 4.8,
         "ecmwf": 5.9,
         "ecmwf:aifs": 6.01,
-        "noaa": 6.72,
+        "noaa": 4.16,
         "sg": 5.9
       },
       "windWaveDirection": {
@@ -11944,12 +10309,12 @@
       "airTemperature": {
         "ecmwf": 17.6,
         "ecmwf:aifs": 20.0,
-        "noaa": 19.71,
+        "noaa": 19.87,
         "sg": 17.6
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 0.4,
+        "sg": 0.4
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -12019,14 +10384,14 @@
         "dwd": 2.15,
         "ecmwf": 10.32,
         "ecmwf:aifs": 9.77,
-        "noaa": 3.58,
+        "noaa": 14.07,
         "sg": 10.32
       },
       "windSpeed": {
         "dwd": 4.46,
         "ecmwf": 5.41,
         "ecmwf:aifs": 5.66,
-        "noaa": 6.51,
+        "noaa": 4.48,
         "sg": 5.41
       },
       "windWaveDirection": {
@@ -12052,12 +10417,12 @@
       "airTemperature": {
         "ecmwf": 17.57,
         "ecmwf:aifs": 19.91,
-        "noaa": 19.69,
+        "noaa": 19.92,
         "sg": 17.57
       },
       "cloudCover": {
-        "noaa": 0.0,
-        "sg": 0.0
+        "noaa": 0.6,
+        "sg": 0.6
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -12127,14 +10492,14 @@
         "dwd": 3.31,
         "ecmwf": 10.59,
         "ecmwf:aifs": 10.47,
-        "noaa": 2.89,
+        "noaa": 14.92,
         "sg": 10.59
       },
       "windSpeed": {
         "dwd": 4.12,
         "ecmwf": 4.91,
         "ecmwf:aifs": 5.3,
-        "noaa": 6.31,
+        "noaa": 4.79,
         "sg": 4.91
       },
       "windWaveDirection": {
@@ -12160,12 +10525,12 @@
       "airTemperature": {
         "ecmwf": 17.58,
         "ecmwf:aifs": 20.3,
-        "noaa": 19.64,
+        "noaa": 20.1,
         "sg": 17.58
       },
       "cloudCover": {
-        "noaa": 0.67,
-        "sg": 0.67
+        "noaa": 2.07,
+        "sg": 2.07
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -12235,14 +10600,14 @@
         "dwd": 5.26,
         "ecmwf": 6.22,
         "ecmwf:aifs": 4.44,
-        "noaa": 2.48,
+        "noaa": 13.78,
         "sg": 6.22
       },
       "windSpeed": {
         "dwd": 3.84,
         "ecmwf": 4.56,
         "ecmwf:aifs": 5.01,
-        "noaa": 6.09,
+        "noaa": 4.97,
         "sg": 4.56
       },
       "windWaveDirection": {
@@ -12268,12 +10633,12 @@
       "airTemperature": {
         "ecmwf": 17.6,
         "ecmwf:aifs": 20.68,
-        "noaa": 19.6,
+        "noaa": 20.27,
         "sg": 17.6
       },
       "cloudCover": {
-        "noaa": 1.33,
-        "sg": 1.33
+        "noaa": 3.53,
+        "sg": 3.53
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -12313,8 +10678,8 @@
       },
       "time": "2026-09-03T08:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 17.49,
@@ -12343,14 +10708,14 @@
         "dwd": 7.2,
         "ecmwf": 1.84,
         "ecmwf:aifs": 358.4,
-        "noaa": 2.07,
+        "noaa": 12.64,
         "sg": 1.84
       },
       "windSpeed": {
         "dwd": 3.55,
         "ecmwf": 4.21,
         "ecmwf:aifs": 4.72,
-        "noaa": 5.86,
+        "noaa": 5.15,
         "sg": 4.21
       },
       "windWaveDirection": {
@@ -12376,12 +10741,12 @@
       "airTemperature": {
         "ecmwf": 17.61,
         "ecmwf:aifs": 21.07,
-        "noaa": 19.55,
+        "noaa": 20.45,
         "sg": 17.61
       },
       "cloudCover": {
-        "noaa": 2.0,
-        "sg": 2.0
+        "noaa": 5.0,
+        "sg": 5.0
       },
       "precipitation": {
         "ecmwf": 0.01,
@@ -12421,8 +10786,8 @@
       },
       "time": "2026-09-03T09:00:00+00:00",
       "visibility": {
-        "noaa": 24.13,
-        "sg": 24.13
+        "noaa": 24.14,
+        "sg": 24.14
       },
       "waterTemperature": {
         "meto": 17.65,
@@ -12451,14 +10816,14 @@
         "dwd": 9.15,
         "ecmwf": 357.47,
         "ecmwf:aifs": 352.37,
-        "noaa": 1.66,
+        "noaa": 11.5,
         "sg": 357.47
       },
       "windSpeed": {
         "dwd": 3.27,
         "ecmwf": 3.86,
         "ecmwf:aifs": 4.43,
-        "noaa": 5.64,
+        "noaa": 5.33,
         "sg": 3.86
       },
       "windWaveDirection": {
@@ -12484,12 +10849,12 @@
       "airTemperature": {
         "ecmwf": 18.53,
         "ecmwf:aifs": 21.45,
-        "noaa": 19.52,
+        "noaa": 20.32,
         "sg": 18.53
       },
       "cloudCover": {
-        "noaa": 9.97,
-        "sg": 9.97
+        "noaa": 14.93,
+        "sg": 14.93
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -12529,8 +10894,8 @@
       },
       "time": "2026-09-03T10:00:00+00:00",
       "visibility": {
-        "noaa": 17.47,
-        "sg": 17.47
+        "noaa": 19.74,
+        "sg": 19.74
       },
       "waterTemperature": {
         "meto": 17.9,
@@ -12559,14 +10924,14 @@
         "dwd": 9.95,
         "ecmwf": 350.82,
         "ecmwf:aifs": 346.34,
-        "noaa": 355.23,
+        "noaa": 1.58,
         "sg": 350.82
       },
       "windSpeed": {
         "dwd": 3.05,
         "ecmwf": 3.95,
         "ecmwf:aifs": 4.14,
-        "noaa": 5.7,
+        "noaa": 5.63,
         "sg": 3.95
       },
       "windWaveDirection": {
@@ -12592,12 +10957,12 @@
       "airTemperature": {
         "ecmwf": 19.44,
         "ecmwf:aifs": 21.84,
-        "noaa": 19.49,
+        "noaa": 20.19,
         "sg": 19.44
       },
       "cloudCover": {
-        "noaa": 17.93,
-        "sg": 17.93
+        "noaa": 24.87,
+        "sg": 24.87
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -12637,8 +11002,8 @@
       },
       "time": "2026-09-03T11:00:00+00:00",
       "visibility": {
-        "noaa": 10.8,
-        "sg": 10.8
+        "noaa": 15.34,
+        "sg": 15.34
       },
       "waterTemperature": {
         "meto": 18.12,
@@ -12667,14 +11032,14 @@
         "dwd": 10.74,
         "ecmwf": 344.16,
         "ecmwf:aifs": 340.3,
-        "noaa": 348.81,
+        "noaa": 351.65,
         "sg": 344.16
       },
       "windSpeed": {
         "dwd": 2.84,
         "ecmwf": 4.03,
         "ecmwf:aifs": 3.85,
-        "noaa": 5.76,
+        "noaa": 5.92,
         "sg": 4.03
       },
       "windWaveDirection": {
@@ -12700,12 +11065,12 @@
       "airTemperature": {
         "ecmwf": 20.36,
         "ecmwf:aifs": 22.22,
-        "noaa": 19.46,
+        "noaa": 20.06,
         "sg": 20.36
       },
       "cloudCover": {
-        "noaa": 25.9,
-        "sg": 25.9
+        "noaa": 34.8,
+        "sg": 34.8
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -12745,8 +11110,8 @@
       },
       "time": "2026-09-03T12:00:00+00:00",
       "visibility": {
-        "noaa": 4.13,
-        "sg": 4.13
+        "noaa": 10.94,
+        "sg": 10.94
       },
       "waterTemperature": {
         "meto": 18.3,
@@ -12775,14 +11140,14 @@
         "dwd": 11.54,
         "ecmwf": 337.51,
         "ecmwf:aifs": 334.27,
-        "noaa": 342.38,
+        "noaa": 341.73,
         "sg": 337.51
       },
       "windSpeed": {
         "dwd": 2.62,
         "ecmwf": 4.12,
         "ecmwf:aifs": 3.56,
-        "noaa": 5.82,
+        "noaa": 6.22,
         "sg": 4.12
       },
       "windWaveDirection": {
@@ -12808,12 +11173,12 @@
       "airTemperature": {
         "ecmwf": 20.69,
         "ecmwf:aifs": 22.13,
-        "noaa": 19.58,
+        "noaa": 20.03,
         "sg": 20.69
       },
       "cloudCover": {
-        "noaa": 21.8,
-        "sg": 21.8
+        "noaa": 29.33,
+        "sg": 29.33
       },
       "precipitation": {
         "ecmwf": 0.0,
@@ -12853,8 +11218,8 @@
       },
       "time": "2026-09-03T13:00:00+00:00",
       "visibility": {
-        "noaa": 6.56,
-        "sg": 6.56
+        "noaa": 10.93,
+        "sg": 10.93
       },
       "waterTemperature": {
         "meto": 18.44,
@@ -12883,14 +11248,14 @@
         "dwd": 352.38,
         "ecmwf": 340.65,
         "ecmwf:aifs": 334.86,
-        "noaa": 343.32,
+        "noaa": 347.99,
         "sg": 340.65
       },
       "windSpeed": {
         "dwd": 2.71,
         "ecmwf": 4.32,
         "ecmwf:aifs": 3.93,
-        "noaa": 6.07,
+        "noaa": 5.98,
         "sg": 4.32
       },
       "windWaveDirection": {
@@ -12916,17 +11281,17 @@
       "airTemperature": {
         "ecmwf": 21.02,
         "ecmwf:aifs": 22.03,
-        "noaa": 19.69,
+        "noaa": 19.99,
         "sg": 21.02
       },
       "cloudCover": {
-        "noaa": 17.7,
-        "sg": 17.7
+        "noaa": 23.87,
+        "sg": 23.87
       },
       "precipitation": {
         "ecmwf": 0.0,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.0
       },
       "secondarySwellDirection": {
@@ -12961,8 +11326,8 @@
       },
       "time": "2026-09-03T14:00:00+00:00",
       "visibility": {
-        "noaa": 8.98,
-        "sg": 8.98
+        "noaa": 10.93,
+        "sg": 10.93
       },
       "waterTemperature": {
         "meto": 18.57,
@@ -12991,14 +11356,14 @@
         "dwd": 333.23,
         "ecmwf": 343.8,
         "ecmwf:aifs": 335.46,
-        "noaa": 344.26,
+        "noaa": 354.24,
         "sg": 343.8
       },
       "windSpeed": {
         "dwd": 2.8,
         "ecmwf": 4.51,
         "ecmwf:aifs": 4.3,
-        "noaa": 6.31,
+        "noaa": 5.75,
         "sg": 4.51
       },
       "windWaveDirection": {
@@ -13024,17 +11389,17 @@
       "airTemperature": {
         "ecmwf": 21.35,
         "ecmwf:aifs": 21.93,
-        "noaa": 19.8,
+        "noaa": 19.96,
         "sg": 21.35
       },
       "cloudCover": {
-        "noaa": 13.6,
-        "sg": 13.6
+        "noaa": 18.4,
+        "sg": 18.4
       },
       "precipitation": {
         "ecmwf": 0.0,
         "ecmwf:aifs": 0.0,
-        "noaa": 0.0,
+        "noaa": 0.01,
         "sg": 0.0
       },
       "secondarySwellDirection": {
@@ -13069,8 +11434,8 @@
       },
       "time": "2026-09-03T15:00:00+00:00",
       "visibility": {
-        "noaa": 11.41,
-        "sg": 11.41
+        "noaa": 10.92,
+        "sg": 10.92
       },
       "waterTemperature": {
         "meto": 18.69,
@@ -13099,14 +11464,14 @@
         "dwd": 314.07,
         "ecmwf": 346.94,
         "ecmwf:aifs": 336.05,
-        "noaa": 345.2,
+        "noaa": 0.5,
         "sg": 346.94
       },
       "windSpeed": {
         "dwd": 2.89,
         "ecmwf": 4.71,
         "ecmwf:aifs": 4.67,
-        "noaa": 6.56,
+        "noaa": 5.51,
         "sg": 4.71
       },
       "windWaveDirection": {
@@ -13127,24 +11492,1587 @@
         "noaa": 6.75,
         "sg": 1.87
       }
+    },
+    {
+      "airTemperature": {
+        "ecmwf": 20.91,
+        "ecmwf:aifs": 21.84,
+        "noaa": 20.19,
+        "sg": 20.91
+      },
+      "cloudCover": {
+        "noaa": 45.57,
+        "sg": 45.57
+      },
+      "precipitation": {
+        "ecmwf": 0.0,
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.01,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 213.79,
+        "sg": 213.79
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.12,
+        "sg": 0.12
+      },
+      "secondarySwellPeriod": {
+        "noaa": 14.35,
+        "sg": 14.35
+      },
+      "swellDirection": {
+        "dwd": 308.9,
+        "meteo": 337.68,
+        "noaa": 305.21,
+        "sg": 337.68
+      },
+      "swellHeight": {
+        "dwd": 0.79,
+        "meteo": 0.81,
+        "noaa": 0.35,
+        "sg": 0.81
+      },
+      "swellPeriod": {
+        "dwd": 7.76,
+        "meteo": 4.55,
+        "noaa": 8.48,
+        "sg": 4.55
+      },
+      "time": "2026-09-03T16:00:00+00:00",
+      "visibility": {
+        "noaa": 11.09,
+        "sg": 11.09
+      },
+      "waterTemperature": {
+        "meto": 18.78,
+        "sg": 18.78
+      },
+      "waveDirection": {
+        "ecmwf": 323.87,
+        "meteo": 328.21,
+        "noaa": 338.05,
+        "sg": 323.87
+      },
+      "waveHeight": {
+        "dwd": 0.8,
+        "ecmwf": 0.92,
+        "meteo": 1.0,
+        "noaa": 1.21,
+        "sg": 0.92
+      },
+      "wavePeriod": {
+        "ecmwf": 4.4,
+        "meteo": 4.78,
+        "noaa": 6.68,
+        "sg": 4.4
+      },
+      "windDirection": {
+        "dwd": 321.83,
+        "ecmwf": 349.66,
+        "ecmwf:aifs": 336.65,
+        "noaa": 358.71,
+        "sg": 349.66
+      },
+      "windSpeed": {
+        "dwd": 2.98,
+        "ecmwf": 5.04,
+        "ecmwf:aifs": 5.04,
+        "noaa": 5.71,
+        "sg": 5.04
+      },
+      "windWaveDirection": {
+        "dwd": 324.94,
+        "meteo": 349.18,
+        "noaa": 335.42,
+        "sg": 349.18
+      },
+      "windWaveHeight": {
+        "dwd": 0.09,
+        "meteo": 0.15,
+        "noaa": 1.15,
+        "sg": 0.15
+      },
+      "windWavePeriod": {
+        "dwd": 1.45,
+        "meteo": 1.73,
+        "noaa": 6.65,
+        "sg": 1.73
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf": 20.47,
+        "ecmwf:aifs": 21.74,
+        "noaa": 20.41,
+        "sg": 20.47
+      },
+      "cloudCover": {
+        "noaa": 72.73,
+        "sg": 72.73
+      },
+      "precipitation": {
+        "ecmwf": 0.0,
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.01,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 213.75,
+        "sg": 213.75
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.11,
+        "sg": 0.11
+      },
+      "secondarySwellPeriod": {
+        "noaa": 14.33,
+        "sg": 14.33
+      },
+      "swellDirection": {
+        "dwd": 307.86,
+        "meteo": 337.61,
+        "noaa": 305.34,
+        "sg": 337.61
+      },
+      "swellHeight": {
+        "dwd": 0.78,
+        "meteo": 0.8,
+        "noaa": 0.38,
+        "sg": 0.8
+      },
+      "swellPeriod": {
+        "dwd": 7.78,
+        "meteo": 4.5,
+        "noaa": 8.38,
+        "sg": 4.5
+      },
+      "time": "2026-09-03T17:00:00+00:00",
+      "visibility": {
+        "noaa": 11.25,
+        "sg": 11.25
+      },
+      "waterTemperature": {
+        "meto": 18.85,
+        "sg": 18.85
+      },
+      "waveDirection": {
+        "ecmwf": 322.8,
+        "meteo": 327.47,
+        "noaa": 338.43,
+        "sg": 322.8
+      },
+      "waveHeight": {
+        "dwd": 0.79,
+        "ecmwf": 0.91,
+        "meteo": 0.99,
+        "noaa": 1.22,
+        "sg": 0.91
+      },
+      "wavePeriod": {
+        "ecmwf": 4.47,
+        "meteo": 4.78,
+        "noaa": 6.6,
+        "sg": 4.47
+      },
+      "windDirection": {
+        "dwd": 329.6,
+        "ecmwf": 352.38,
+        "ecmwf:aifs": 337.24,
+        "noaa": 356.93,
+        "sg": 352.38
+      },
+      "windSpeed": {
+        "dwd": 3.07,
+        "ecmwf": 5.38,
+        "ecmwf:aifs": 5.41,
+        "noaa": 5.9,
+        "sg": 5.38
+      },
+      "windWaveDirection": {
+        "dwd": 329.75,
+        "meteo": 352.19,
+        "noaa": 336.23,
+        "sg": 352.19
+      },
+      "windWaveHeight": {
+        "dwd": 0.1,
+        "meteo": 0.13,
+        "noaa": 1.15,
+        "sg": 0.13
+      },
+      "windWavePeriod": {
+        "dwd": 1.48,
+        "meteo": 1.58,
+        "noaa": 6.55,
+        "sg": 1.58
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf": 20.03,
+        "ecmwf:aifs": 21.64,
+        "noaa": 20.64,
+        "sg": 20.03
+      },
+      "cloudCover": {
+        "noaa": 99.9,
+        "sg": 99.9
+      },
+      "precipitation": {
+        "ecmwf": 0.01,
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.01,
+        "sg": 0.01
+      },
+      "secondarySwellDirection": {
+        "noaa": 213.72,
+        "sg": 213.72
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.11,
+        "sg": 0.11
+      },
+      "secondarySwellPeriod": {
+        "noaa": 14.31,
+        "sg": 14.31
+      },
+      "swellDirection": {
+        "dwd": 306.81,
+        "meteo": 337.55,
+        "noaa": 305.48,
+        "sg": 337.55
+      },
+      "swellHeight": {
+        "dwd": 0.76,
+        "meteo": 0.79,
+        "noaa": 0.42,
+        "sg": 0.79
+      },
+      "swellPeriod": {
+        "dwd": 7.81,
+        "meteo": 4.46,
+        "noaa": 8.29,
+        "sg": 4.46
+      },
+      "time": "2026-09-03T18:00:00+00:00",
+      "visibility": {
+        "noaa": 11.42,
+        "sg": 11.42
+      },
+      "waterTemperature": {
+        "meto": 18.8,
+        "sg": 18.8
+      },
+      "waveDirection": {
+        "ecmwf": 321.74,
+        "meteo": 326.73,
+        "noaa": 338.82,
+        "sg": 321.74
+      },
+      "waveHeight": {
+        "dwd": 0.77,
+        "ecmwf": 0.9,
+        "meteo": 0.98,
+        "noaa": 1.22,
+        "sg": 0.9
+      },
+      "wavePeriod": {
+        "ecmwf": 4.54,
+        "meteo": 4.79,
+        "noaa": 6.53,
+        "sg": 4.54
+      },
+      "windDirection": {
+        "dwd": 337.36,
+        "ecmwf": 355.1,
+        "ecmwf:aifs": 337.84,
+        "noaa": 355.14,
+        "sg": 355.1
+      },
+      "windSpeed": {
+        "dwd": 3.16,
+        "ecmwf": 5.71,
+        "ecmwf:aifs": 5.78,
+        "noaa": 6.1,
+        "sg": 5.71
+      },
+      "windWaveDirection": {
+        "dwd": 334.56,
+        "meteo": 355.19,
+        "noaa": 337.05,
+        "sg": 355.19
+      },
+      "windWaveHeight": {
+        "dwd": 0.1,
+        "meteo": 0.11,
+        "noaa": 1.14,
+        "sg": 0.11
+      },
+      "windWavePeriod": {
+        "dwd": 1.5,
+        "meteo": 1.44,
+        "noaa": 6.45,
+        "sg": 1.44
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf": 19.75,
+        "ecmwf:aifs": 21.45,
+        "noaa": 20.6,
+        "sg": 19.75
+      },
+      "cloudCover": {
+        "noaa": 96.37,
+        "sg": 96.37
+      },
+      "precipitation": {
+        "ecmwf": 0.0,
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 239.96,
+        "sg": 239.96
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.13,
+        "sg": 0.13
+      },
+      "secondarySwellPeriod": {
+        "noaa": 12.61,
+        "sg": 12.61
+      },
+      "swellDirection": {
+        "dwd": 305.87,
+        "meteo": 336.87,
+        "noaa": 305.73,
+        "sg": 336.87
+      },
+      "swellHeight": {
+        "dwd": 0.75,
+        "meteo": 0.79,
+        "noaa": 0.42,
+        "sg": 0.79
+      },
+      "swellPeriod": {
+        "dwd": 7.82,
+        "meteo": 4.52,
+        "noaa": 8.16,
+        "sg": 4.52
+      },
+      "time": "2026-09-03T19:00:00+00:00",
+      "visibility": {
+        "noaa": 15.66,
+        "sg": 15.66
+      },
+      "waterTemperature": {
+        "meto": 18.66,
+        "sg": 18.66
+      },
+      "waveDirection": {
+        "ecmwf": 320.46,
+        "meteo": 325.78,
+        "noaa": 338.04,
+        "sg": 320.46
+      },
+      "waveHeight": {
+        "dwd": 0.76,
+        "ecmwf": 0.88,
+        "meteo": 0.96,
+        "noaa": 1.22,
+        "sg": 0.88
+      },
+      "wavePeriod": {
+        "ecmwf": 4.57,
+        "meteo": 4.81,
+        "noaa": 6.48,
+        "sg": 4.57
+      },
+      "windDirection": {
+        "dwd": 341.21,
+        "ecmwf": 356.99,
+        "ecmwf:aifs": 338.95,
+        "noaa": 3.5,
+        "sg": 356.99
+      },
+      "windSpeed": {
+        "dwd": 3.07,
+        "ecmwf": 5.8,
+        "ecmwf:aifs": 5.69,
+        "noaa": 6.47,
+        "sg": 5.8
+      },
+      "windWaveDirection": {
+        "dwd": 339.24,
+        "meteo": 359.69,
+        "noaa": 336.92,
+        "sg": 359.69
+      },
+      "windWaveHeight": {
+        "dwd": 0.09,
+        "meteo": 0.11,
+        "noaa": 1.13,
+        "sg": 0.11
+      },
+      "windWavePeriod": {
+        "dwd": 1.47,
+        "meteo": 1.44,
+        "noaa": 6.4,
+        "sg": 1.44
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf": 19.48,
+        "ecmwf:aifs": 21.25,
+        "noaa": 20.56,
+        "sg": 19.48
+      },
+      "cloudCover": {
+        "noaa": 92.83,
+        "sg": 92.83
+      },
+      "precipitation": {
+        "ecmwf": 0.0,
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 266.2,
+        "sg": 266.2
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.15,
+        "sg": 0.15
+      },
+      "secondarySwellPeriod": {
+        "noaa": 10.9,
+        "sg": 10.9
+      },
+      "swellDirection": {
+        "dwd": 304.93,
+        "meteo": 336.18,
+        "noaa": 305.99,
+        "sg": 336.18
+      },
+      "swellHeight": {
+        "dwd": 0.74,
+        "meteo": 0.78,
+        "noaa": 0.43,
+        "sg": 0.78
+      },
+      "swellPeriod": {
+        "dwd": 7.84,
+        "meteo": 4.59,
+        "noaa": 8.04,
+        "sg": 4.59
+      },
+      "time": "2026-09-03T20:00:00+00:00",
+      "visibility": {
+        "noaa": 19.9,
+        "sg": 19.9
+      },
+      "waterTemperature": {
+        "meto": 18.57,
+        "sg": 18.57
+      },
+      "waveDirection": {
+        "ecmwf": 319.18,
+        "meteo": 324.83,
+        "noaa": 337.27,
+        "sg": 319.18
+      },
+      "waveHeight": {
+        "dwd": 0.74,
+        "ecmwf": 0.86,
+        "meteo": 0.94,
+        "noaa": 1.21,
+        "sg": 0.86
+      },
+      "wavePeriod": {
+        "ecmwf": 4.6,
+        "meteo": 4.83,
+        "noaa": 6.42,
+        "sg": 4.6
+      },
+      "windDirection": {
+        "dwd": 345.07,
+        "ecmwf": 358.87,
+        "ecmwf:aifs": 340.06,
+        "noaa": 11.86,
+        "sg": 358.87
+      },
+      "windSpeed": {
+        "dwd": 2.97,
+        "ecmwf": 5.89,
+        "ecmwf:aifs": 5.6,
+        "noaa": 6.83,
+        "sg": 5.89
+      },
+      "windWaveDirection": {
+        "dwd": 343.93,
+        "meteo": 4.19,
+        "noaa": 336.8,
+        "sg": 4.19
+      },
+      "windWaveHeight": {
+        "dwd": 0.09,
+        "meteo": 0.11,
+        "noaa": 1.13,
+        "sg": 0.11
+      },
+      "windWavePeriod": {
+        "dwd": 1.43,
+        "meteo": 1.45,
+        "noaa": 6.34,
+        "sg": 1.45
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf": 19.2,
+        "ecmwf:aifs": 21.06,
+        "noaa": 20.53,
+        "sg": 19.2
+      },
+      "cloudCover": {
+        "noaa": 89.3,
+        "sg": 89.3
+      },
+      "precipitation": {
+        "ecmwf": 0.0,
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 292.44,
+        "sg": 292.44
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.17,
+        "sg": 0.17
+      },
+      "secondarySwellPeriod": {
+        "noaa": 9.2,
+        "sg": 9.2
+      },
+      "swellDirection": {
+        "dwd": 303.99,
+        "meteo": 335.5,
+        "noaa": 306.24,
+        "sg": 335.5
+      },
+      "swellHeight": {
+        "dwd": 0.73,
+        "meteo": 0.78,
+        "noaa": 0.43,
+        "sg": 0.78
+      },
+      "swellPeriod": {
+        "dwd": 7.85,
+        "meteo": 4.65,
+        "noaa": 7.91,
+        "sg": 4.65
+      },
+      "time": "2026-09-03T21:00:00+00:00",
+      "visibility": {
+        "noaa": 24.14,
+        "sg": 24.14
+      },
+      "waterTemperature": {
+        "meto": 18.53,
+        "sg": 18.53
+      },
+      "waveDirection": {
+        "ecmwf": 317.91,
+        "meteo": 323.88,
+        "noaa": 336.49,
+        "sg": 317.91
+      },
+      "waveHeight": {
+        "dwd": 0.73,
+        "ecmwf": 0.85,
+        "meteo": 0.92,
+        "noaa": 1.21,
+        "sg": 0.85
+      },
+      "wavePeriod": {
+        "ecmwf": 4.63,
+        "meteo": 4.85,
+        "noaa": 6.37,
+        "sg": 4.63
+      },
+      "windDirection": {
+        "dwd": 348.92,
+        "ecmwf": 0.76,
+        "ecmwf:aifs": 341.16,
+        "noaa": 20.22,
+        "sg": 0.76
+      },
+      "windSpeed": {
+        "dwd": 2.88,
+        "ecmwf": 5.98,
+        "ecmwf:aifs": 5.51,
+        "noaa": 7.2,
+        "sg": 5.98
+      },
+      "windWaveDirection": {
+        "dwd": 348.61,
+        "meteo": 8.69,
+        "noaa": 336.67,
+        "sg": 8.69
+      },
+      "windWaveHeight": {
+        "dwd": 0.08,
+        "meteo": 0.11,
+        "noaa": 1.12,
+        "sg": 0.11
+      },
+      "windWavePeriod": {
+        "dwd": 1.4,
+        "meteo": 1.45,
+        "noaa": 6.29,
+        "sg": 1.45
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf": 19.14,
+        "ecmwf:aifs": 20.86,
+        "noaa": 20.42,
+        "sg": 19.14
+      },
+      "cloudCover": {
+        "noaa": 92.83,
+        "sg": 92.83
+      },
+      "precipitation": {
+        "ecmwf": 0.0,
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 295.29,
+        "sg": 295.29
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.22,
+        "sg": 0.22
+      },
+      "secondarySwellPeriod": {
+        "noaa": 8.58,
+        "sg": 8.58
+      },
+      "swellDirection": {
+        "dwd": 303.17,
+        "meteo": 335.72,
+        "noaa": 305.29,
+        "sg": 335.72
+      },
+      "swellHeight": {
+        "dwd": 0.72,
+        "meteo": 0.76,
+        "noaa": 0.42,
+        "sg": 0.76
+      },
+      "swellPeriod": {
+        "dwd": 7.87,
+        "meteo": 4.57,
+        "noaa": 8.19,
+        "sg": 4.57
+      },
+      "time": "2026-09-03T22:00:00+00:00",
+      "visibility": {
+        "noaa": 24.14,
+        "sg": 24.14
+      },
+      "waterTemperature": {
+        "meto": 18.5,
+        "sg": 18.5
+      },
+      "waveDirection": {
+        "ecmwf": 316.56,
+        "meteo": 322.89,
+        "noaa": 335.58,
+        "sg": 316.56
+      },
+      "waveHeight": {
+        "dwd": 0.72,
+        "ecmwf": 0.83,
+        "meteo": 0.91,
+        "noaa": 1.2,
+        "sg": 0.83
+      },
+      "wavePeriod": {
+        "ecmwf": 4.71,
+        "meteo": 4.88,
+        "noaa": 6.37,
+        "sg": 4.71
+      },
+      "windDirection": {
+        "dwd": 347.98,
+        "ecmwf": 0.41,
+        "ecmwf:aifs": 342.27,
+        "noaa": 17.12,
+        "sg": 0.41
+      },
+      "windSpeed": {
+        "dwd": 2.8,
+        "ecmwf": 5.59,
+        "ecmwf:aifs": 5.41,
+        "noaa": 7.09,
+        "sg": 5.59
+      },
+      "windWaveDirection": {
+        "dwd": 345.41,
+        "meteo": 10.62,
+        "noaa": 336.33,
+        "sg": 10.62
+      },
+      "windWaveHeight": {
+        "dwd": 0.07,
+        "meteo": 0.09,
+        "noaa": 1.11,
+        "sg": 0.09
+      },
+      "windWavePeriod": {
+        "dwd": 1.36,
+        "meteo": 1.36,
+        "noaa": 6.25,
+        "sg": 1.36
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf": 19.07,
+        "ecmwf:aifs": 20.67,
+        "noaa": 20.31,
+        "sg": 19.07
+      },
+      "cloudCover": {
+        "noaa": 96.37,
+        "sg": 96.37
+      },
+      "precipitation": {
+        "ecmwf": 0.0,
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 298.14,
+        "sg": 298.14
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.27,
+        "sg": 0.27
+      },
+      "secondarySwellPeriod": {
+        "noaa": 7.95,
+        "sg": 7.95
+      },
+      "swellDirection": {
+        "dwd": 302.35,
+        "meteo": 335.94,
+        "noaa": 304.33,
+        "sg": 335.94
+      },
+      "swellHeight": {
+        "dwd": 0.71,
+        "meteo": 0.73,
+        "noaa": 0.4,
+        "sg": 0.73
+      },
+      "swellPeriod": {
+        "dwd": 7.9,
+        "meteo": 4.49,
+        "noaa": 8.47,
+        "sg": 4.49
+      },
+      "time": "2026-09-03T23:00:00+00:00",
+      "visibility": {
+        "noaa": 24.14,
+        "sg": 24.14
+      },
+      "waterTemperature": {
+        "meto": 18.48,
+        "sg": 18.48
+      },
+      "waveDirection": {
+        "ecmwf": 315.2,
+        "meteo": 321.91,
+        "noaa": 334.66,
+        "sg": 315.2
+      },
+      "waveHeight": {
+        "dwd": 0.71,
+        "ecmwf": 0.81,
+        "meteo": 0.89,
+        "noaa": 1.2,
+        "sg": 0.81
+      },
+      "wavePeriod": {
+        "ecmwf": 4.78,
+        "meteo": 4.9,
+        "noaa": 6.36,
+        "sg": 4.78
+      },
+      "windDirection": {
+        "dwd": 347.03,
+        "ecmwf": 0.06,
+        "ecmwf:aifs": 343.38,
+        "noaa": 14.03,
+        "sg": 0.06
+      },
+      "windSpeed": {
+        "dwd": 2.72,
+        "ecmwf": 5.21,
+        "ecmwf:aifs": 5.32,
+        "noaa": 6.97,
+        "sg": 5.21
+      },
+      "windWaveDirection": {
+        "dwd": 342.2,
+        "meteo": 12.54,
+        "noaa": 336.0,
+        "sg": 12.54
+      },
+      "windWaveHeight": {
+        "dwd": 0.07,
+        "meteo": 0.06,
+        "noaa": 1.09,
+        "sg": 0.06
+      },
+      "windWavePeriod": {
+        "dwd": 1.33,
+        "meteo": 1.26,
+        "noaa": 6.2,
+        "sg": 1.26
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf": 19.01,
+        "ecmwf:aifs": 20.47,
+        "noaa": 20.2,
+        "sg": 19.01
+      },
+      "cloudCover": {
+        "noaa": 99.9,
+        "sg": 99.9
+      },
+      "precipitation": {
+        "ecmwf": 0.0,
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 300.99,
+        "sg": 300.99
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.32,
+        "sg": 0.32
+      },
+      "secondarySwellPeriod": {
+        "noaa": 7.33,
+        "sg": 7.33
+      },
+      "swellDirection": {
+        "dwd": 301.53,
+        "meteo": 336.16,
+        "noaa": 303.38,
+        "sg": 336.16
+      },
+      "swellHeight": {
+        "dwd": 0.7,
+        "meteo": 0.71,
+        "noaa": 0.39,
+        "sg": 0.71
+      },
+      "swellPeriod": {
+        "dwd": 7.92,
+        "meteo": 4.41,
+        "noaa": 8.75,
+        "sg": 4.41
+      },
+      "time": "2026-09-04T00:00:00+00:00",
+      "visibility": {
+        "noaa": 24.14,
+        "sg": 24.14
+      },
+      "waterTemperature": {
+        "meto": 18.47,
+        "sg": 18.47
+      },
+      "waveDirection": {
+        "ecmwf": 313.85,
+        "meteo": 320.92,
+        "noaa": 333.75,
+        "sg": 313.85
+      },
+      "waveHeight": {
+        "dwd": 0.7,
+        "ecmwf": 0.8,
+        "meteo": 0.88,
+        "noaa": 1.19,
+        "sg": 0.8
+      },
+      "wavePeriod": {
+        "ecmwf": 4.86,
+        "meteo": 4.93,
+        "noaa": 6.36,
+        "sg": 4.86
+      },
+      "windDirection": {
+        "dwd": 346.09,
+        "ecmwf": 359.71,
+        "ecmwf:aifs": 344.49,
+        "noaa": 10.93,
+        "sg": 359.71
+      },
+      "windSpeed": {
+        "dwd": 2.64,
+        "ecmwf": 4.82,
+        "ecmwf:aifs": 5.23,
+        "noaa": 6.86,
+        "sg": 4.82
+      },
+      "windWaveDirection": {
+        "dwd": 339.0,
+        "meteo": 14.47,
+        "noaa": 335.66,
+        "sg": 14.47
+      },
+      "windWaveHeight": {
+        "dwd": 0.06,
+        "meteo": 0.04,
+        "noaa": 1.08,
+        "sg": 0.04
+      },
+      "windWavePeriod": {
+        "dwd": 1.29,
+        "meteo": 1.17,
+        "noaa": 6.16,
+        "sg": 1.17
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf:aifs": 20.37,
+        "noaa": 20.13,
+        "sg": 20.13
+      },
+      "cloudCover": {
+        "noaa": 99.77,
+        "sg": 99.77
+      },
+      "precipitation": {
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 271.84,
+        "sg": 271.84
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.25,
+        "sg": 0.25
+      },
+      "secondarySwellPeriod": {
+        "noaa": 9.5,
+        "sg": 9.5
+      },
+      "swellDirection": {
+        "dwd": 300.97,
+        "meteo": 335.88,
+        "noaa": 302.71,
+        "sg": 335.88
+      },
+      "swellHeight": {
+        "dwd": 0.7,
+        "meteo": 0.69,
+        "noaa": 0.44,
+        "sg": 0.69
+      },
+      "swellPeriod": {
+        "dwd": 7.95,
+        "meteo": 4.38,
+        "noaa": 8.65,
+        "sg": 4.38
+      },
+      "time": "2026-09-04T01:00:00+00:00",
+      "visibility": {
+        "noaa": 24.14,
+        "sg": 24.14
+      },
+      "waterTemperature": {
+        "meto": 18.45,
+        "sg": 18.45
+      },
+      "waveDirection": {
+        "meteo": 319.84,
+        "noaa": 333.53,
+        "sg": 319.84
+      },
+      "waveHeight": {
+        "dwd": 0.7,
+        "meteo": 0.87,
+        "noaa": 1.19,
+        "sg": 0.87
+      },
+      "wavePeriod": {
+        "meteo": 4.97,
+        "noaa": 6.42,
+        "sg": 4.97
+      },
+      "windDirection": {
+        "dwd": 345.02,
+        "ecmwf:aifs": 345.62,
+        "noaa": 8.38,
+        "sg": 345.02
+      },
+      "windSpeed": {
+        "dwd": 2.6,
+        "ecmwf:aifs": 5.28,
+        "noaa": 7.07,
+        "sg": 2.6
+      },
+      "windWaveDirection": {
+        "dwd": 337.94,
+        "meteo": 12.53,
+        "noaa": 335.63,
+        "sg": 12.53
+      },
+      "windWaveHeight": {
+        "dwd": 0.06,
+        "meteo": 0.04,
+        "noaa": 1.07,
+        "sg": 0.04
+      },
+      "windWavePeriod": {
+        "dwd": 1.28,
+        "meteo": 1.17,
+        "noaa": 6.15,
+        "sg": 1.17
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf:aifs": 20.26,
+        "noaa": 20.06,
+        "sg": 20.06
+      },
+      "cloudCover": {
+        "noaa": 99.63,
+        "sg": 99.63
+      },
+      "precipitation": {
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 242.7,
+        "sg": 242.7
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.18,
+        "sg": 0.18
+      },
+      "secondarySwellPeriod": {
+        "noaa": 11.67,
+        "sg": 11.67
+      },
+      "swellDirection": {
+        "dwd": 300.42,
+        "meteo": 335.6,
+        "noaa": 302.03,
+        "sg": 335.6
+      },
+      "swellHeight": {
+        "dwd": 0.69,
+        "meteo": 0.67,
+        "noaa": 0.49,
+        "sg": 0.67
+      },
+      "swellPeriod": {
+        "dwd": 7.97,
+        "meteo": 4.34,
+        "noaa": 8.54,
+        "sg": 4.34
+      },
+      "time": "2026-09-04T02:00:00+00:00",
+      "visibility": {
+        "noaa": 24.14,
+        "sg": 24.14
+      },
+      "waterTemperature": {
+        "meto": 18.44,
+        "sg": 18.44
+      },
+      "waveDirection": {
+        "meteo": 318.75,
+        "noaa": 333.32,
+        "sg": 318.75
+      },
+      "waveHeight": {
+        "dwd": 0.69,
+        "meteo": 0.86,
+        "noaa": 1.19,
+        "sg": 0.86
+      },
+      "wavePeriod": {
+        "meteo": 5.02,
+        "noaa": 6.48,
+        "sg": 5.02
+      },
+      "windDirection": {
+        "dwd": 343.95,
+        "ecmwf:aifs": 346.76,
+        "noaa": 5.82,
+        "sg": 343.95
+      },
+      "windSpeed": {
+        "dwd": 2.56,
+        "ecmwf:aifs": 5.33,
+        "noaa": 7.27,
+        "sg": 2.56
+      },
+      "windWaveDirection": {
+        "dwd": 336.88,
+        "meteo": 10.6,
+        "noaa": 335.59,
+        "sg": 10.6
+      },
+      "windWaveHeight": {
+        "dwd": 0.06,
+        "meteo": 0.04,
+        "noaa": 1.06,
+        "sg": 0.04
+      },
+      "windWavePeriod": {
+        "dwd": 1.27,
+        "meteo": 1.17,
+        "noaa": 6.15,
+        "sg": 1.17
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf:aifs": 20.15,
+        "noaa": 19.99,
+        "sg": 19.99
+      },
+      "cloudCover": {
+        "noaa": 99.5,
+        "sg": 99.5
+      },
+      "precipitation": {
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 213.55,
+        "sg": 213.55
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.11,
+        "sg": 0.11
+      },
+      "secondarySwellPeriod": {
+        "noaa": 13.84,
+        "sg": 13.84
+      },
+      "swellDirection": {
+        "dwd": 299.86,
+        "meteo": 335.32,
+        "noaa": 301.36,
+        "sg": 335.32
+      },
+      "swellHeight": {
+        "dwd": 0.69,
+        "meteo": 0.65,
+        "noaa": 0.54,
+        "sg": 0.65
+      },
+      "swellPeriod": {
+        "dwd": 8.0,
+        "meteo": 4.31,
+        "noaa": 8.44,
+        "sg": 4.31
+      },
+      "time": "2026-09-04T03:00:00+00:00",
+      "visibility": {
+        "noaa": 24.13,
+        "sg": 24.13
+      },
+      "waterTemperature": {
+        "meto": 18.44,
+        "sg": 18.44
+      },
+      "waveDirection": {
+        "meteo": 317.67,
+        "noaa": 333.1,
+        "sg": 317.67
+      },
+      "waveHeight": {
+        "dwd": 0.69,
+        "meteo": 0.85,
+        "noaa": 1.19,
+        "sg": 0.85
+      },
+      "wavePeriod": {
+        "meteo": 5.06,
+        "noaa": 6.54,
+        "sg": 5.06
+      },
+      "windDirection": {
+        "dwd": 342.88,
+        "ecmwf:aifs": 347.89,
+        "noaa": 3.27,
+        "sg": 342.88
+      },
+      "windSpeed": {
+        "dwd": 2.52,
+        "ecmwf:aifs": 5.38,
+        "noaa": 7.48,
+        "sg": 2.52
+      },
+      "windWaveDirection": {
+        "dwd": 335.82,
+        "meteo": 8.66,
+        "noaa": 335.56,
+        "sg": 8.66
+      },
+      "windWaveHeight": {
+        "dwd": 0.06,
+        "meteo": 0.04,
+        "noaa": 1.05,
+        "sg": 0.04
+      },
+      "windWavePeriod": {
+        "dwd": 1.26,
+        "meteo": 1.17,
+        "noaa": 6.14,
+        "sg": 1.17
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf:aifs": 20.05,
+        "noaa": 19.98,
+        "sg": 19.98
+      },
+      "cloudCover": {
+        "noaa": 92.33,
+        "sg": 92.33
+      },
+      "precipitation": {
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 227.96,
+        "sg": 227.96
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.19,
+        "sg": 0.19
+      },
+      "secondarySwellPeriod": {
+        "noaa": 12.88,
+        "sg": 12.88
+      },
+      "swellDirection": {
+        "dwd": 299.84,
+        "meteo": 333.1,
+        "noaa": 307.36,
+        "sg": 333.1
+      },
+      "swellHeight": {
+        "dwd": 0.69,
+        "meteo": 0.64,
+        "noaa": 0.64,
+        "sg": 0.64
+      },
+      "swellPeriod": {
+        "dwd": 8.03,
+        "meteo": 4.43,
+        "noaa": 8.14,
+        "sg": 4.43
+      },
+      "time": "2026-09-04T04:00:00+00:00",
+      "visibility": {
+        "noaa": 24.13,
+        "sg": 24.13
+      },
+      "waterTemperature": {
+        "meto": 18.43,
+        "sg": 18.43
+      },
+      "waveDirection": {
+        "meteo": 316.73,
+        "noaa": 332.43,
+        "sg": 316.73
+      },
+      "waveHeight": {
+        "dwd": 0.69,
+        "meteo": 0.85,
+        "noaa": 1.2,
+        "sg": 0.85
+      },
+      "wavePeriod": {
+        "meteo": 5.09,
+        "noaa": 6.65,
+        "sg": 5.09
+      },
+      "windDirection": {
+        "dwd": 343.52,
+        "ecmwf:aifs": 349.03,
+        "noaa": 2.88,
+        "sg": 343.52
+      },
+      "windSpeed": {
+        "dwd": 2.46,
+        "ecmwf:aifs": 5.42,
+        "noaa": 6.92,
+        "sg": 2.46
+      },
+      "windWaveDirection": {
+        "dwd": 336.36,
+        "meteo": 9.87,
+        "noaa": 335.82,
+        "sg": 9.87
+      },
+      "windWaveHeight": {
+        "dwd": 0.06,
+        "meteo": 0.04,
+        "noaa": 1.05,
+        "sg": 0.04
+      },
+      "windWavePeriod": {
+        "dwd": 1.24,
+        "meteo": 1.17,
+        "noaa": 6.28,
+        "sg": 1.17
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf:aifs": 19.94,
+        "noaa": 19.97,
+        "sg": 19.97
+      },
+      "cloudCover": {
+        "noaa": 85.17,
+        "sg": 85.17
+      },
+      "precipitation": {
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 242.36,
+        "sg": 242.36
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.27,
+        "sg": 0.27
+      },
+      "secondarySwellPeriod": {
+        "noaa": 11.92,
+        "sg": 11.92
+      },
+      "swellDirection": {
+        "dwd": 299.81,
+        "meteo": 330.89,
+        "noaa": 313.37,
+        "sg": 330.89
+      },
+      "swellHeight": {
+        "dwd": 0.69,
+        "meteo": 0.62,
+        "noaa": 0.73,
+        "sg": 0.62
+      },
+      "swellPeriod": {
+        "dwd": 8.07,
+        "meteo": 4.56,
+        "noaa": 7.83,
+        "sg": 4.56
+      },
+      "time": "2026-09-04T05:00:00+00:00",
+      "visibility": {
+        "noaa": 24.13,
+        "sg": 24.13
+      },
+      "waterTemperature": {
+        "meto": 18.42,
+        "sg": 18.42
+      },
+      "waveDirection": {
+        "meteo": 315.79,
+        "noaa": 331.75,
+        "sg": 315.79
+      },
+      "waveHeight": {
+        "dwd": 0.69,
+        "meteo": 0.84,
+        "noaa": 1.22,
+        "sg": 0.84
+      },
+      "wavePeriod": {
+        "meteo": 5.13,
+        "noaa": 6.75,
+        "sg": 5.13
+      },
+      "windDirection": {
+        "dwd": 344.17,
+        "ecmwf:aifs": 350.16,
+        "noaa": 2.48,
+        "sg": 344.17
+      },
+      "windSpeed": {
+        "dwd": 2.4,
+        "ecmwf:aifs": 5.47,
+        "noaa": 6.35,
+        "sg": 2.4
+      },
+      "windWaveDirection": {
+        "dwd": 336.9,
+        "meteo": 11.08,
+        "noaa": 336.09,
+        "sg": 11.08
+      },
+      "windWaveHeight": {
+        "dwd": 0.05,
+        "meteo": 0.04,
+        "noaa": 1.06,
+        "sg": 0.04
+      },
+      "windWavePeriod": {
+        "dwd": 1.22,
+        "meteo": 1.17,
+        "noaa": 6.42,
+        "sg": 1.17
+      }
+    },
+    {
+      "airTemperature": {
+        "ecmwf:aifs": 19.84,
+        "noaa": 19.96,
+        "sg": 19.96
+      },
+      "cloudCover": {
+        "noaa": 78.0,
+        "sg": 78.0
+      },
+      "precipitation": {
+        "ecmwf:aifs": 0.0,
+        "noaa": 0.0,
+        "sg": 0.0
+      },
+      "secondarySwellDirection": {
+        "noaa": 256.77,
+        "sg": 256.77
+      },
+      "secondarySwellHeight": {
+        "noaa": 0.35,
+        "sg": 0.35
+      },
+      "secondarySwellPeriod": {
+        "noaa": 10.96,
+        "sg": 10.96
+      },
+      "swellDirection": {
+        "dwd": 299.79,
+        "meteo": 328.67,
+        "noaa": 319.37,
+        "sg": 328.67
+      },
+      "swellHeight": {
+        "dwd": 0.69,
+        "meteo": 0.61,
+        "noaa": 0.83,
+        "sg": 0.61
+      },
+      "swellPeriod": {
+        "dwd": 8.1,
+        "meteo": 4.68,
+        "noaa": 7.53,
+        "sg": 4.68
+      },
+      "time": "2026-09-04T06:00:00+00:00",
+      "visibility": {
+        "noaa": 24.14,
+        "sg": 24.14
+      },
+      "waterTemperature": {
+        "meto": 18.48,
+        "sg": 18.48
+      },
+      "waveDirection": {
+        "meteo": 314.85,
+        "noaa": 331.08,
+        "sg": 314.85
+      },
+      "waveHeight": {
+        "dwd": 0.69,
+        "meteo": 0.84,
+        "noaa": 1.23,
+        "sg": 0.84
+      },
+      "wavePeriod": {
+        "meteo": 5.16,
+        "noaa": 6.86,
+        "sg": 5.16
+      },
+      "windDirection": {
+        "dwd": 344.81,
+        "ecmwf:aifs": 351.3,
+        "noaa": 2.09,
+        "sg": 344.81
+      },
+      "windSpeed": {
+        "dwd": 2.34,
+        "ecmwf:aifs": 5.52,
+        "noaa": 5.79,
+        "sg": 2.34
+      },
+      "windWaveDirection": {
+        "dwd": 337.44,
+        "meteo": 12.29,
+        "noaa": 336.35,
+        "sg": 12.29
+      },
+      "windWaveHeight": {
+        "dwd": 0.05,
+        "meteo": 0.04,
+        "noaa": 1.06,
+        "sg": 0.04
+      },
+      "windWavePeriod": {
+        "dwd": 1.2,
+        "meteo": 1.17,
+        "noaa": 6.56,
+        "sg": 1.17
+      }
     }
   ],
   "tide": [
-    {
-      "height": 1.4862203230690922,
-      "time": "2026-08-29T15:11:00+00:00",
-      "type": "high"
-    },
-    {
-      "height": -1.4026913484837014,
-      "time": "2026-08-29T21:20:00+00:00",
-      "type": "low"
-    },
-    {
-      "height": 1.318738430702504,
-      "time": "2026-08-30T03:30:00+00:00",
-      "type": "high"
-    },
     {
       "height": -1.3536542545170414,
       "time": "2026-08-30T09:27:00+00:00",
@@ -13228,6 +13156,16 @@
     {
       "height": -0.8888904377188767,
       "time": "2026-09-03T12:15:00+00:00",
+      "type": "low"
+    },
+    {
+      "height": 0.8674208975433633,
+      "time": "2026-09-03T18:39:00+00:00",
+      "type": "high"
+    },
+    {
+      "height": -0.7668493676119306,
+      "time": "2026-09-04T00:45:00+00:00",
       "type": "low"
     }
   ]
